@@ -1,19 +1,10 @@
 ## 2021/06/24
 
-#### Running: 10mins 1.5km
-
-#### Flat Bench Press\[Smith Machine\]: 40kg 12times 5sets
-
-#### Chest Press\[Machine\]: 20kg 12times 5sets
-
-#### Lat Pulldown\[Machine\]: 20kg 12times 5sets
-
-#### Seated Row\[Machine\]: 15kg 12times 3sets
-
-#### Shoulder Press\[Machine\]: 5kg 12times 5sets
-
-#### body info.
-
-1.  weight: 60.8kg
-
-* * *
+#### 1.Running: 10mins 1.5km
+#### 2.Flat Bench Press\[Smith Machine\]: 40kg 12times 5sets
+#### 3.Chest Press\[Machine\]: 20kg 12times 5sets
+#### 4.Lat Pulldown\[Machine\]: 20kg 12times 5sets
+#### 5.Seated Row\[Machine\]: 15kg 12times 3sets
+#### 6.Assisted Pullup Press\[Machine\]: -50kg 12times 3sets
+#### 7.Shoulder Press\[Machine\]: 5kg 12times 5sets
+#### BW: 60.8kg, LBM:, FP:
