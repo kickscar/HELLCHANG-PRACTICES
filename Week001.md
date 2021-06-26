@@ -19,6 +19,5 @@
 #### 7.Side Raise\[Free\]: 5kg 12times 5sets
 #### BW: 60.5kg, LBM:, FP:
 
-
-
-
+## 2021/06/26
+#### break & food supplement
