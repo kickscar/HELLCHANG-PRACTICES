@@ -23,7 +23,7 @@
 ## 2021/06/30
 
 #### 1.Running: 10mins 1.5km
-#### 2.Flat Bench Press\[Smith Machine\]: 40kg 12times 3sets, 50kg 7times 1sets, 60kg 7times 1sets  
+#### 2.Flat Bench Press\[Smith Machine\]: 40kg 12times 3sets, 50kg 7times 1set, 60kg 7times 1set 
 #### 3.Incline Bench Press\[Smith Machine\]: 40kg 12times 5sets  
 #### 4.Shoulder Press\[Machine\]: 10kg 12times 3sets(3th failed)
 #### 5.Barbell Shoulder Press\[Free\]: 10kg 12times 5sets
