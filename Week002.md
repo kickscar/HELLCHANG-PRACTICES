@@ -28,4 +28,13 @@
 #### 4.Shoulder Press\[Machine\]: 10kg 12times 3sets(3th failed)
 #### 5.Barbell Shoulder Press\[Free\]: 10kg 12times 5sets
 #### 6.Side Raise\[Free\]: 5kg 12times 5sets
-#### BW:60.2kg, LBM:, FP:
+#### BW:, LBM:, FP:
+
+## 2021/07/01
+
+#### 1.Running: 10mins 1.5km
+#### 2.Lat Pulldown[Machine]: 20kg 12times 3sets, 25kg 12times 1set, 30kg 12times 1set
+#### 3.Shoulder Press\[Machine\]: 10kg 12times 5sets
+#### 4.Leg Extension\[Machine\]: 25kg 12times 5sets
+#### 5.Side Raise\[Free\]: 5kg 12times 5sets
+#### BW:60.1(kg), BMI:20.3(kg/m2), PBF:15.2(%)
