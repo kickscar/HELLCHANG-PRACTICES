@@ -7,7 +7,7 @@
 #### 5.Barbell Shoulder Press\[Free\]: 10kg 12times 5sets
 #### 6.Side Raise\[Free\]: 5kg 12times 5sets
 #### 7.Cable Pushdown\[Free\]: 5kg 12times 3sets
-#### BW:, LBM:, FP:
+#### W:(kg), BMI:(kg/m2), PBF:(%)
 
 ## 2021/06/29
 
@@ -18,7 +18,7 @@
 #### 5.Leg Curl\[Machine\]: 25kg 12times 5sets
 #### 6.Lat Pulldown\[Machine\]: 20kg 12times 2sets, 25kg 12times 2sets, 30kg 12times 1set  
 #### 7.Seated Row\[Machine\]: 20kg 12times 5sets
-#### BW:, LBM:, FP:
+#### W:(kg), BMI:(kg/m2), PBF:(%)
 
 ## 2021/06/30
 
@@ -28,7 +28,7 @@
 #### 4.Shoulder Press\[Machine\]: 10kg 12times 3sets(3th failed)
 #### 5.Barbell Shoulder Press\[Free\]: 10kg 12times 5sets
 #### 6.Side Raise\[Free\]: 5kg 12times 5sets
-#### BW:, LBM:, FP:
+#### W:(kg), BMI:(kg/m2), PBF:(%)
 
 ## 2021/07/01
 
@@ -37,4 +37,4 @@
 #### 3.Shoulder Press\[Machine\]: 10kg 12times 5sets
 #### 4.Leg Extension\[Machine\]: 25kg 12times 5sets
 #### 5.Side Raise\[Free\]: 5kg 12times 5sets
-#### BW:60.1(kg), BMI:20.3(kg/m2), PBF:15.2(%)
+#### W:60.1(kg), BMI:20.3(kg/m2), PBF:15.2(%)
