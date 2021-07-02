@@ -19,11 +19,3 @@
 #### 7.Side Raise\[Free\]: 5kg 12times 5sets
 #### W:(kg), BMI:(kg/m2), PBF:(%)
 
-## 2021/06/26
-#### break
-#### W:(kg), BMI:(kg/m2), PBF:(%)
-
-## 2021/06/27
-#### break
-#### W:(kg), BMI:(kg/m2), PBF:(%)
-
