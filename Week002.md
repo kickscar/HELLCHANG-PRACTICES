@@ -38,3 +38,14 @@
 #### 4.Leg Extension\[Machine\]: 25kg 12times 5sets
 #### 5.Side Raise\[Free\]: 5kg 12times 5sets
 #### W:60.1(kg), BMI:20.3(kg/m2), PBF:15.2(%)
+
+## 2021/07/02
+
+#### 1.Running: 10mins 1.5km
+#### 2.Incline Bench Press\[Smith Machine\]: 40kg 12times 5sets 
+#### 3.Chest Fly \[Pec Deck Fly Machine\]: 20kg 12times 5sets 
+#### 4.Shoulder Press\[Machine\]: 10kg 12times 3sets
+#### 5.Side Raise\[Free\]: 5kg 12times 5sets
+#### 6.Hanging Leg Raise: 15times 3sets
+
+#### W:(kg), BMI:(kg/m2), PBF:(%)
