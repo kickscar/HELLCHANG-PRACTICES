@@ -16,6 +16,6 @@
 #### 4.Shoulder Press\[Machine\]: 15kg 12times 5sets(5th failed)
 #### 5.Leg Extension\[Machine\]: 20kg 12times 3sets, 25kg 12times 2sets, 30kg 10times 2sets
 #### 6.Leg Curl\[Machine\]: 20kg 12times 5sets(5th failed)
-#### 7.Side Raise\[Free\]: 5kg 12times 5sets
+#### 7.Side Lateral Raise\[Free\]: 4kg 12times 5sets
 #### W:(kg), BMI:(kg/m2), PBF:(%)
 
