@@ -20,3 +20,14 @@
 #### 5.Lat Pulldown\[Machine\]: 25kg 12times 5sets
 #### 6.Assisted Pullup\[Machin\]: -50kg 12times 3sets(3th failed)
 #### W:(kg), BMI:(kg/m2), PBF:(%)
+
+## 2021/07/07
+
+#### 0.Running: 10mins 1.5km
+#### 1.Shoulder Press\[Machine\]: 15kg 12times 5sets
+#### 2.Side Lateral Raise\[Free\]: 4kg 20times 5sets
+#### 3.Incline Bench Press\[Smith Machine\]: 30kg 12times 3sets, 40kg 12times 3sets
+#### 4.Chest Fly \[Pec Deck Fly Machine\]: 20kg 12times 5sets 
+#### 5.Seated Row\[Machine\]: 20kg 12times 5sets 
+#### 6.Hanging Leg Raise: 20times 3sets(3th failed)
+#### W:(kg), BMI:(kg/m2), PBF:(%)
