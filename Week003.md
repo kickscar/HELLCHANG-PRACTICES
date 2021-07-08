@@ -40,8 +40,5 @@
 #### 3.Lat Pulldown\[Machine\]: 20kg 12times 3sets, 25kg 12times 2sets  
 #### 4.Assisted Pullup\[Machin\]: -50kg 12times 5sets(5th failed)
 #### 5.Seated Leg Press\[Machin\]: 40kg 12times 5sets
-#### 6.Dumbbell Squat\[Machin\]: 4kg 12times 5sets
-#### W:(kg), BMI:(kg/m2), PBF:(%)
-
-
+#### 6.Dumbbell Squat\[Free\]: 4kg 12times 5sets
 #### W:(kg), BMI:(kg/m2), PBF:(%)
