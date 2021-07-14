@@ -29,7 +29,7 @@
 #### 3.Incline Bench Press\[Smith Machine\]: 30kg 12times 3sets, 40kg 12times 3sets
 #### 4.Chest Fly \[Pec Deck Fly Machine\]: 20kg 12times 5sets 
 #### 5.Seated Row\[Machine\]: 20kg 12times 5sets 
-#### 6.Hanging Leg Raise: 20times 3sets(3th failed)
+#### 6.Hanging Leg Raise: 5kg 20times 3sets(3th failed)
 #### W:(kg), BMI:(kg/m2), PBF:(%)
 
 
