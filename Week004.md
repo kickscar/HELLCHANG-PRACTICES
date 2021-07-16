@@ -36,3 +36,11 @@
 #### 6.Dumbbell Squat\[Free\]: 5kg 12times 7sets(6th, 7th failed)
 #### 7.Seated Leg Press\[Machine\]: 40kg 12times 5sets(4th, 5th failed)
 #### W:(kg), BMI:(kg/m2), PBF:(%)
+
+## 2021/07/16
+#### 1.Incline Bench Press\[Smith Machine\]: 35kg 12times 5sets, 40kg 12times 4sets(3rd, 4th failed) 
+#### 2.Assisted Pullup\[Machine\]: -50kg 12times 5sets, -45kg 12times 2Sets(1st, 2nd failed)
+#### 3.Shoulder Press[Machine]: 15kg 12times 3sets, 20kg 12times 2sets(1st, 2nd failed)
+#### 4.Seated Leg Press\[Machine\]: 40kg 12times 8sets(7th, 8th failed)
+#### 5.Hanging Leg Raise\[Free\]: 5kg 20times 7sets(6th, 7th failed)
+#### W:59(kg), BMI:(kg/m2), PBF:(%)
