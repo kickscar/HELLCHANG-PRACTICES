@@ -27,7 +27,7 @@
 #### 7.Side Lateral Raise\[Free\]: 5kg 20times 7sets(6th, 7th failed)
 #### W:(kg), BMI:(kg/m2), PBF:(%)
 
-## 2021/07/15 -[훈련 방식 바꿈: TDD: 빨리 실패하기] 
+## 2021/07/15
 #### 1.Assisted Pullup\[Machine\]: -50kg 12times 5sets, -45kg 12times 3Sets(2nd, 3rd failed)
 #### 2.Lat Pulldown\[Machine\]: 25kg 12times 8sets(7th, 8th failed)   
 #### 3.Flat Bench Press\[Smith Machine\]: 40kg 12times 5sets, 50kg 12times 2sets(1st, 2nd failed)
