@@ -21,5 +21,6 @@ Week001
 #### 6.Side Lateral Raise\[Free\]: 4kg 12times 5sets
 #### W:(kg), BMI:(kg/m2), PBF:(%)
 
-<img src='./_resources/romance-dawn.png' style='width:200px; border:2px solid #ddd' />
+---
+<img src='./_resources/romance-dawn.png' width='400px' />
 
