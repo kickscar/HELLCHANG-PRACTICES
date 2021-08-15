@@ -30,6 +30,3 @@
 #### 6.Lat Pulldown\[Machine\]: 20kg 12times 6sets(6th failed)
 #### 7.Shoulder Press\[Machine\]: 15kg 12times 3sets(2nd, 3rd failed)
 #### W:(kg), BMI:(kg/m2), PBF:(%)
-
----
-<img src='./_resources/buggypirate.png' width='400px' />
