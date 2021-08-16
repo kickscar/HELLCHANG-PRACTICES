@@ -44,3 +44,6 @@ Week003
 #### 5.Seated Leg Press\[Machine\]: 40kg 12times 5sets
 #### 6.Dumbbell Squat\[Free\]: 4kg 12times 5sets
 #### W:(kg), BMI:(kg/m2), PBF:(%)
+
+---
+<img src='./_resources/__003.jpg' width='400px' />
