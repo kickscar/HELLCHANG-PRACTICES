@@ -18,5 +18,15 @@
 #### 7.Side Lateral Raise\[Free\]: 5kg 20times 5sets
 #### W:(kg), BMI:(kg/m2), PBF:(%)
 
+## 2021/08/18
+#### 1.Assisted Pullup\[Machin\]: -45kg 12times 6sets(6th failed)
+#### 2.Leg Curl\[Machine\]: 20kg 12times 5sets
+#### 3.Chest Press\[Machine\]: 25kg 12times 5sets, 30kg 12times 2sets(no fails)
+#### 4.Seated Row\[Machine\]: 20kg 12times 3sets, 25kg 12times 2sets
+#### 5.Seated Leg Press\[Machine\]: 40kg 12times 6sets(no fails)
+#### 6.Incline Bench Press\[Smith Machine\]: 40kg 12times 5sets
+#### 7.Lat Pulldown\[Machine\]: 20kg 12times 3sets, 25kg 12times 2sets
+#### W:(kg), BMI:(kg/m2), PBF:(%)
+
 ---
 <img src='./_resources/__07.jpg' width='400px' />
