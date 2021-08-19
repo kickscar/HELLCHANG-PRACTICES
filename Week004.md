@@ -46,3 +46,6 @@ Week004
 #### 4.Seated Leg Press\[Machine\]: 40kg 12times 8sets(7th, 8th failed)
 #### 5.Side Lateral Raise\[Free\]: 5kg 20times 7sets(6th, 7th failed)
 #### W:59(kg), BMI:(kg/m2), PBF:(%)
+
+---
+<img src='./_resources/__004.png' width='400px' />
