@@ -15,3 +15,6 @@
 #### 6.Lat Pulldown\[Machine\]: 20kg 12times 3sets, 25kg 12times 3sets(2nd, 3rd failed)   
 #### 7.Side Lateral Raise\[Free\]: 5kg 20times 6sets
 #### W:(kg), BMI:(kg/m2), PBF:(%)
+
+---
+<img src='./_resources/__005.png' width='400px' />
