@@ -31,13 +31,21 @@
 ## 2021/08/19
 #### 1.Incline Bench Press\[Smith Machine\]: 40kg 12times 5sets
 #### 2.Seated Leg Press\[Machine\]: 40kg 12times 6sets(no fails)
-#### 3.Shoulder Press[Machine]: 15kg 12times 5sets
+#### 3.Shoulder Press[Machine]: 10kg 12times 5sets
 #### 4.Chest Press\[Machine\]: 25kg 12times 5sets
 #### 5.Leg Curl\[Machine\]: 20kg 12times 5sets
 #### 6.Side Lateral Raise\[Free\]: 5kg 20times 5sets
 #### 7.Lat Pulldown\[Machine\]: 20kg 12times 5sets
 #### W:(kg), BMI:(kg/m2), PBF:(%)
 
+## 2021/08/20
+#### 1.Seated Row\[Machine\]: 20kg 12times 1sets, 25kg 12times 5sets(no fails) 
+#### 2.Lat Pulldown\[Machine\]: 20kg 12times 2sets, 25kg 12times 3sets 
+#### 3.Seated Leg Press\[Machine\]: 40kg 12times 6sets(no fails)
+#### 4.Incline Bench Press\[Smith Machine\]: 40kg 12times 5sets
+#### 5.Shoulder Press[Machine]: 10kg 12times 5sets
+#### 6.Side Lateral Raise\[Free\]: 5kg 20times 5sets
+#### W:(kg), BMI:(kg/m2), PBF:(%)
 
 ---
 <img src='./_resources/__07.jpg' width='400px' />
