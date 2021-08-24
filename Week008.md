@@ -18,3 +18,6 @@
 #### 7.Shoulder Press[Machine]: 10kg 12times 5sets
 #### 8.Side Lateral Raise\[Free\]: 5kg 20times 5sets
 #### W:(kg), BMI:(kg/m2), PBF:(%)
+
+---
+<img src='./_resources/__008.jpg' width='400px' />
