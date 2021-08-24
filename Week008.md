@@ -20,4 +20,4 @@
 #### W:(kg), BMI:(kg/m2), PBF:(%)
 
 ---
-<img src='./_resources/__008.jpg' width='400px' />
+<img src='./_resources/__008.png' width='400px' />
