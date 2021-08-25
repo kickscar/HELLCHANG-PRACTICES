@@ -1,5 +1,5 @@
 ## 2021/08/10
-#### 1.Assisted Pullup\[Machin\]: -50kg 12times 1sets, -45kg 12times 4sets(4th failed)
+#### 1.Assisted Pullup\[Machine\]: -50kg 12times 1sets, -45kg 12times 4sets(4th failed)
 #### 2.Seated Row\[Machine\]: 15kg 12times 2sets, 20kg 12times 3sets(2nd, 3rd failed)  
 #### 3.Shoulder Press\[Machine\]: 15kg 12times 1sets, 20kg 12times 2sets(2nd failed)   
 #### 4.Seated Leg Press\[Machine\]: 40kg 12times 5sets
@@ -17,7 +17,7 @@
 #### 4.Leg Extension\[Machine\]: 20kg 12times 5sets
 #### 5.Lat Pulldown\[Machine\]: 25kg 12times 5sets(5th failed)
 #### 6.Side Lateral Raise\[Free\]: 5kg 20times 5sets
-#### 7.Assisted Pullup\[Machin\]: -50kg 12times 5sets  
+#### 7.Assisted Pullup\[Machine\]: -50kg 12times 5sets  
 #### W:(kg), BMI:(kg/m2), PBF:(%)
 
 
@@ -29,7 +29,7 @@
 #### 5.Seated Row\[Machine\]: 20kg 12times 7sets(6th, 7th failed)  
 #### 6.Lat Pulldown\[Machine\]: 20kg 12times 6sets(6th failed)
 #### 7.Shoulder Press\[Machine\]: 15kg 12times 3sets(2nd, 3rd failed)
-#### W:(kg), BMI:(kg/m2), PBF:(%)
+#### W:(58kg), BMI:(kg/m2), PBF:(%)
 
 ---
 <img src='./_resources/__06.jpg' width='400px' />
