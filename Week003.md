@@ -20,7 +20,7 @@ Week003
 #### 3.Leg Extension\[Machine\]: 25kg 12times 5sets, 30kg 12times 1set 
 #### 4.Leg Curl\[Machine\]: 25kg 12times 5sets
 #### 5.Lat Pulldown\[Machine\]: 25kg 12times 5sets
-#### 6.Assisted Pullup\[Machin\]: -50kg 12times 3sets(3th failed)
+#### 6.Assisted Pullup\[Machine\]: -50kg 12times 3sets(3th failed)
 #### W:(kg), BMI:(kg/m2), PBF:(%)
 
 ## 2021/07/07
