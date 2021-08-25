@@ -31,7 +31,7 @@ Week002
 
 ## 2021/07/01
 #### 0.Running: 10mins 1.5km
-#### 1.Lat Pulldown[Machine]: 20kg 12times 3sets, 25kg 12times 1set, 30kg 12times 1set
+#### 1.Lat Pulldown\[Machine\]: 20kg 12times 3sets, 25kg 12times 1set, 30kg 12times 1set
 #### 2.Shoulder Press\[Machine\]: 10kg 12times 5sets
 #### 3.Leg Extension\[Machine\]: 25kg 12times 5sets
 #### 4.Side Lateral Raise\[Free\]: 4kg 12times 5sets
