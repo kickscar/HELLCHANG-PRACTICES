@@ -30,5 +30,15 @@
 #### 7.Side Lateral Raise\[Free\]: 5kg 20times 5sets
 #### W:59(kg), BMI:(kg/m2), PBF:(%)
 
+## 2021/08/26
+#### 1.Incline Bench Press\[Smith Machine\]: 40kg 15times 7sets
+#### 2.Chest Press\[Machine\]: 20kg 15times 7sets
+#### 3.Leg Extension\[Machine\]: 20kg 15times 7sets
+#### 4.Leg Curl\[Machine\]: 20kg 15times 7sets
+#### 5.Assisted Pullup\[Machine\]: -50kg 12times 7sets
+#### 6.Shoulder Press\[Machine\]: 10kg 12times 7sets
+#### 7.Side Lateral Raise\[Free\]: 5kg 20times 7sets(6th, 7th failed)
+#### W:(kg), BMI:(kg/m2), PBF:(%)
+
 ---
 <img src='./_resources/__008.png' width='400px' />
