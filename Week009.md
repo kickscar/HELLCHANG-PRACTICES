@@ -8,7 +8,7 @@
 #### 7.Side Lateral Raise\[Free\]: 5kg 20times 7sets
 #### W:(kg), BMI:(kg/m2), PBF:(%)
 
-## 2021/08/30
+## 2021/08/31
 #### 1.Assisted Pullup\[Machine\]: -45kg 12times 7sets
 #### 2.Shoulder Press\[Machine\]: 10kg 12times 9sets(8th, 9th failed)
 #### 3.Leg Curl\[Machine\]: 20kg 12times 7sets
