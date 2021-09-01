@@ -25,7 +25,7 @@
 #### 2.Leg Curl\[Machine\]: 20kg 12times 7sets
 #### 3.Shoulder Press\[Machine\]: 10kg 12times 7sets
 #### 4.Seated Row\[Machine\]: 20kg 12times 7sets
-#### 5.Lat Pulldown\[Machine\]: 20kg 15times 7sets
+#### 5.Lat Pulldown\[Machine\]: 20kg 12times 7sets
 #### 6.Side Lateral Raise\[Free\]: 5kg 30times 5sets
 #### 7.Incline Bench Press\[Smith Machine\]: 40kg 12times 5sets
 #### 8.Leg Extension\[Machine\]: 20kg 12times 5sets
