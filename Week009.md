@@ -31,7 +31,7 @@
 #### 8.Leg Extension\[Machine\]: 20kg 12times 5sets
 #### W:(kg), BMI:(kg/m2), PBF:(%)
 
-## 2021/09/01
+## 2021/09/02
 #### 1.Lat Pulldown\[Machine\]: 20kg 12times 5sets, 25kg 12times 2sets
 #### 2.Chest Press\[Machine\]: 20kg 12times 5sets, 25kg 12times 2sets
 #### 3.Leg Curl\[Machine\]: 20kg 12times 5sets, 25kg 12times 2sets
