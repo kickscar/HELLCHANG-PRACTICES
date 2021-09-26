@@ -22,5 +22,15 @@
 #### 8.Assisted Pullup\[Machine\]: -40kg 20times 4sets
 #### 9.Side Lateral Raise\[Free\]: 5kg 20times 4sets
 
+## 2021/09/26
+#### 1.Incline Bench Press\[Smith Machine\]: 40kg 12times 5sets
+#### 2.Lat Pulldown\[Machine\]: 25kg 20times 4sets
+#### 3.Leg Extension\[Machine\]: 20kg 20times 4sets
+#### 4.Leg Curl\[Machine\]: 20kg 20times 4sets
+#### 5.Seated Row\[Machine\]: 25kg 20times 4sets
+#### 6.Shoulder Press\[Machine\]: 15kg 12times 5sets
+#### 7.Chest Press\[Machine\]: 25kg 12times 5sets
+#### 8.Side Lateral Raise\[Free\]: 5kg 20times 4sets
+
 ---
 <img src='./_resources/__011.png' width='400px' />
