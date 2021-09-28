@@ -10,11 +10,11 @@
 #### 9.Side Lateral Raise\[Free\]: 5kg 20times 5sets
 
 ## 2021/09/28
-#### 1.Dumbbell Lunge\[Free PT\]: 10kg 40times 4sets
-#### 2.Stiff Legged Deadlift\[Free PT\]: 20kg 20times 4sets
-#### 3.Squat\[Free PT\]: 20kg 20times 4sets
-#### 4.Side Lateral Raise\[Free PT\]: 5kg 20times 4sets
-#### 5.Front Lateral Raise\[Free PT\]: 5kg 20times 4sets
+#### 1.Dumbbell Lunge\[Free\]: 10kg 40times 4sets
+#### 2.Stiff Legged Deadlift\[Free\]: 20kg 20times 4sets
+#### 3.Squat\[Free\]: 20kg 20times 4sets
+#### 4.Side Lateral Raise\[Free\]: 5kg 20times 4sets
+#### 5.Front Lateral Raise\[Free\]: 5kg 20times 4sets
 
 ---
 <img src='./_resources/__012.png' width='400px' />
