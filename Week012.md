@@ -24,5 +24,16 @@
 #### 5.Lying Leg Curl\[Machine\]: 20kg 20times 4sets
 #### 6.Hip Adductor\[Machine\]: 20kg 20times 4sets
 
+## 2021/09/29
+#### 1.Warm Up: Foam Roller Stretching
+#### 2.Hip Bridge: 20times 4sets
+#### 3.Good Morning: 20times 3sets
+#### 4.Kettlebell Deadlift\[Free\]: 5kg 20times 4sets
+#### 5.Lat Pulldown\[Machine\]: 25kg 15times 5sets
+#### 6.Seated Row\[Machine\]: 25kg 15times 5sets
+#### 7.Side Lateral Raise\[Free\]: 5kg 20times 5sets
+#### 8.Lying Leg Curl\[Machine\]: 20kg 20times 4sets
+#### 9.Hip Adductor\[Machine\]: 20kg 20times 4sets
+
 ---
 <img src='./_resources/__012.png' width='400px' />
