@@ -24,7 +24,7 @@
 #### 5.Lying Leg Curl\[Machine\]: 20kg 20times 4sets
 #### 6.Hip Adductor\[Machine\]: 20kg 20times 4sets
 
-## 2021/09/29
+## 2021/09/30
 #### 1.Warm Up: Foam Roller Stretching
 #### 2.Hip Bridge: 20times 4sets
 #### 3.Good Morning: 20times 3sets
