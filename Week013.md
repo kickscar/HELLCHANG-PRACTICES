@@ -6,7 +6,7 @@
 #### 5.Shoulder Press\[Machine\]: 20kg 15times 5sets
 #### 6.Side Lateral Raise\[Free\]: 5kg 20times 5sets
 #### 7.Lat Pulldown\[Machine\]: 25kg 15times 5sets
-#### 8.Hip Adductor\[Machine\]: 20kg 20times 4sets
+#### 8.Hip Adductor\[Machine\]: 25kg 20times 4sets
 #### 9.Reverse Crunch: 25times 4sets
 
 
