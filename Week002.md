@@ -16,7 +16,7 @@ Week002
 #### 3.Leg Extension\[Machine\]: 25kg 12times 5sets
 #### 4.Leg Curl\[Machine\]: 25kg 12times 5sets
 #### 5.Lat Pulldown\[Machine\]: 20kg 12times 2sets, 25kg 12times 2sets, 30kg 12times 1set  
-#### 6.Seated Row\[Machine\]: 20kg 12times 5sets
+#### 6.Low Pulley\[Machine\]: 20kg 12times 5sets
 
 ## 2021/06/30
 #### 0.Running: 10mins 1.5km
