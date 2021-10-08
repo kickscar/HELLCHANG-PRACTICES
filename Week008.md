@@ -5,11 +5,11 @@
 #### 4.Leg Extension\[Machine\]: 25kg 12times 5sets
 #### 5.Shoulder Press\[Machine\]: 10kg 12times 5sets
 #### 6.Side Lateral Raise\[Free\]: 5kg 20times 5sets
-#### 7.Seated Row\[Machine\]: 20kg 12times 5sets
+#### 7.Low Pulley\[Machine\]: 20kg 12times 5sets
 
 ## 2021/08/24
 #### 1.Assisted Pullup\[Machine\]: -45kg 12times 5sets
-#### 2.Seated Row\[Machine\]: 20kg 12times 5sets, 25kg 12times 2sets
+#### 2.Low Pulley\[Machine\]: 20kg 12times 5sets, 25kg 12times 2sets
 #### 3.Incline Bench Press\[Smith Machine\]: 40kg 12times 5sets
 #### 4.Chest Press\[Machine\]: 25kg 12times 5sets
 #### 5.Power Leg Press\[Machine\]: 30kg 20times 5sets
