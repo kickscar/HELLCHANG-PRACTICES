@@ -30,7 +30,7 @@ Week004
 #### 1.Assisted Pullup\[Machine\]: -50kg 12times 5sets, -45kg 12times 3Sets(2nd, 3rd failed)
 #### 2.Lat Pulldown\[Machine\]: 25kg 12times 8sets(7th, 8th failed)   
 #### 3.Flat Bench Press\[Smith Machine\]: 40kg 12times 5sets, 50kg 12times 2sets(1st, 2nd failed)
-#### 4.Seated Row\[Machine\]: 20kg 12times 5sets, 25kg 12times 3sets(2nd, 3rd failed)
+#### 4.Low Pulley\[Machine\]: 20kg 12times 5sets, 25kg 12times 3sets(2nd, 3rd failed)
 #### 5.Chest Press\[Machine\]: 20kg 12times 5set, 25kg 12times 2sets(1st, 2nd failed)
 #### 6.Dumbbell Squat\[Free\]: 5kg 12times 7sets(6th, 7th failed)
 #### 7.Power Leg Press\[Machine\]: 40kg 12times 5sets(4th, 5th failed)
