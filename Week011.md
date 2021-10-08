@@ -1,5 +1,5 @@
 ## 2021/09/23
-#### 1.Seated Row\[Machine\]: 20kg 12times 5sets
+#### 1.Low Pulley\[Machine\]: 20kg 12times 5sets
 #### 2.Lat Pulldown\[Machine\]: 20kg 12times 5sets
 #### 3.Shoulder Press\[Machine\]: 15kg 12times 5sets
 #### 4.Chest Press\[Machine\]: 20kg 12times 5sets
@@ -13,7 +13,7 @@
 
 ## 2021/09/25
 #### 1.Lat Pulldown\[Machine\]: 20kg 20times 4sets
-#### 2.Seated Row\[Machine\]: 20kg 20times 4sets
+#### 2.Low Pulley\[Machine\]: 20kg 20times 4sets
 #### 3.Leg Extension\[Machine\]: 20kg 20times 4sets
 #### 4.Lying Leg Curl\[Machine\]: 20kg 20times 4sets
 #### 5.Shoulder Press\[Machine\]: 15kg 20times 4sets
@@ -27,7 +27,7 @@
 #### 2.Lat Pulldown\[Machine\]: 25kg 20times 4sets
 #### 3.Leg Extension\[Machine\]: 20kg 20times 4sets
 #### 4.Lying Leg Curl\[Machine\]: 20kg 20times 4sets
-#### 5.Seated Row\[Machine\]: 25kg 20times 4sets
+#### 5.Low Pulley\[Machine\]: 25kg 20times 4sets
 #### 6.Shoulder Press\[Machine\]: 15kg 12times 5sets
 #### 7.Chest Press\[Machine\]: 25kg 12times 5sets
 #### 8.Side Lateral Raise\[Free\]: 5kg 20times 4sets
