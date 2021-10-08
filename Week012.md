@@ -3,7 +3,7 @@
 #### 2.Chest Press\[Machine\]: 25kg 15times 5sets
 #### 3.Leg Extension\[Machine\]: 25kg 15times 5sets
 #### 4.Lying Leg Curl\[Machine\]: 20kg 15times 5sets
-#### 5.Seated Row\[Machine\]: 25kg 15times 5sets
+#### 5.Low Pulley\[Machine\]: 25kg 15times 5sets
 #### 6.Power Leg Press\[Machine\]: 30kg 15times 5sets
 #### 7.Shoulder Press\[Machine\]: 20kg 15times 5sets
 #### 8.Assisted Pullup\[Machine\]: -35kg 15times 5sets
@@ -30,7 +30,7 @@
 #### 3.Good Morning: 20times 3sets
 #### 4.Kettlebell Deadlift\[Free\]: 5kg 20times 4sets
 #### 5.Lat Pulldown\[Machine\]: 25kg 15times 5sets
-#### 6.Seated Row\[Machine\]: 25kg 15times 5sets
+#### 6.Low Pulley\[Machine\]: 25kg 15times 5sets
 #### 7.Side Lateral Raise\[Free\]: 5kg 20times 5sets
 #### 8.Lying Leg Curl\[Machine\]: 20kg 20times 4sets
 #### 9.Hip Adductor\[Machine\]: 20kg 20times 4sets
