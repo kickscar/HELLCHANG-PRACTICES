@@ -1,6 +1,6 @@
 ## 2021/08/16
 #### 1.Assisted Pullup\[Machine\]: -45kg 12times 7sets(6th, 7th failed)
-#### 2.Seated Row\[Machine\]: 20kg 12times 6sets(6th failed)
+#### 2.Low Pulley\[Machine\]: 20kg 12times 6sets(6th failed)
 #### 3.Incline Bench Press\[Smith Machine\]: 40kg 12times 5sets(4th, 5th failed?)
 #### 4.Seated Leg Press\[Machine\]: 40kg 12times 6sets(no fails)
 #### 5.Leg Curl\[Machine\]: 20kg 12times 5sets
@@ -38,7 +38,7 @@
 
 
 ## 2021/08/20
-#### 1.Seated Row\[Machine\]: 20kg 12times 1sets, 25kg 12times 5sets(no fails) 
+#### 1.Low Pulley\[Machine\]: 20kg 12times 1sets, 25kg 12times 5sets(no fails) 
 #### 2.Lat Pulldown\[Machine\]: 20kg 12times 2sets, 25kg 12times 3sets 
 #### 3.Power Leg Press\[Machine\]: 40kg 12times 6sets(no fails)
 #### 4.Incline Bench Press\[Smith Machine\]: 40kg 12times 5sets
