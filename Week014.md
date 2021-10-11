@@ -1,4 +1,4 @@
-## 2021/10/10
+## 2021/10/11
 #### 1.Hip Bridge: 20times 4sets
 #### 2.Kettlebell Deadlift\[Free\]: 20kg 20times 4sets
 #### 3.Lying Leg Curl\[Machine\]: 20kg 20times 4sets
