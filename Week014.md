@@ -8,6 +8,18 @@
 #### 7.Lat Pulldown\[Machine\]: 25kg 20times 4sets
 #### 8.Seated Row\[Machine\]: 25kg 20times 4sets
 #### 9.Leg Extension\[Machine\]: 25kg 20times 4sets
+
+## 2021/10/12
+#### 1.Lat Pulldown\[Machine\]: 25kg 20times 4sets
+#### 2.Low Pulley\[Machine\]: 25kg 20times 4sets
+#### 3.Chest Press\[Machine\]: 25kg 20times 4sets
+#### 4.Leg Extension\[Machine\]: 25kg 20times 4sets
+#### 5.Seated Row\[Machine\]: 25kg 20times 4sets
+#### 6.Kettlebell Deadlift\[Free\]: 20kg 20times 4sets
+#### 7.Lying Leg Curl\[Machine\]: 20kg 20times 4sets
+#### 8.Shoulder Press\[Machine\]: 20kg 20times 4sets
+#### 9.Hip Adductor\[Machine\]: 30kg 20times 4sets
+
 ---
 
 <img src='./_resources/__014.png' width='400px' />
