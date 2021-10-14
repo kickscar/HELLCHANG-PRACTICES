@@ -27,6 +27,18 @@
 #### 4.Basic Squat: 30times 3sets
 #### 5.Split Squat: 30times 3sets
 #### 6.Lying Leg Curl\[Machine\]: 20kg 20times 4sets
+
+## 2021/10/14
+#### 1.Basic Squat: 30times 3sets
+#### 2.Split Squat: 30times 3sets
+#### 3.Kettlebell Deadlift\[Free\]: 20kg 20times 4sets
+#### 4.Barbell Deadlift\[Free\]: 20kg 20times 4sets
+#### 5.Lat Pulldown\[Machine\]: 25kg 20times 4sets
+#### 6.Low Pulley\[Machine\]: 25kg 20times 4sets
+#### 7.Seated Row\[Machine\]: 25kg 20times 4sets
+
+#### W:60.2->60.8(kg), SMM:29.3->29.9(kg), BFM:7.9->7.3(kg), PBF:13.2->12.1(%)
+
 ---
 
 <img src='./_resources/__014.png' width='400px' />
