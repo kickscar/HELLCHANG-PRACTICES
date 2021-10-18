@@ -8,7 +8,7 @@
 #### 07.Barbell Deadlift\[Free\]: 20kg 20times 4sets
 #### 08.Lying Leg Curl\[Machine\]: 20kg 20times 4sets
 #### 09.Hip Adductor\[Machine\]: 30kg 20times 4sets
-#### 10.Side Lateral Raise\[Free\]: 5kg 20times 5sets
+#### 10.Side Lateral Raise\[Free\]: 5kg 20times 4sets
 
 
 ---
