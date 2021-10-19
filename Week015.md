@@ -10,6 +10,13 @@
 #### 09.Hip Adductor\[Machine\]: 30kg 20times 4sets
 #### 10.Side Lateral Raise\[Free\]: 5kg 20times 4sets
 
+## 2021/10/19
+#### 1.Sidely Hip Abduction: 30times 3sets
+#### 3.Basic Squat: 30times 3sets
+#### 4.Split Squat: 30times 6sets
+#### 5.Barbell Deadlift\[Free\]: 20kg 20times 4sets
+#### 6.Lying Leg Curl\[Machine\]: 20kg 20times 4sets
+#### 7.Power Leg Press\[Machine\]: 20kg 20times 4sets
 
 ---
 <img src='./_resources/__015.png' width='400px' />
