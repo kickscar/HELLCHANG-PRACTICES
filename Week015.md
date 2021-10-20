@@ -7,7 +7,7 @@
 #### 06.Kettlebell Deadlift\[Free\]: 20kg 20times 4sets
 #### 07.Barbell Deadlift\[Free\]: 20kg 20times 4sets
 #### 08.Lying Leg Curl\[Machine\]: 20kg 20times 4sets
-#### 09.Hip Adductor\[Machine\]: 30kg 20times 4sets
+#### 09.Hip Abductor/Adductor\[Machine\]: 30kg 20times 4sets
 #### 10.Side Lateral Raise\[Free\]: 5kg 20times 4sets
 
 ## 2021/10/19
@@ -23,7 +23,7 @@
 #### 2.Kettlebell Deadlift\[Free\]: 20kg 20times 4sets
 #### 3.Barbell Deadlift\[Free\]: 20kg 20times 4sets
 #### 4.Lying Leg Curl\[Machine\]: 20kg 20times 4sets
-#### 5.Hip Adductor\[Machine\]: 30kg 20times 4sets
+#### 5.Hip Abductor/Adductor\[Machine\]: 30kg 20times 4sets
 #### 6.Seated Row\[Machine\]: 25kg 20times 4sets
 #### 7.Power Leg Press\[Machine\]: 20kg 20times 4sets
 #### 8.Leg Extension\[Machine\]: 25kg 20times 4sets
