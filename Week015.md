@@ -18,5 +18,15 @@
 #### 6.Lying Leg Curl\[Machine\]: 20kg 20times 4sets
 #### 7.Power Leg Press\[Machine\]: 20kg 20times 4sets
 
+## 2021/10/20
+#### 1.Hip Bridge: 30times 3sets
+#### 2.Kettlebell Deadlift\[Free\]: 20kg 20times 4sets
+#### 3.Barbell Deadlift\[Free\]: 20kg 20times 4sets
+#### 4.Lying Leg Curl\[Machine\]: 20kg 20times 4sets
+#### 5.Hip Adductor\[Machine\]: 30kg 20times 4sets
+#### 6.Seated Row\[Machine\]: 25kg 20times 4sets
+#### 7.Power Leg Press\[Machine\]: 20kg 20times 4sets
+#### 8.Leg Extension\[Machine\]: 25kg 20times 4sets
+
 ---
 <img src='./_resources/__015.png' width='400px' />
