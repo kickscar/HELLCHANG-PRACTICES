@@ -4,7 +4,7 @@
 #### 3.Lying Leg Curl\[Machine\]: 20kg 20times 4sets
 #### 4.Hip Abductor/Adductor\[Machine\]: 30kg 20times 4sets
 #### 5.Incline Bench Press\[Smith Machine\]: 30kg 15times 4sets
-#### 6.Chest Press\[Machine\]: 25kg 20times 4sets
+#### 6.Seated Chest Press\[Machine\]: 25kg 20times 4sets
 #### 7.Lat Pulldown\[Machine\]: 25kg 20times 4sets
 #### 8.Seated Row\[Machine\]: 25kg 20times 4sets
 #### 9.Leg Extension\[Machine\]: 25kg 20times 4sets
@@ -12,7 +12,7 @@
 ## 2021/10/12
 #### 1.Lat Pulldown\[Machine\]: 25kg 20times 4sets
 #### 2.Low Pulley\[Machine\]: 25kg 20times 4sets
-#### 3.Chest Press\[Machine\]: 25kg 20times 4sets
+#### 3.Seated Chest Press\[Machine\]: 25kg 20times 4sets
 #### 4.Leg Extension\[Machine\]: 25kg 20times 4sets
 #### 5.Seated Row\[Machine\]: 25kg 20times 4sets
 #### 6.Kettlebell Deadlift\[Free\]: 20kg 20times 4sets
