@@ -15,7 +15,7 @@
 #### 3.Kettlebell Deadlift\[Free\]: 20kg 20times 4sets
 #### 4.Lying Leg Curl\[Machine\]: 20kg 20times 4sets
 #### 5.Hip Abductor/Adductor\[Machine\]: 25kg 20times 4sets
-#### 6.Chest Press\[Machine\]: 25kg 20times 4sets
+#### 6.Seated Chest Press\[Machine\]: 25kg 20times 4sets
 #### 7.Shoulder Press\[Machine\]: 20kg 20times 4sets
 #### 8.Low Pulley\[Machine\]: 25kg 20times 4sets
 #### 9.Reverse Crunch: 25times 4sets
@@ -41,7 +41,7 @@
 
 ## 2021/10/10
 #### 1.Hip Bridge: 20times 4sets
-#### 2.Chest Press\[Machine\]: 25kg 20times 4sets
+#### 2.Seated Chest Press\[Machine\]: 25kg 20times 4sets
 #### 3.Lat Pulldown\[Machine\]: 25kg 20times 4sets
 #### 4.Seated Row\[Machine\]: 25kg 20times 4sets
 #### 5.Low Pulley\[Machine\]: 25kg 20times 4sets
