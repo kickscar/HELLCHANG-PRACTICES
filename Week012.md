@@ -1,6 +1,6 @@
 ## 2021/09/27
 #### 1.Lat Pulldown\[Machine\]: 25kg 15times 5sets
-#### 2.Chest Press\[Machine\]: 25kg 15times 5sets
+#### 2.Seated Chest Press\[Machine\]: 25kg 15times 5sets
 #### 3.Leg Extension\[Machine\]: 25kg 15times 5sets
 #### 4.Lying Leg Curl\[Machine\]: 20kg 15times 5sets
 #### 5.Low Pulley\[Machine\]: 25kg 15times 5sets
