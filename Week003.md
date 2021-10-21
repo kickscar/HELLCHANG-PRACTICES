@@ -13,7 +13,7 @@ Week003
 ## 2021/07/06
 #### 0.Running: 10mins 1.5km
 #### 1.Shoulder Press\[Machine\]: 10kg 12times 1set, 15kg 12times 4sets
-#### 2.Chest Press\[Machine\]: 20kg 12times 1set, 25kg 12times 4sets
+#### 2.Seated Chest Press\[Machine\]: 20kg 12times 1set, 25kg 12times 4sets
 #### 3.Leg Extension\[Machine\]: 25kg 12times 5sets, 30kg 12times 1set 
 #### 4.Leg Curl\[Machine\]: 25kg 12times 5sets
 #### 5.Lat Pulldown\[Machine\]: 25kg 12times 5sets
