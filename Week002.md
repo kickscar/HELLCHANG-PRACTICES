@@ -11,7 +11,7 @@ Week002
 
 ## 2021/06/29
 #### 0.Running: 10mins 1.5km
-#### 1.Chest Press\[Machine\]: 20kg 12times 3sets, 25kg 12times 1set, 30kg 12times 1set  
+#### 1.Seated Chest Press\[Machine\]: 20kg 12times 3sets, 25kg 12times 1set, 30kg 12times 1set  
 #### 2.Chest Fly \[Pec Deck Fly Machine\]: 20kg 12times 5sets 
 #### 3.Leg Extension\[Machine\]: 25kg 12times 5sets
 #### 4.Leg Curl\[Machine\]: 25kg 12times 5sets
