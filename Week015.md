@@ -50,5 +50,16 @@
 #### 10.Hip Abductor/Adductor\[Machine\]: 30kg 20times 4sets
 #### 11.Seated Chest Press\[Machine\]: 30kg 20times 4sets
 
+## 2021/10/24
+#### 1.Push Up: 20times 3sets
+#### 2.Seated Chest Press\[Machine\]: 25kg 20times 4sets
+#### 3.Flat Chest Press\[Machine\]: 25kg 20times 4sets
+#### 4.Hip Bridge: 30times 3sets
+#### 5.Dumbbell Deadlift\[Free\]: 20kg 20times 4sets
+#### 6.Barbell Deadlift\[Free\]: 20kg 20times 4sets
+#### 7.Lying Leg Curl\[Machine\]: 20kg 20times 4sets
+#### 8.Back Extension: 15times 4sets
+#### 9.Hip Abductor/Adductor\[Machine\]: 30kg 20times 4sets
+
 ---
 <img src='./_resources/__015.png' width='400px' />
