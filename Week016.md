@@ -9,5 +9,12 @@
 #### 8.Lying Leg Curl\[Machine\]: 20kg 20times 4sets
 #### 9.Back Extension: 15times 4sets
 
+## 2021/10/26
+#### 1.Push Up: 20times 3sets
+#### 2.Seated Chest Press\[Machine\]: 25kg 15times 2sets, 30kg 15times 2sets, 40kg 15times 2sets
+#### 3.Flat Chest Press\[Machine\]: 25kg 15times 2sets, 30kg 15times 2sets, 40kg 15times 2sets
+#### 4.Incline Chest Press\[Machine\]: 25kg 15times 2sets, 30kg 15times 2sets, 40kg 15times 2sets
+#### 5.Flat Bench Press\[Free\]: 20kg 20times 2sets, 30kg 20times 2sets
+
 ---
 <img src='./_resources/__016.jpg' width='400px' />
