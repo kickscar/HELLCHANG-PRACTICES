@@ -31,7 +31,7 @@
 #### 1.Hip Thrust: 30times 4sets
 #### 2.Barbell Deadlift\[Free\]: 20kg 20times 4sets
 #### 3.Lying Leg Curl\[Machine\]: 20kg 20times 4sets
-#### 4.TRX Back Extension: 15times 4sets
+#### 4.TRX Rowing: 15times 4sets
 #### 5.Wide Pulldown Rear\[Machine\]: 20kg 20times 4sets
 #### 6.Straight Arm Pulldown\[Free\]: 20kg 20times 4sets
 
