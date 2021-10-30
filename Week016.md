@@ -35,5 +35,16 @@
 #### 5.Wide Pulldown Rear\[Machine\]: 20kg 20times 4sets
 #### 6.Straight Arm Pulldown\[Free\]: 20kg 20times 4sets
 
+## 2021/10/30
+#### 1.Push Up: 20times 3sets
+#### 2.Flat Bench Press\[Free\]: 30kg 15times 4sets
+#### 3.Seated Chest Press\[Machine\]: 40kg 20times 4sets
+#### 4.Flat Chest Press\[Machine\]: 40kg 15times 4sets
+#### 5.Hip Thrust: 30times 3sets
+#### 6.Barbell Deadlift\[Free\]: 20kg 20times 4sets
+#### 7.Lying Leg Curl\[Machine\]: 20kg 20times 4sets
+#### 8.Hip Abductor/Adductor\[Machine\]: 30kg 20times 4sets
+#### 9.Leg Extension\[Machine\]: 25kg 20times 4sets
+
 ---
 <img src='./_resources/__016.jpg' width='400px' />
