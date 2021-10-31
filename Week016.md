@@ -46,5 +46,16 @@
 #### 8.Hip Abductor/Adductor\[Machine\]: 30kg 20times 4sets
 #### 9.Leg Extension\[Machine\]: 25kg 20times 4sets
 
+## 2021/10/31
+#### 1.Seated Row\[Machine\]: 30kg 15times 5sets
+#### 2.Lat Pulldown\[Machine\]: 30kg 15times 5sets
+#### 3.Low Pulley\[Machine\]: 30kg 15times 5sets
+#### 4.Wide Pulldown Rear\[Machine\]: 40kg 15times 5sets
+#### 5.Straight Arm Pulldown\[Free\]: 20kg 15times 5sets
+#### 6.Leg Extension\[Machine\]: 30kg 15times 5sets
+#### 7.Hip Thrust: 30times 3sets
+#### 8.Barbell Deadlift\[Free\]: 30kg 15times 5sets
+#### 9.Lying Leg Curl\[Machine\]: 25kg 15times 5sets
+
 ---
 <img src='./_resources/__016.jpg' width='400px' />
