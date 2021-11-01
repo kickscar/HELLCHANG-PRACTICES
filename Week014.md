@@ -1,7 +1,7 @@
 ## 2021/10/11
 #### 1.Hip Bridge: 20times 4sets
 #### 2.Kettlebell Deadlift\[Free\]: 20kg 20times 4sets
-#### 3.Lying Leg Curl\[Machine\]: 20kg 20times 4sets
+#### 3.Lying Leg Curls\[Machine\]: 20kg 20times 4sets
 #### 4.Hip Abductor/Adductor\[Machine\]: 30kg 20times 4sets
 #### 5.Incline Bench Press\[Smith Machine\]: 30kg 15times 4sets
 #### 6.Seated Chest Press\[Machine\]: 25kg 20times 4sets
@@ -16,7 +16,7 @@
 #### 4.Leg Extension\[Machine\]: 25kg 20times 4sets
 #### 5.Seated Row\[Machine\]: 25kg 20times 4sets
 #### 6.Kettlebell Deadlift\[Free\]: 20kg 20times 4sets
-#### 7.Lying Leg Curl\[Machine\]: 20kg 20times 4sets
+#### 7.Lying Leg Curls\[Machine\]: 20kg 20times 4sets
 #### 8.Shoulder Press\[Machine\]: 20kg 20times 4sets
 #### 9.Hip Abductor/Adductor\[Machine\]: 30kg 20times 4sets
 
@@ -26,7 +26,7 @@
 #### 3.Hip Abductor/Adductor\[Machine\]: 30kg 20times 4sets
 #### 4.Basic Squat: 30times 3sets
 #### 5.Split Squat: 30times 3sets
-#### 6.Lying Leg Curl\[Machine\]: 20kg 20times 4sets
+#### 6.Lying Leg Curls\[Machine\]: 20kg 20times 4sets
 
 ## 2021/10/14
 #### 1.Basic Squat: 30times 3sets
