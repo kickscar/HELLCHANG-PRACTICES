@@ -22,7 +22,7 @@
 ## 2021/08/12
 #### 1.Incline Bench Press\[Smith Machine\]: 40kg 12times 6sets(6th failed)
 #### 2.Assisted Pullup\[Machin\]: -50kg 12times 5sets  
-#### 3.Leg Curl\[Machine\]: 20kg 12times 5sets
+#### 3.Lying Leg Curls\[Machine\]: 20kg 12times 5sets
 #### 4.Leg Extension\[Machine\]: 20kg 12times 5sets
 #### 5.Low Pulley\[Machine\]: 20kg 12times 7sets(6th, 7th failed)  
 #### 6.Lat Pulldown\[Machine\]: 20kg 12times 6sets(6th failed)
