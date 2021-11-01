@@ -11,7 +11,7 @@
 #### 1.Incline Bench Press\[Smith Machine\]: 40kg 12times 7sets(6th, 7th failed)
 #### 2.Seated Chest Press\[Machine\]: 25kg 12times 6sets(no fails)
 #### 3.Power Leg Press\[Machine\]: 40kg 12times 6sets(no fails)
-#### 4.Leg Curl\[Machine\]: 20kg 12times 5sets
+#### 4.Lying Leg Curls\[Machine\]: 20kg 12times 5sets
 #### 5.Leg Extension\[Machine\]: 20kg 12times 5sets
 #### 6.Lat Pulldown\[Machine\]: 20kg 12times 2sets, 25kg 12times 3sets
 #### 7.Side Lateral Raise\[Free\]: 5kg 20times 5sets
@@ -19,7 +19,7 @@
 
 ## 2021/08/18
 #### 1.Assisted Pullup\[Machine\]: -45kg 12times 6sets(6th failed)
-#### 2.Leg Curl\[Machine\]: 20kg 12times 5sets
+#### 2.Lying Leg Curls\[Machine\]: 20kg 12times 5sets
 #### 3.Seated Chest Press\[Machine\]: 25kg 12times 5sets, 30kg 12times 2sets(no fails)
 #### 4.Seated Row\[Machine\]: 20kg 12times 3sets, 25kg 12times 2sets
 #### 5.Power Leg Press\[Machine\]: 40kg 12times 6sets(no fails)
@@ -32,7 +32,7 @@
 #### 2.Power Leg Press\[Machine\]: 40kg 12times 6sets(no fails)
 #### 3.Shoulder Press\[Machine\]: 10kg 12times 5sets
 #### 4.Seated Chest Press\[Machine\]: 25kg 12times 5sets
-#### 5.Leg Curl\[Machine\]: 20kg 12times 5sets
+#### 5.Lying Leg Curls\[Machine\]: 20kg 12times 5sets
 #### 6.Side Lateral Raise\[Free\]: 5kg 20times 5sets
 #### 7.Lat Pulldown\[Machine\]: 20kg 12times 5sets
 
