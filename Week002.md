@@ -14,7 +14,7 @@ Week002
 #### 1.Seated Chest Press\[Machine\]: 20kg 12times 3sets, 25kg 12times 1set, 30kg 12times 1set  
 #### 2.Chest Fly \[Pec Deck Fly Machine\]: 20kg 12times 5sets 
 #### 3.Leg Extension\[Machine\]: 25kg 12times 5sets
-#### 4.Leg Curl\[Machine\]: 25kg 12times 5sets
+#### 4.Lying Leg Curls\[Machine\]: 25kg 12times 5sets
 #### 5.Lat Pulldown\[Machine\]: 20kg 12times 2sets, 25kg 12times 2sets, 30kg 12times 1set  
 #### 6.Low Pulley\[Machine\]: 20kg 12times 5sets
 
