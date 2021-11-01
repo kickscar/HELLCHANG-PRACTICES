@@ -1,4 +1,4 @@
-## 2021/10/28
+## 2021/11/01
 #### 1.Sidely Hip Abduction: 30times 8sets
 #### 2.TRX Lunge: 20times 8sets
 #### 3.Leg Extension\[Machine\]: 30kg 20times 5sets
