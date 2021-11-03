@@ -17,10 +17,11 @@
 
 ## 2021/11/03
 #### 1.Push Up: 20times 4sets
-#### 2.Chest Fly\[Pec Deck Fly Machine\]: 20kg 12times 5sets
+#### 2.Chest Fly\[Pec Deck Fly Machine\]: 20kg 15times 5sets
 #### 3.Incline Chest Press\[Machine\]: 20kg 15times 1set, 25kg 15time 1set, 30kg 15times 1sets, 35kg 15times 1sets(fail), 30kg 15times 1sets, 25kg 15time 1set   
-#### 4.Shoulder Press\[Machine\]: 20kg 15times 5sets
-#### 5.Side Lateral Raise\[Free\]: 5kg 20times 5sets
+#### 4.Dumbbell Chest Press\[Free\]: 20kg 15time 2set, 25kg 15time 3set 
+#### 5.Shoulder Press\[Machine\]: 20kg 15times 5sets
+#### 6.Side Lateral Raise\[Free\]: 5kg 20times 5sets
 
 ---
 
