@@ -23,6 +23,16 @@
 #### 5.Shoulder Press\[Machine\]: 20kg 15times 5sets
 #### 6.Side Lateral Raise\[Free\]: 5kg 20times 5sets
 
+## 2021/11/05
+#### 1.Lat Pulldown\[Machine\]: 20kg 20times 1sets, 25kg 20times 2sets, 30kg 20times 2sets 
+#### 2.Low Pulley\[Machine\]: 20kg 20times 1sets, 25kg 20times 2sets, 30kg 20times 2sets
+#### 3.Seated Row\[Machine\]: 25kg 20times 4sets
+#### 4.Wide Pulldown Rear\[Machine\]: 30kg 15times 5sets
+#### 5.Straight Arm Pulldown\[Free\]: 15kg 20times 5sets
+#### 6.Leg Extension\[Machine\]: 20kg 20times 1sets, 25kg 20times 2sets, 30kg 20times 2sets
+#### 7.Shoulder Press\[Machine\]: 20kg 15times 5sets
+#### 8.Side Lateral Raise\[Free\]: 5kg 20times 5sets
+
 ---
 
 <img src='./_resources/__017.png' width='400px' />
