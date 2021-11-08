@@ -12,4 +12,4 @@
 
 
 ---
-<img src='./_resources/__018.jpg' width='400px' />
+<img src='./_resources/__018.png' width='400px' />
