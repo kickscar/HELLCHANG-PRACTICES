@@ -9,6 +9,13 @@
 #### 8.Leg Extension\[Machine\]: 25kg 20times 5sets
 #### 9.Power Leg Press\[Machine\]: 20kg 20times 5sets
 
+## 2021/11/09
+#### 1.Sidely Hip Abduction: 30times 8sets
+#### 2.Basic Squat: 30times 4sets
+#### 3.TRX Suspended Lunge: 30times 8sets
+#### 4.Hack Squat\[Machine\]: 30kg 15times 4sets
+#### 5.Lying Leg Curls\[Machine\]: 30kg 20times 1sets, 35kg 20times 1sets, 40kg 20times 2sets
+#### 6.Hip Abductor/Adductor\[Machine\]: 30kg 20times 1sets, 35kg 20times 1sets, , 40kg 20times 2sets
 
 
 ---
