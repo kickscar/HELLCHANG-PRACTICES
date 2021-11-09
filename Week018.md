@@ -15,7 +15,7 @@
 #### 3.TRX Suspended Lunge: 30times 8sets
 #### 4.Hack Squat\[Machine\]: 30kg 15times 4sets
 #### 5.Lying Leg Curls\[Machine\]: 30kg 20times 1sets, 35kg 20times 1sets, 40kg 20times 2sets
-#### 6.Hip Abductor\[Machine\]: 30kg 20times 1sets, 35kg 20times 1sets, , 40kg 20times 2sets
+#### 6.Hip Abduction\[Machine\]: 30kg 20times 1sets, 35kg 20times 1sets, , 40kg 20times 2sets
 
 
 ---
