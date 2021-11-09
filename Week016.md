@@ -43,7 +43,7 @@
 #### 5.Hip Thrust: 30times 3sets
 #### 6.Barbell Deadlift\[Free\]: 20kg 20times 4sets
 #### 7.Lying Leg Curls\[Machine\]: 20kg 20times 4sets
-#### 8.Hip Abductor/Adductor\[Machine\]: 30kg 20times 4sets
+#### 8.Hip Adduction\[Machine\]: 30kg 20times 4sets
 #### 9.Leg Extension\[Machine\]: 25kg 20times 4sets
 
 ## 2021/10/31
