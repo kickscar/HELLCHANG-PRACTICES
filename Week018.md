@@ -17,6 +17,15 @@
 #### 5.Lying Leg Curls\[Machine\]: 30kg 20times 1sets, 35kg 20times 1sets, 40kg 20times 2sets
 #### 6.Hip Abduction\[Machine\]: 30kg 20times 1sets, 35kg 20times 1sets, , 40kg 20times 2sets
 
+## 2021/11/10
+#### 1.Lat Pulldown\[Machine\]: 20kg 20times 1sets, 25kg 20times 2sets, 30kg 20times 1sets, 35kg 20times 1sets
+#### 2.Low Pulley\[Machine\]: 20kg 20times 1sets, 25kg 20times 2sets, 30kg 20times 2sets
+#### 3.Seated Row\[Machine\]: 20kg 20times 1sets, 25kg 20times 2sets, 30kg 20times 2sets
+#### 4.Wide Pulldown Rear\[Machine\]: 40kg 15times 5sets
+#### 5.Straight Arm Pulldown\[Free\]: 15kg 15times 5sets
+#### 6.Flat Bench Press\[Free\]: 35kg 20times 5sets
+#### 7.Chest Fly\[Pec Deck Fly Machine\]: 30kg 20times 5sets
+#### 8.Dumbbell Chest Pre\[Free\]: 20kg 20times 3set, 25kg 20times 2set
 
 ---
 <img src='./_resources/__018.png' width='400px' />
