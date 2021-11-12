@@ -35,5 +35,13 @@
 #### 5.Straight Arm Pulldown\[Free\]: 20kg 15times 5sets
 #### 6.TRX Rowing: 15times 5sets
 
+## 2021/11/12
+#### 1.Dumbbell Deadlift\[Free\]: 25kg 15times 5sets
+#### 2.Hack Squat\[Machine\]: 30kg 15times 5sets
+#### 3.Lying Leg Curls\[Machine\]: 25kg 20times 2sets, 30kg 20times 2sets, 35kg 20times 1sets
+#### 4.Hip Abduction\[Machine\]: 30kg 20times 4sets
+#### 5.Hip Adduction\[Machine\]: 30kg 20times 4sets
+#### 6.Power Leg Press\[Machine\]: 20kg 20times 5sets
+
 ---
 <img src='./_resources/__018.png' width='400px' />
