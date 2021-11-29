@@ -9,6 +9,16 @@
 #### 8.Hip Abduction\[Machine\]: 30kg 20times 5sets
 #### 9.Hip Adduction\[Machine\]: 30kg 20times 5sets
 
+## 2021/11/29
+#### 1.Lat Pulldown\[Machine\]: 20kg 20times 3sets, 25kg 20times 2sets
+#### 2.Low Pulley\[Machine\]: 20kg 20times 3sets, 25kg 20times 2sets
+#### 3.Seated Row\[Machine\]: 20kg 20times 3sets, 25kg 20times 2sets
+#### 4.Wide Pulldown Rear\[Machine\]: 30kg 15times 5sets
+#### 5.Assisted Pullup\[Machine\]: -35kg 15times 5sets
+#### 6.Leg Extension\[Machine\]: 20kg 20times 2sets, 25kg 20times 3sets
+#### 7.Power Leg Press\[Machine\]: 20kg 15times 5sets
+#### 8.Shoulder Press\[Machine\]: 20kg 15times 5sets
+#### 9.Side Lateral Raise\[Free\]: 5kg 20times 5sets
 
 ---
 <img src='./_resources/__019.png' width='400px' />
