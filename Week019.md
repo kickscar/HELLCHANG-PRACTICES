@@ -20,5 +20,13 @@
 #### 8.Shoulder Press\[Machine\]: 20kg 15times 5sets
 #### 9.Side Lateral Raise\[Free\]: 5kg 20times 5sets
 
+## 2021/11/30
+#### 1.Plank: 1mins 3times
+#### 2.Sidely Hip Abduction: 20times 6sets
+#### 3.Barbell Deadlift\[Free\]: 20kg 20times 5sets
+#### 4.Wrist Roller: 2kg 5sets
+#### 5.Hip Abduction\[Machine\]: 40kg 20times 5sets
+#### 6.Hip Adduction\[Machine\]: 40kg 20times 5sets
+
 ---
 <img src='./_resources/__019.png' width='400px' />
