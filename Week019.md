@@ -22,11 +22,19 @@
 
 ## 2021/11/30
 #### 1.Plank: 1mins 3times
-#### 2.Sidely Hip Abduction: 20times 6sets
+#### 2.Sidely Hip Abduction: 20times 3sets
 #### 3.Barbell Deadlift\[Free\]: 20kg 20times 5sets
 #### 4.Wrist Roller: 2kg 5sets
 #### 5.Hip Abduction\[Machine\]: 40kg 20times 5sets
 #### 6.Hip Adduction\[Machine\]: 40kg 20times 5sets
+
+## 2021/12/01
+#### 1.Plank: 1mins 3times
+#### 2.Sidely Hip Abduction: 30times 3sets
+#### 3.Barbell Deadlift\[Free\]: 20kg 20times 5sets
+#### 4.Lat Pulldown\[Machine\]: 25kg 20times 5sets
+#### 5.Low Pulley\[Machine\]: 25kg 20times 5sets
+#### 6.Dumbbell Bent Over Row\[Free\]: 20kg 20times 5sets
 
 ---
 <img src='./_resources/__019.png' width='400px' />
