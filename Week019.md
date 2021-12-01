@@ -25,8 +25,9 @@
 #### 2.Sidely Hip Abduction: 20times 3sets
 #### 3.Barbell Deadlift\[Free\]: 20kg 20times 5sets
 #### 4.Wrist Roller: 2kg 5sets
-#### 5.Hip Abduction\[Machine\]: 40kg 20times 5sets
-#### 6.Hip Adduction\[Machine\]: 40kg 20times 5sets
+#### 5.Split Squat: 20times 3sets
+#### 6.Hip Abduction\[Machine\]: 40kg 20times 5sets
+#### 7.Hip Adduction\[Machine\]: 40kg 20times 5sets
 
 ## 2021/12/01
 #### 1.Plank: 1mins 3times
