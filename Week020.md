@@ -1,4 +1,4 @@
-## 2021/11/30
+## 2021/12/07
 #### 1.Plank: 1mins 3times
 #### 2.Sidely Hip Abduction: 20times 5sets
 #### 3.Barbell Deadlift\[Free\]: 40kg 15times 5sets
