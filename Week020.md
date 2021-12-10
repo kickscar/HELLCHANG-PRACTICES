@@ -30,6 +30,17 @@
 #### 6.Straight Arm Pulldown\[Free\]: 30kg 15times 4sets
 #### 7.Back Extension: 15times 5sets
 
+## 2021/12/10
+#### 1.Plank: 1mins 3times
+#### 2.Barbell Deadlift\[Free\]: 40kg 12times 4sets
+#### 3.Lying Leg Curls\[Machine\]: 35kg 15times 5sets
+#### 4.Hip Abduction\[Machine\]: 40kg 15times 5sets
+#### 5.Hip Adduction\[Machine\]: 35kg 15times 5sets
+#### 6.Flat Bench Press\[Free\]: 40kg 15times 4sets
+#### 7.Seated Chest Press\[Machine\]: 40kg 15times 4sets
+#### 8.Incline Chest Press\[Machine\]: 40kg 15times 4sets
+#### 9.Leg Extension\[Machin]: 35kg 15times 5sets
 
 ---
+
 <img src='./_resources/__020.jpg' width='400px' />
