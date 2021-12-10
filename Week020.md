@@ -39,7 +39,7 @@
 #### 6.Flat Bench Press\[Free\]: 40kg 15times 4sets
 #### 7.Seated Chest Press\[Machine\]: 40kg 15times 4sets
 #### 8.Incline Chest Press\[Machine\]: 40kg 15times 4sets
-#### 9.Leg Extension\[Machin]: 35kg 15times 5sets
+#### 9.Leg Extension\[Machine]: 35kg 15times 5sets
 
 ---
 
