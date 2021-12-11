@@ -34,7 +34,7 @@
 #### 2.Sidely Hip Abduction: 30times 3sets
 #### 3.Barbell Deadlift\[Free\]: 20kg 20times 5sets
 #### 4.Lat Pulldown\[Machine\]: 25kg 20times 5sets
-#### 5.Low Pulley\[Machine\]: 25kg 20times 5sets
+#### 5.Seated Row\[Machine\]: 25kg 20times 5sets
 #### 6.Dumbbell Bent Over Row\[Free\]: 20kg 20times 5sets
 
 ## 2021/12/02
@@ -45,7 +45,7 @@
 #### 5.Incline Chest Press\[Machine\]: 40kg 15times 5sets
 #### 6.Chest Fly\[Pec Deck Fly Machine\]: 20kg 15times 5sets
 #### 7.Lat Pulldown\[Machine\]: 25kg 20times 5sets
-#### 8.Low Pulley\[Machine\]: 25kg 20times 5sets
+#### 8.Seated Row\[Machine\]: 25kg 20times 5sets
 
 ---
 <img src='./_resources/__019.png' width='400px' />
