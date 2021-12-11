@@ -14,7 +14,7 @@
 #### 4.Seated Chest Press\[Machine\]: 35kg 15times 5sets
 #### 5.Incline Chest Press\[Machine\]: 40kg 15times 5sets
 #### 5.Lat Pulldown\[Machine\]: 30kg 15times 5sets
-#### 6.Low Pulley\[Machin]: 30kg 15times 5sets
+#### 6.Seated Row\[Machin]: 30kg 15times 5sets
 #### 8.Back Extension: 15times 4sets
 #### 9.Barbell Deadlift\[Free\]: 40kg 12times 3sets
 #### 10.Lying Leg Curls\[Machine\]: 35kg 15times 5sets
@@ -40,6 +40,17 @@
 #### 7.Seated Chest Press\[Machine\]: 40kg 15times 4sets
 #### 8.Incline Chest Press\[Machine\]: 40kg 15times 4sets
 #### 9.Leg Extension\[Machine]: 35kg 15times 5sets
+
+## 2021/12/11
+#### 1.Plank: 1mins 3times
+#### 2.Lat Pulldown\[Machine\]: 30kg 15times 4sets
+#### 3.Seated Row\[Machin]: 30kg 15times 4sets
+#### 4.Wide Pulldown Rear\[Machine\]: 30kg 15times 4sets
+#### 5.Straight Arm Pulldown\[Free\]: 20kg 20times 3sets
+#### 6.Back Extension: 20times 3sets
+#### 7.Flat Bench Press\[Free\]: 40kg 15times 4sets
+#### 8.Incline Chest Press\[Machine\]: 50kg 12times 5sets
+
 
 ---
 
