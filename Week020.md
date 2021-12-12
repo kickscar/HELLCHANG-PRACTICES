@@ -52,6 +52,17 @@
 #### 8.Incline Chest Press\[Machine\]: 50kg 12times 5sets
 
 
+## 2021/12/12
+#### 1.Plank: 1mins 3times
+#### 2.Barbell Deadlift\[Free\]: 35kg 15times 4sets
+#### 3.Lying Leg Curls\[Machine\]: 35kg 15times 4sets
+#### 4.Hip Abduction\[Machine\]: 40kg 15times 4sets
+#### 5.Hip Adduction\[Machine\]: 35kg 15times 4sets
+#### 6.Flat Bench Press\[Free\]: 40kg 15times 4sets
+#### 7.Incline Chest Press\[Machine\]: 40kg 15times 4sets
+#### 8.Dumbbell Chest Press\[Free\]: 40kg 15time 4set
+#### 9.Side Lateral Raise\[Free\]: 5kg 20times 4sets
+
 ---
 
 <img src='./_resources/__020.jpg' width='400px' />
