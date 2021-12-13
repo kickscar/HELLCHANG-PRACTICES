@@ -27,7 +27,7 @@
 #### 3.Lat Pulldown\[Machine\]: 30kg 15times 5sets
 #### 4.Seated Row\[Machin]: 30kg 15times 5sets
 #### 5.Wide Pulldown Rear\[Machine\]: 30kg 15times 4sets
-#### 6.Straight Arm Pulldown\[Free\]: 30kg 15times 4sets
+#### 6.Straight Arm Pulldown\[Cable\]: 30kg 15times 4sets
 #### 7.Back Extension: 15times 5sets
 
 ## 2021/12/10
@@ -46,7 +46,7 @@
 #### 2.Lat Pulldown\[Machine\]: 30kg 15times 4sets
 #### 3.Seated Row\[Machin]: 30kg 15times 4sets
 #### 4.Wide Pulldown Rear\[Machine\]: 30kg 15times 4sets
-#### 5.Straight Arm Pulldown\[Free\]: 20kg 20times 3sets
+#### 5.Straight Arm Pulldown\[Cable\]: 20kg 20times 3sets
 #### 6.Back Extension: 20times 3sets
 #### 7.Flat Bench Press\[Free\]: 40kg 15times 4sets
 #### 8.Incline Chest Press\[Machine\]: 50kg 12times 5sets
