@@ -2,7 +2,7 @@ Week002
 
 ## 2021/06/28
 #### 0.Running: 10mins 1.5km
-#### 1.Flat Bench Press\[Smith Machine\]: 40kg 12times 5sets -> 다음에  45KG 증량!!
+#### 1.Flat Bench Press\[Smith Machine\]: 40kg 12times 5sets
 #### 2.Chest Fly\[Pec Deck Fly Machine\]: 20kg 12times 5sets 
 #### 3.Dumbbell Shoulder Press\[Free\]: 5kg 12times 5sets
 #### 4.Barbell Shoulder Press\[Free\]: 10kg 12times 5sets
