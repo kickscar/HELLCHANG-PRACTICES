@@ -22,7 +22,7 @@
 #### 2.Low Pulley\[Machine\]: 20kg 20times 1sets, 25kg 20times 2sets, 30kg 20times 2sets
 #### 3.Seated Row\[Machine\]: 20kg 20times 1sets, 25kg 20times 2sets, 30kg 20times 2sets
 #### 4.Wide Pulldown Rear\[Machine\]: 40kg 15times 5sets
-#### 5.Straight Arm Pulldown\[Free\]: 15kg 15times 5sets
+#### 5.Straight Arm Pulldown\[Cable\]: 15kg 15times 5sets
 #### 6.Flat Bench Press\[Free\]: 35kg 20times 5sets
 #### 7.Chest Fly\[Pec Deck Fly Machine\]: 30kg 20times 5sets
 #### 8.Dumbbell Chest Press\[Free\]: 20kg 20times 3set, 25kg 20times 2set
@@ -32,7 +32,7 @@
 #### 2.Barbell Deadlift\[Free\]: 20kg 20times 4sets
 #### 3.Lying Leg Curls\[Machine\]: 35kg 20times 4sets
 #### 4.Back Extension: 15times 5sets
-#### 5.Straight Arm Pulldown\[Free\]: 20kg 15times 5sets
+#### 5.Straight Arm Pulldown\[Cable\]: 20kg 15times 5sets
 #### 6.TRX Rowing: 15times 5sets
 
 ## 2021/11/12
