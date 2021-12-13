@@ -3,7 +3,7 @@
 #### 2.Lat Pulldown\[Machine\]: 30kg 15times 2sets, 35kg 15times 2sets
 #### 3.Seated Row\[Machin]: 30kg 15times 2sets, 35kg 15times 2sets
 #### 4.Wide Pulldown Rear\[Machine\]: 30kg 15times 2sets, 35kg 15times 2sets
-#### 5.Straight Arm Pulldown\[Free\]: 20kg 20times 4sets
+#### 5.Straight Arm Pulldown\[Cable\]: 20kg 20times 4sets
 #### 6.Back Extension: 20times 4sets
 #### 7.Leg Extension\[Machine]: 30kg 15times 2sets, 35kg 15times 2sets
 #### 8.Power Leg Press\[Machine\]: 30kg 15times 2sets, 35kg 15times 2sets
