@@ -11,6 +11,14 @@
 #### 10.Dumbbell Chest Press\[Free\]: 20kg 15time 2set, 25kg 15time 2set
 #### 11.Dumbbell Bent Over Row\[Free\]: 20kg 20times 4sets
 
+## 2021/12/14
+#### 1.Plank: 1mins 3times
+#### 2.Flat Bench Press\[Free\]: 40kg 15times 4sets
+#### 3.Seated Chest Press\[Machine\]: 40kg 15times 4sets
+#### 4.Chest Fly\[Pec Deck Fly Machin]: 30kg 15times 4sets
+#### 5.Dips: 12times 3sets
+#### 6 Cable Pushdown\[Free\]: 20kg 12times 4sets
+
 ---
 
 <img src='./_resources/__020.jpg' width='400px' />
