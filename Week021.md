@@ -19,6 +19,17 @@
 #### 5.Dips: 12times 3sets
 #### 6 Cable Pushdown\[Free\]: 20kg 12times 4sets
 
+## 2021/12/15
+#### 1.Plank: 1mins 3times
+#### 2.Barbell Deadlift\[Free\]: 30kg 15times 4sets
+#### 3.Lying Leg Curls\[Machine\]: 30kg 15times 4sets
+#### 4.Hip Abduction\[Machine\]: 45kg 15times 4sets
+#### 5.Hip Adduction\[Machine\]: 45kg 15times 4sets
+#### 6.Flat Bench Press\[Free\]: 40kg 15times 4sets
+#### 7.Seated Chest Press\[Machine\]: 40kg 15times 4sets
+#### 8.Chest Fly\[Pec Deck Fly Machin]: 35kg 15times 4sets
+#### 9.Incline Chest Press\[Machine\]: 40kg 15times 4sets
+
 ---
 
 <img src='./_resources/__021.jpg' width='400px' />
