@@ -30,6 +30,15 @@
 #### 8.Chest Fly\[Pec Deck Fly Machin]: 35kg 15times 4sets
 #### 9.Incline Chest Press\[Machine\]: 40kg 15times 4sets
 
+
+## 2021/12/16
+#### 1.Plank: 1mins 3times
+#### 2.VIPR Overhead Squat: 8kg 15time 4sets
+#### 3.VIPR Ice Skater: 8kg 15time 4sets
+#### 4.VIPR Lateral Shuffle: 8kg 15time 4sets
+#### 5.Hip Abduction\[Machine\]: 55kg 15times 4sets
+#### 6.Hip Adduction\[Machine\]: 55kg 15times 4sets
+
 ---
 
 <img src='./_resources/__021.jpg' width='400px' />
