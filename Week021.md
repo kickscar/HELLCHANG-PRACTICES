@@ -30,7 +30,6 @@
 #### 8.Chest Fly\[Pec Deck Fly Machin]: 35kg 15times 4sets
 #### 9.Incline Chest Press\[Machine\]: 40kg 15times 4sets
 
-
 ## 2021/12/16
 #### 1.Plank: 1mins 3times
 #### 2.VIPR Overhead Squat: 8kg 15time 4sets
@@ -38,6 +37,17 @@
 #### 4.VIPR Lateral Shuffle: 8kg 15time 4sets
 #### 5.Hip Abduction\[Machine\]: 55kg 15times 4sets
 #### 6.Hip Adduction\[Machine\]: 55kg 15times 4sets
+
+## 2021/12/17
+#### 1.Push Up: 20times 3sets
+#### 2.Flat Bench Press\[Free\]: 40kg 15times 4sets
+#### 3.Seated Chest Press\[Machine\]: 35kg 15times 4sets
+#### 4.Chest Fly\[Pec Deck Fly Machin]: 35kg 15times 4sets
+#### 5.Incline Chest Press\[Machine\]: 40kg 15times 4sets
+#### 6.Lat Pulldown\[Machine\]: 30kg 15times 4sets
+#### 7.Seated Row\[Machin\]: 35kg 15times 4sets
+#### 8.Wide Pulldown Rear\[Machine\]: 30kg 15times 4sets
+#### 9.Dumbbell Bent Over Row\[Free\]: 20kg 20times 4sets
 
 ---
 
