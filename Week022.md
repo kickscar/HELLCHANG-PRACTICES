@@ -11,9 +11,9 @@
 
 ## 2021/12/21
 #### 1.Plank: 1mins 3times
-#### 2.Barbell Deadlift\[Free\]: 40kg 12times 5sets
-#### 3.Hip Abduction\[Machine\]: 50kg 12times 5sets
-#### 4.Hip Adduction\[Machine\]: 45kg 12times 5sets
+#### 2.Barbell Deadlift\[Free\]: 40kg 15times 5sets
+#### 3.Hip Abduction\[Machine\]: 50kg 15times 5sets
+#### 4.Hip Adduction\[Machine\]: 45kg 15times 5sets
 #### 5.Kettlebell Goblet Squat\[Free\]: 15kg 15times 5sets
 #### 6.Kettlebell Split Squat\[Free\]: 20kg 15times 5sets
 #### 7.Wrist Roller: 1kg 5sets
