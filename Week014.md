@@ -25,7 +25,7 @@
 #### 2.Hip External Rotation: 30times 3sets
 #### 3.Hip Adduction\[Machine\]: 30kg 20times 4sets
 #### 4.Basic Squat: 30times 3sets
-#### 5.Kettlebell Split Squat: 10kg 30times 3sets
+#### 5.Kettlebell Split Squat: 5kg 30times 3sets
 #### 6.Lying Leg Curls\[Machine\]: 20kg 20times 4sets
 
 ## 2021/10/14
