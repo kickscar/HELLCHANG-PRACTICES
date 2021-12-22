@@ -9,7 +9,7 @@
 #### 8.Power Leg Press\[Machine\]: 30kg 15times 2sets, 35kg 15times 2sets
 #### 9.Flat Bench Press\[Free\]: 40kg 15times 4sets
 #### 10.Dumbbell Chest Press\[Free\]: 20kg 15time 2set, 25kg 15time 2set
-#### 11.Dumbbell Bent Over Row\[Free\]: 20kg 20times 4sets
+#### 11.Bent Over Dumbbell Row\[Free\]: 20kg 20times 4sets
 
 ## 2021/12/14
 #### 1.Plank: 1mins 3times
