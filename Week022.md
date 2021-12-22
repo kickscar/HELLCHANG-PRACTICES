@@ -26,7 +26,7 @@
 #### 4.Flat Bench Press\[Free\]: 40kg 15times 5sets
 #### 5.Lat Pulldown\[Machine\]: 30kg 15times 5sets
 #### 6.Seated Row\[Machin\]: 35kg 15times 5sets
-#### 7.Straight Arm Pulldown\[Cable\]: 25kg 20times 5sets
+#### 7.Straight Arm Pulldown\[Cable\]: 20kg 20times 5sets
 #### 8.Back Extension: 20times 5sets
 
 ---
