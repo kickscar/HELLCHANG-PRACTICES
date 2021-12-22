@@ -13,7 +13,7 @@
 ## 2021/10/19
 #### 1.Side-lying Hip Abduction: 30times 3sets
 #### 2.Basic Squat: 30times 3sets
-#### 3.Kettlebell Goblet Squat\[Free\]: 5kg 15times 5sets
+#### 3.Kettlebell Split Squat\[Free\]: 5kg 15times 5sets
 #### 5.Barbell Deadlift\[Free\]: 20kg 20times 4sets
 #### 6.Lying Leg Curls\[Machine\]: 20kg 20times 4sets
 #### 7.Power Leg Press\[Machine\]: 20kg 20times 4sets
