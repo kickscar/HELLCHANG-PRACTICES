@@ -1,6 +1,6 @@
 ## 2021/12/07
 #### 1.Plank: 1mins 3times
-#### 2.Sidely Hip Abduction: 30times 3sets
+#### 2.Side-lying Hip Abduction: 30times 3sets
 #### 3.Barbell Deadlift\[Free\]: 40kg 12times 3sets
 #### 4.Cross lunges: 20times 5sets
 #### 5.Lying Leg Curls\[Machine\]: 35kg 15times 5sets
@@ -23,7 +23,7 @@
 
 ## 2021/12/09
 #### 1.Plank: 1mins 3times
-#### 2.Sidely Hip Abduction: 30times 3sets
+#### 2.Side-lying Hip Abduction: 30times 3sets
 #### 3.Lat Pulldown\[Machine\]: 30kg 15times 5sets
 #### 4.Seated Row\[Machin]: 30kg 15times 5sets
 #### 5.Wide Pulldown Rear\[Machine\]: 30kg 15times 4sets
@@ -43,13 +43,14 @@
 
 ## 2021/12/11
 #### 1.Plank: 1mins 3times
-#### 2.Lat Pulldown\[Machine\]: 30kg 15times 4sets
-#### 3.Seated Row\[Machin]: 30kg 15times 4sets
-#### 4.Wide Pulldown Rear\[Machine\]: 30kg 15times 4sets
-#### 5.Straight Arm Pulldown\[Cable\]: 20kg 20times 3sets
-#### 6.Back Extension: 20times 3sets
-#### 7.Flat Bench Press\[Free\]: 40kg 15times 4sets
-#### 8.Incline Chest Press\[Machine\]: 50kg 12times 5sets
+#### 2.Side-lying Hip Abduction: 30times 3sets
+#### 3.Lat Pulldown\[Machine\]: 30kg 15times 4sets
+#### 4.Seated Row\[Machin]: 30kg 15times 4sets
+#### 5.Wide Pulldown Rear\[Machine\]: 30kg 15times 4sets
+#### 6.Straight Arm Pulldown\[Cable\]: 20kg 20times 3sets
+#### 7.Back Extension: 20times 3sets
+#### 8.Flat Bench Press\[Free\]: 40kg 15times 4sets
+#### 9.Incline Chest Press\[Machine\]: 50kg 12times 5sets
 
 
 ## 2021/12/12
