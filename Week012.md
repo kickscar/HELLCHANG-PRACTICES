@@ -11,7 +11,7 @@
 
 ## 2021/09/28
 #### 1.Dumbbell Lunge\[Free\]: 10kg 40times 4sets
-#### 2.Stiff Legged Deadlift\[Free\]: 20kg 20times 4sets
+#### 2.Barbell Deadlift\[Free\]: 20kg 20times 4sets
 #### 3.kettlebell Squat\[Free\]: 10kg 20times 4sets
 #### 4.Side Lateral Raise\[Free\]: 5kg 20times 4sets
 #### 5.Front Lateral Raise\[Free\]: 5kg 20times 4sets
