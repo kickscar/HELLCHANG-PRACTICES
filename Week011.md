@@ -8,8 +8,8 @@
 #### 7.Power Leg Press\[Machine\]: 20kg 12times 5sets
 #### 8.Side Lateral Raise\[Free\]: 5kg 20times 5sets
 
-## 2021/09/24
-#### W:60.1->60.2(kg), SMM:28.4->29.3(kg), BFM:9.1->7.9(kg), PBF:15.2->13.2(%)
+
+### [[[ InBody: W:60.1->60.2(kg), SMM:28.4->29.3(kg), BFM:9.1->7.9(kg), PBF:15.2->13.2(%) ]]]
 
 ## 2021/09/25
 #### 1.Lat Pulldown\[Machine\]: 20kg 20times 4sets
