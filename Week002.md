@@ -27,7 +27,7 @@
 #### 3.Leg Extension\[Machine\]: 25kg 12times 5sets
 #### 4.Side Lateral Raise\[Free\]: 4kg 12times 5sets
 
-## *<<< W:60.1(kg), SMM:28.4(kg), BFM:9.1(kg), PBF:15.2(%) >>>*
+### [[[ InBody: W:60.1(kg), SMM:28.4(kg), BFM:9.1(kg), PBF:15.2(%) ]]]
 
 ## 2021/07/02
 #### 1.Incline Bench Press\[Smith Machine\]: 40kg 12times 5sets 
