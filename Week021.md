@@ -13,11 +13,12 @@
 
 ## 2021/12/14
 #### 1.Plank: 1mins 3times
-#### 2.Flat Bench Press\[Free\]: 40kg 15times 4sets
-#### 3.Seated Chest Press\[Machine\]: 40kg 15times 4sets
-#### 4.Chest Fly\[Pec Deck Fly Machin]: 30kg 15times 4sets
-#### 5.Dips: 12times 3sets
-#### 6 Cable Pushdown\[Free\]: 20kg 12times 4sets
+#### 2.Side-lying Hip Abduction: 30times 3sets
+#### 3.Flat Bench Press\[Free\]: 40kg 15times 4sets
+#### 4.Seated Chest Press\[Machine\]: 40kg 15times 4sets
+#### 5.Chest Fly\[Pec Deck Fly Machin]: 30kg 15times 4sets
+#### 6.Dips: 12times 3sets
+#### 7 Cable Pushdown\[Free\]: 20kg 12times 4sets
 
 ## 2021/12/15
 #### 1.Plank: 1mins 3times
@@ -32,11 +33,12 @@
 
 ## 2021/12/16
 #### 1.Plank: 1mins 3times
-#### 2.VIPR Overhead Squat: 8kg 15time 4sets
-#### 3.VIPR Ice Skater: 8kg 15time 4sets
-#### 4.VIPR Lateral Shuffle: 8kg 15time 4sets
-#### 5.Hip Abduction\[Machine\]: 55kg 15times 4sets
-#### 6.Hip Adduction\[Machine\]: 55kg 15times 4sets
+#### 2.Side-lying Hip Abduction: 30times 3sets
+#### 3.VIPR Overhead Squat: 8kg 15time 4sets
+#### 4.VIPR Ice Skater: 8kg 15time 4sets
+#### 5.VIPR Lateral Shuffle: 8kg 15time 4sets
+#### 6.Hip Abduction\[Machine\]: 55kg 15times 4sets
+#### 7.Hip Adduction\[Machine\]: 55kg 15times 4sets
 
 ## 2021/12/17
 #### 1.Push Up: 20times 3sets
@@ -47,7 +49,7 @@
 #### 6.Lat Pulldown\[Machine\]: 30kg 15times 4sets
 #### 7.Seated Row\[Machin\]: 35kg 15times 4sets
 #### 8.Wide Pulldown Rear\[Machine\]: 30kg 15times 4sets
-#### 9.Dumbbell Bent Over Row\[Free\]: 20kg 20times 4sets
+#### 9.Bent Over Dumbbell Row\[Free\]: 20kg 20times 4sets
 
 ---
 
