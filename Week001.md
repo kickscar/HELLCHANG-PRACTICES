@@ -1,8 +1,6 @@
 Week001
 
 ## 2021/06/24
-
-#### 0.Running: 10mins 1.5km
 #### 1.Flat Bench Press\[Smith Machine\]: 40kg 12times 5sets
 #### 2.Seated Chest Press\[Machine\]: 20kg 12times 5sets
 #### 3.Lat Pulldown\[Machine\]: 20kg 12times 5sets
@@ -11,7 +9,6 @@ Week001
 #### 6.Shoulder Press\[Machine\]: 5kg 12times 5sets
 
 ## 2021/06/25
-#### 0.Running: 10mins 1.5km
 #### 1.Low Pulley\[Machine\]: 20kg 12times 5sets
 #### 2.Assisted Pullup\[Machine\]: -50kg 12times 5sets
 #### 3.Shoulder Press\[Machine\]: 15kg 12times 5sets(5th failed)
