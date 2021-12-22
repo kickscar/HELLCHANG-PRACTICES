@@ -1,5 +1,3 @@
-Week003
-
 ## 2021/07/05
 #### 1.Lat Pulldown\[Machine\]: 20kg 12times 1sets, 25kg 12times 4sets, 30kg 12times 1set  
 #### 2.Low Pulley\[Machine\]: 15kg 12times 3sets, 20kg 12times 2sets 
