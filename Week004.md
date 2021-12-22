@@ -1,5 +1,3 @@
-Week004
-
 ## 2021/07/12
 #### 1.Flat Bench Press\[Smith Machine\]: 40kg 12times 5sets
 #### 2.Incline Bench Press\[Smith Machine\]: 30kg 12times 5sets
