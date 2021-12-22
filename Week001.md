@@ -1,5 +1,3 @@
-Week001
-
 ## 2021/06/24
 #### 1.Flat Bench Press\[Smith Machine\]: 40kg 12times 5sets
 #### 2.Seated Chest Press\[Machine\]: 20kg 12times 5sets
