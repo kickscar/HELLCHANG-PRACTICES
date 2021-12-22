@@ -10,7 +10,7 @@
 #### 9.Power Leg Press\[Machine\]: 20kg 20times 5sets
 
 ## 2021/11/09
-#### 1.Sidely Hip Abduction: 30times 8sets
+#### 1.Side-lying Hip Abduction: 30times 3sets
 #### 2.Basic Squat: 30times 4sets
 #### 3.TRX Suspended Lunge: 30times 8sets
 #### 4.Hack Squat\[Machine\]: 30kg 15times 4sets
