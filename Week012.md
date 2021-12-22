@@ -17,12 +17,10 @@
 #### 5.Front Lateral Raise\[Free\]: 5kg 20times 4sets
 
 ## 2021/09/29
-#### 1.Warm Up: Foam Roller Stretching
-#### 2.Hip Bridge: 20times 4sets
-#### 3.Good Morning: 20times 3sets
-#### 4.Kettlebell Deadlift\[Free\]: 5kg 20times 4sets
-#### 5.Lying Leg Curls\[Machine\]: 20kg 20times 4sets
-#### 6.Hip Adduction\[Machine\]: 20kg 20times 4sets
+#### 1.Hip Bridge: 20times 4sets
+#### 2.Kettlebell Deadlift\[Free\]: 5kg 20times 4sets
+#### 3.Lying Leg Curls\[Machine\]: 20kg 20times 4sets
+#### 4.Hip Adduction\[Machine\]: 20kg 20times 4sets
 
 ## 2021/09/30
 #### 1.Hip Bridge: 20times 4sets
