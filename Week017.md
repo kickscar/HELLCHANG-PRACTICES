@@ -25,7 +25,7 @@
 
 ## 2021/11/05
 #### 1.Lat Pulldown\[Machine\]: 20kg 20reps 1sets, 25kg 20reps 2sets, 30kg 20reps 2sets 
-#### 2.Low Pulley\[Machine\]: 20kg 20reps 1sets, 25kg 20reps 2sets, 30kg 20reps 2sets
+#### 2.Seated Low Row\[Cable\]: 20kg 20reps 1sets, 25kg 20reps 2sets, 30kg 20reps 2sets
 #### 3.Seated Row\[Machine\]: 25kg 20reps 4sets
 #### 4.Wide Pulldown Rear\[Machine\]: 30kg 15reps 5sets
 #### 5.Straight Arm Pulldown\[Cable\]: 15kg 20reps 5sets

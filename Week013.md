@@ -15,7 +15,7 @@
 #### 4.Hip Adduction\[Machine\]: 25kg 20reps 4sets
 #### 5.Seated Chest Press\[Machine\]: 25kg 20reps 4sets
 #### 6.Shoulder Press\[Machine\]: 20kg 20reps 4sets
-#### 7.Low Pulley\[Machine\]: 25kg 20reps 4sets
+#### 7.Seated Low Row\[Cable\]: 25kg 20reps 4sets
 #### 8.Reverse Crunch: 25reps 4sets
 
 ## 2021/10/06
@@ -40,7 +40,7 @@
 #### 2.Seated Chest Press\[Machine\]: 25kg 20reps 4sets
 #### 3.Lat Pulldown\[Machine\]: 25kg 20reps 4sets
 #### 4.Seated Row\[Machine\]: 25kg 20reps 4sets
-#### 5.Low Pulley\[Machine\]: 25kg 20reps 4sets
+#### 5.Seated Low Row\[Cable\]: 25kg 20reps 4sets
 #### 6.Leg Extension\[Machine\]: 25kg 20reps 4sets
 #### 7.Shoulder Press\[Machine\]: 20kg 20reps 4sets
 #### 8.Side Lateral Raise\[Free\]: 5kg 20reps 4sets

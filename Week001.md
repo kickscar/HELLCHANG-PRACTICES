@@ -2,7 +2,7 @@
 #### 1.Flat Bench Press\[Smith Machine\]: 40kg 12reps 5sets
 #### 2.Seated Chest Press\[Machine\]: 20kg 12reps 5sets
 #### 3.Lat Pulldown\[Machine\]: 20kg 12reps 5sets
-#### 4.Low Pulley\[Machine\]: 15kg 12reps 3sets
+#### 4.Seated Low Row\[Cable\]: 15kg 12reps 3sets
 #### 5.Assisted Pullup\[Machine\]: -50kg 12reps 3sets
 #### 6.Shoulder Press\[Machine\]: 5kg 12reps 5sets
 

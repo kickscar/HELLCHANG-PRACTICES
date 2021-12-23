@@ -28,7 +28,7 @@
 #### 1.Assisted Pullup\[Machine\]: -50kg 12reps 5sets, -45kg 12reps 3Sets(2nd, 3rd failed)
 #### 2.Lat Pulldown\[Machine\]: 25kg 12reps 8sets(7th, 8th failed)   
 #### 3.Flat Bench Press\[Smith Machine\]: 40kg 12reps 5sets, 50kg 12reps 2sets(1st, 2nd failed)
-#### 4.Low Pulley\[Machine\]: 20kg 12reps 5sets, 25kg 12reps 3sets(2nd, 3rd failed)
+#### 4.Seated Low Row\[Cable\]: 20kg 12reps 5sets, 25kg 12reps 3sets(2nd, 3rd failed)
 #### 5.Seated Chest Press\[Machine\]: 20kg 12reps 5set, 25kg 12reps 2sets(1st, 2nd failed)
 #### 6.Dumbbell Squat\[Free\]: 5kg 12reps 7sets(6th, 7th failed)
 #### 7.Power Leg Press\[Machine\]: 40kg 12reps 5sets(4th, 5th failed)

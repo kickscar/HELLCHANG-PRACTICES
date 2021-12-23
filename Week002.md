@@ -12,7 +12,7 @@
 #### 3.Leg Extension\[Machine\]: 25kg 12reps 5sets
 #### 4.Lying Leg Curls\[Machine\]: 25kg 12reps 5sets
 #### 5.Lat Pulldown\[Machine\]: 20kg 12reps 2sets, 25kg 12reps 2sets, 30kg 12reps 1set  
-#### 6.Low Pulley\[Machine\]: 20kg 12reps 5sets
+#### 6.Seated Low Row\[Cable\]: 20kg 12reps 5sets
 
 ## 2021/06/30
 #### 1.Flat Bench Press\[Smith Machine\]: 40kg 12reps 3sets, 50kg 7reps 1set, 60kg 7reps 1set 

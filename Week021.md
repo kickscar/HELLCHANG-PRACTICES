@@ -1,7 +1,7 @@
 ## 2021/12/13
 #### 1.Plank: 1mins 3reps
 #### 2.Lat Pulldown\[Machine\]: 30kg 15reps 2sets, 35kg 15reps 2sets
-#### 3.Seated Row\[Machin]: 30kg 15reps 2sets, 35kg 15reps 2sets
+#### 3.Seated Row\[Machine]: 30kg 15reps 2sets, 35kg 15reps 2sets
 #### 4.Wide Pulldown Rear\[Machine\]: 30kg 15reps 2sets, 35kg 15reps 2sets
 #### 5.Straight Arm Pulldown\[Cable\]: 20kg 20reps 4sets
 #### 6.Back Extension: 20reps 4sets
@@ -47,7 +47,7 @@
 #### 4.Chest Fly\[Pec Deck Fly Machin]: 35kg 15reps 4sets
 #### 5.Incline Chest Press\[Machine\]: 40kg 15reps 4sets
 #### 6.Lat Pulldown\[Machine\]: 30kg 15reps 4sets
-#### 7.Seated Row\[Machin\]: 35kg 15reps 4sets
+#### 7.Seated Row\[Machine\]: 35kg 15reps 4sets
 #### 8.Wide Pulldown Rear\[Machine\]: 30kg 15reps 4sets
 #### 9.Bent Over Dumbbell Row\[Free\]: 20kg 20reps 4sets
 

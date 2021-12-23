@@ -3,7 +3,7 @@
 #### 2.Seated Chest Press\[Machine\]: 25kg 15reps 5sets
 #### 3.Leg Extension\[Machine\]: 25kg 15reps 5sets
 #### 4.Lying Leg Curls\[Machine\]: 20kg 15reps 5sets
-#### 5.Low Pulley\[Machine\]: 25kg 15reps 5sets
+#### 5.Seated Low Row\[Cable\]: 25kg 15reps 5sets
 #### 6.Power Leg Press\[Machine\]: 30kg 15reps 5sets
 #### 7.Shoulder Press\[Machine\]: 20kg 15reps 5sets
 #### 8.Assisted Pullup\[Machine\]: -35kg 15reps 5sets
@@ -26,7 +26,7 @@
 #### 1.Hip Bridge: 20reps 4sets
 #### 2.Kettlebell Deadlift\[Free\]: 5kg 20reps 4sets
 #### 3.Lat Pulldown\[Machine\]: 25kg 15reps 5sets
-#### 4.Low Pulley\[Machine\]: 25kg 15reps 5sets
+#### 4.Seated Low Row\[Cable\]: 25kg 15reps 5sets
 #### 5.Side Lateral Raise\[Free\]: 5kg 20reps 5sets
 #### 6.Lying Leg Curls\[Machine\]: 20kg 20reps 4sets
 #### 7.Hip Adduction\[Machine\]: 20kg 20reps 4sets

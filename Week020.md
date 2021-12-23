@@ -14,7 +14,7 @@
 #### 4.Seated Chest Press\[Machine\]: 35kg 15reps 5sets
 #### 5.Incline Chest Press\[Machine\]: 40kg 15reps 5sets
 #### 5.Lat Pulldown\[Machine\]: 30kg 15reps 5sets
-#### 6.Seated Row\[Machin]: 30kg 15reps 5sets
+#### 6.Seated Row\[Machine]: 30kg 15reps 5sets
 #### 8.Back Extension: 15reps 4sets
 #### 9.Barbell Deadlift\[Free\]: 40kg 12reps 3sets
 #### 10.Lying Leg Curls\[Machine\]: 35kg 15reps 5sets
@@ -25,7 +25,7 @@
 #### 1.Plank: 1mins 3reps
 #### 2.Side-lying Hip Abduction: 30reps 3sets
 #### 3.Lat Pulldown\[Machine\]: 30kg 15reps 5sets
-#### 4.Seated Row\[Machin]: 30kg 15reps 5sets
+#### 4.Seated Row\[Machine]: 30kg 15reps 5sets
 #### 5.Wide Pulldown Rear\[Machine\]: 30kg 15reps 4sets
 #### 6.Straight Arm Pulldown\[Cable\]: 30kg 15reps 4sets
 #### 7.Back Extension: 15reps 5sets

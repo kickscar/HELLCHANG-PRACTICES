@@ -9,7 +9,7 @@
 
 ## 2021/08/24
 #### 1.Assisted Pullup\[Machine\]: -45kg 12reps 5sets
-#### 2.Low Pulley\[Machine\]: 20kg 12reps 5sets, 25kg 12reps 2sets
+#### 2.Seated Low Row\[Cable\]: 20kg 12reps 5sets, 25kg 12reps 2sets
 #### 3.Incline Bench Press\[Smith Machine\]: 40kg 12reps 5sets
 #### 4.Seated Chest Press\[Machine\]: 25kg 12reps 5sets
 #### 5.Power Leg Press\[Machine\]: 30kg 20reps 5sets
