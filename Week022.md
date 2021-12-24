@@ -48,9 +48,9 @@
 #### 3.Lying Leg Curls\[Machine\]: 35kg 15reps 5sets
 #### 4.Hip Abduction\[Machine\]: 55kg 15reps 5sets
 #### 5.Hip Adduction\[Machine\]: 45kg 15reps 5sets
-#### 6.Flat Bench Press\[Free, Barbell\]: 40kg 15reps 5sets
+#### 6.Barbell Flat Bench Press\[Free\]: 40kg 15reps 5sets
 #### 7.Incline Chest Press\[Machine\]: 50kg 15reps 5sets
-#### 8.Flat Chest Press\[Free, Dumbbel\]: 30kg 15reps 5set
+#### 8.Dumbbell Flat Chest Press\[Free\]: 30kg 15reps 5set
 
 ---
 
