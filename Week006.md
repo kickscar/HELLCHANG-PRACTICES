@@ -6,22 +6,22 @@
 #### 5.Lat Pulldown\[Machine\]: 20kg 12reps 2sets, 25kg 12reps 3sets(3rd failed)
 #### 6.Seated Chest Press\[Machine\]: 20kg 12reps 5set
 #### 7.Leg Extension\[Machine\]: 20kg 12reps 2sets, 25kg 12reps 3sets
-#### 8.Incline Bench Press\[Smith Machine\]: 40kg 12reps 3sets
+#### 8.Incline Bench Press\[Machine, Smith\]: 40kg 12reps 3sets
 
 
 ## 2021/08/11
-#### 1.Incline Bench Press\[Smith Machine\]: 40kg 12reps 5sets
+#### 1.Incline Bench Press\[Machine, Smith\]: 40kg 12reps 5sets
 #### 2.Chest Press\[Machine\]: 20kg 12reps 2set, 25kg 12reps 3set 
 #### 3.Power Leg Press\[Machine\]: 40kg 12reps 6sets(6th failed)
 #### 4.Leg Extension\[Machine\]: 20kg 12reps 5sets
 #### 5.Lat Pulldown\[Machine\]: 25kg 12reps 5sets(5th failed)
-#### 6.Side Lateral Raise\[Free\]: 5kg 20reps 5sets
+#### 6.Side Lateral Raise\[Dumbbell\]: 5kg 20reps 5sets
 #### 7.Assisted Pullup\[Machine\]: -50kg 12reps 5sets
 
 
 ## 2021/08/12
-#### 1.Incline Bench Press\[Smith Machine\]: 40kg 12reps 6sets(6th failed)
-#### 2.Assisted Pullup\[Machin\]: -50kg 12reps 5sets  
+#### 1.Incline Bench Press\[Machine, Smith\]: 40kg 12reps 6sets(6th failed)
+#### 2.Assisted Pullup\[Machine\]: -50kg 12reps 5sets  
 #### 3.Lying Leg Curls\[Machine\]: 20kg 12reps 5sets
 #### 4.Leg Extension\[Machine\]: 20kg 12reps 5sets
 #### 5.Seated Low Row\[Cable\]: 20kg 12reps 7sets(7th failed)  

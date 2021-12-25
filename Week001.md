@@ -1,5 +1,5 @@
 ## 2021/06/24
-#### 1.Flat Bench Press\[Smith Machine\]: 40kg 12reps 5sets
+#### 1.Flat Bench Press\[Machine, Smith\]: 40kg 12reps 5sets
 #### 2.Seated Chest Press\[Machine\]: 20kg 12reps 5sets
 #### 3.Lat Pulldown\[Machine\]: 20kg 12reps 5sets
 #### 4.Seated Low Row\[Cable\]: 15kg 12reps 3sets
@@ -12,7 +12,7 @@
 #### 3.Shoulder Press\[Machine\]: 15kg 12reps 5sets(5th failed)
 #### 4.Leg Extension\[Machine\]: 20kg 12reps 3sets, 25kg 12reps 2sets, 30kg 10reps 2sets
 #### 5.Lying Leg Curls\[Machine\]: 20kg 12reps 5sets(5th failed)
-#### 6.Side Lateral Raise\[Free\]: 4kg 12reps 5sets
+#### 6.Side Lateral Raise\[Dumbbell\]: 4kg 12reps 5sets
 
 ---
 <img src='./_resources/romance-dawn.png' width='400px' />
