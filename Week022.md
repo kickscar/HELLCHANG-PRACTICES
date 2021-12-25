@@ -35,7 +35,7 @@
 #### 3.Lat Pulldown\[Machine\]: 30kg 15reps 5sets
 #### 4.Seated Low Row\[Cable\]: 35kg 15reps 5sets
 #### 5.Straight Arm Pulldown\[Cable\]: 25kg 15reps 5sets
-#### 6.One Arm Dumbbell Row\[Cable\]: 15kg 15reps 5sets
+#### 6.One Arm Dumbbell Row\[Dumbbell\]: 15kg 15reps 5sets
 #### 7.Wrist Roller: 1kg 6sets
 
 ---
