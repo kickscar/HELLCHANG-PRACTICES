@@ -35,7 +35,7 @@
 #### 3.Lat Pulldown\[Machine\]: 30kg 15reps 5sets
 #### 4.Seated Low Row\[Cable\]: 35kg 15reps 5sets
 #### 5.Straight Arm Pulldown\[Cable\]: 25kg 15reps 5sets
-#### 6.One Arm Dumbbell Row\[Dumbbell\]: 15kg 15reps 5sets
+#### 6.One Arm Dumbbell Row\[Dumbbell\]: 12kg 15reps 5sets
 #### 7.Wrist Roller: 1kg 6sets
 
 ---
@@ -62,6 +62,17 @@
 #### 7.Back Extension: 20reps 5sets
 #### 8.Shoulder Press\[Machine\]: 20kg 15reps 5sets
 #### 9.Side Lateral Raise\[Dumbbell\]: 10kg 20reps 5sets
+
+## 2021/12/26
+#### 1.Plank: 1mins 3reps
+#### 2.Incline Chest Press\[Machine\]: 50kg 15reps 5sets
+#### 3.Seated Chest Press\[Machine\]: 35kg 15reps 5sets
+#### 4.Chest Fly\[Machine, Pec Deck\]: 35kg 15reps 5sets
+#### 5.Flat Bench Press\[Barbell\]: 40kg 15reps 4sets, 45kg 15reps, 2sets
+#### 6.Assisted Dips\[Machine\]: -25kg 12reps 4sets
+#### 7.Lat Pulldown\[Machine\]: 35kg 15reps 5sets
+#### 8.One Arm Dumbbell Row\[Dumbbell\]: 12kg 15reps 5sets
+#### 9.Bent Over Row\[Dumbbell\]: 25kg 15reps 5sets
 
 ---
 
