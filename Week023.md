@@ -10,4 +10,4 @@
 
 ---
 
-<img src='./_resources/__022.png' width='400px' />
+<img src='./_resources/__023.png' width='400px' />
