@@ -29,6 +29,16 @@
 #### 8.Hip Adduction\[Machine\]: 45kg 15reps 5sets
 #### 9.Leg Extension\[Machine\]: 35kg 15reps 2sets, 40kg 15reps 2sets, 45kg 15reps 1sets 
 #### 10.Lat Pulldown\[Machine\]: 35kg 15reps 5sets
+
+## 2021/12/31
+#### 1.Plank: 1mins 3reps
+#### 2.Side-lying Hip Abduction: 30reps 3sets
+#### 3.Incline Chest Press\[Machine\]: 55kg 12reps 5sets
+#### 4.Flat Bench Press\[Barbell\]: 45kg 12reps 5sets, 
+#### 5.Seated Chest Press\[Machine\]: 40kg 12reps 5sets
+#### 6.HIIT\[Cycle\]: 14lv 30secs 100(over)rpm 5sets
+#### 7.Running\[Treadmill\]: 30mins 5km
+
 ---
 
 <img src='./_resources/__023.png' width='400px' />
