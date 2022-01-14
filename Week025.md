@@ -31,7 +31,7 @@
 #### 2.Lat Pulldown\[Machine\]: 35kg 15reps 5sets
 #### 3.Wide Pulldown Rear\[Machine\]: 30kg 15reps 5sets
 #### 4.Bent Over Row\[Dumbbell\]: 20kg 15reps 5sets
-#### 5.Assisted Pullup\[Machin]: -35kg 15reps 5sets
+#### 5.Assisted Pullup\[Machine\]: -35kg 15reps 5sets
 #### 6.Shoulder Press\[Machine\]: 15kg 20reps 5sets
 #### 7.Side Lateral Raise\[Dumbbell\]: 10kg 20reps 5sets
 
