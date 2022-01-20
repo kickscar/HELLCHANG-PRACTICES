@@ -31,4 +31,4 @@
 
 ---
 
-<img src='./_resources/__026.jpg' width='400px' />
+<img src='./_resources/__026.png' width='400px' />
