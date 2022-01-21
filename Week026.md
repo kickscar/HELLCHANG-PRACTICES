@@ -28,6 +28,17 @@
 #### 6.Lying Leg Curls\[Machine\]: 35kg 15reps 5sets
 #### 7.Hip Abduction\[Machine\]: 45kg 20reps 5sets
 #### 8.Hip Adduction\[Machine\]: 45kg 20reps 5sets
+#### 9.Back Extension: 15reps 5sets
+
+## 2022/01/20
+#### 1.Lat Pulldown\[Machine\]: 35kg 12reps 5sets
+#### 2.Seated Row\[Machine]: 35kg 15reps 5sets
+#### 3.Wide Pulldown Rear\[Machine\]: 50kg 12reps 5sets
+#### 4.Assisted Pullup\[Machine\]: -35kg 12reps 5sets
+#### 5.Straight Arm Pulldown\[Cable\]: 30kg 12reps 5sets
+#### 6.Goblet Squat\[Kettlebell\]: 15kg 15reps 5sets
+#### 7.Hip Abduction\[Machine\]: 45kg 20reps 5sets
+#### 8.Seated Leg Press\[Machine\]: 65kg 12reps 5sets
 
 ---
 
