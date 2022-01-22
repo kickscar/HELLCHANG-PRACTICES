@@ -40,6 +40,18 @@
 #### 7.Hip Abduction\[Machine\]: 45kg 20reps 5sets
 #### 8.Seated Leg Press\[Machine\]: 65kg 12reps 5sets
 
+## 2022/01/22
+#### 1.Flat Bench Press\[Barbell\]: 40kg 15reps 2sets 50kg 12reps 3sets 
+#### 2.Incline Bench Press\[Barbell\]: 40kg 15reps 2sets 45kg 12reps 3sets 
+#### 3.Decline Bench Press\[Barbell\]: 40kg 15reps 5sets
+#### 4.Seated Chest Press\[Machine\]: 40kg 15reps 5sets
+#### 5.Chest Fly\[Machine, Pec Deck\]: 40kg 15reps 5sets
+#### 6.Assisted Dips\[Machine\]: -25kg 12reps 4sets
+#### 7.Deadlift\[Barbell\]: 40kg 12reps 5sets
+#### 8.Lying Leg Curls\[Machine\]: 40kg 15reps 5sets
+#### 9.Hip Abduction\[Machine\]: 45kg 15reps 5sets
+#### 10.Hip Adduction\[Machine\]: 45kg 15reps 5sets
+
 ---
 
 <img src='./_resources/__026.png' width='400px' />
