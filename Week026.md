@@ -57,7 +57,7 @@
 #### 2.Lying Leg Curls\[Machine\]: 40kg 15reps 5sets
 #### 3.Hip Abduction\[Machine\]: 45kg 15reps 5sets
 #### 4.Hip Adduction\[Machine\]: 45kg 15reps 5sets
-#### 5.Leg Extension\[Machine]: 35kg 15reps 5sets
+#### 5.Leg Extension\[Machine]: 30kg 15reps 5sets
 #### 6.Seated Row\[Machine]: 35kg 15reps 5sets
 #### 7.Wide Pulldown Rear\[Machine\]: 40kg 15reps 5sets
 #### 8.Straight Arm Pulldown\[Cable\]: 20kg 12reps 5sets
