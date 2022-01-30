@@ -29,6 +29,16 @@
 #### 8.Lying Leg Curls\[Machine\]: 40kg 15reps 5sets
 #### 9.Power Leg Press\[Machine\]: 40kg 15reps 5sets
 
+## 2022/01/28
+#### 1.Lat Pulldown\[Machine\]: 30kg 15reps 3sets, 35kg 15reps 2sets
+#### 2.Seated Row\[Machine]: 35kg 15reps 5sets
+#### 3.Wide Pulldown Rear\[Machine\]: 40kg 12reps 5sets
+#### 4.Straight Arm Pulldown\[Cable\]: 20kg 15reps 5sets
+#### 5.Shoulder Press\[Machine\]: 15kg 20reps 5sets
+#### 6.Side Lateral Raise\[Dumbbell\]: 10kg 20reps 5sets
+#### 7.Front Lateral Raise\[Dumbbell\]: 10kg 20reps 5sets
+#### 8.Deadlift\[Barbell\]: 40kg 12reps 5sets
+#### 9.Hip Abduction\[Machine\]: 45kg 20reps 5sets
 ---
 
 <img src='./_resources/__027.png' width='400px' />
