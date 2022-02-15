@@ -14,8 +14,8 @@
 #### 3.Wide Pulldown Rear\[Machine\]: 40kg 12reps 5sets
 #### 4.Goblet Squat\[Kettlebell\]: 15kg 15reps 5sets
 #### 5.Leg Extension\[Machine]: 35kg 12reps 5sets
-#### 6.Hip Abduction\[Machine\]: 45kg 20reps 5sets
-#### 7.Hip Adduction\[Machine\]: 45kg 15reps 4sets
+#### 6.Hip Abduction\[Machine\]: 45kg 15reps 5sets
+#### 7.Hip Adduction\[Machine\]: 45kg 15reps 5sets
 #### 8.Back Extension: 15reps 5sets
 
 ## 2022/01/26
