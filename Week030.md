@@ -39,6 +39,15 @@
 #### 8.Hip Adduction\[Machine\]: 45kg 15reps 5sets
 #### 9.Power Leg Press\[Machine\]: 60kg 12reps 5sets
 
+## 2022/02/27
+#### 1.Assisted Pullup\[Machine\]: -40kg 12reps 4sets
+#### 2.Seated Row\[Machine]: 35kg 15reps 5sets
+#### 3.Lat Pulldown\[Machine\]: 30kg 15reps 5sets
+#### 4.Shoulder Press\[Machine\]: 20kg 20reps 5sets
+#### 5.Deadlift\[Barbell\]: 40kg 12reps 5sets
+#### 6.Lying Leg Curls\[Machine\]: 40kg 15reps 5sets
+#### 7.Back Extension: 20reps 5sets
+
 ---
 
 <img src='./_resources/__030.png' width='400px' />
