@@ -13,9 +13,9 @@
 #### 1.Hip Abduction\[Machine\]: 40kg 20reps 4sets
 #### 2.Leg Extension\[Machine]: 30kg 20reps 4sets
 #### 3.Lying Leg Curls\[Machine\]: 30kg 15reps 4sets
-#### 4.Seated Chest Press\[Machine\]: 30kg 20reps 3set
+#### 4.Seated Chest Press\[Machine\]: 30kg 20reps 3sets
 #### 5.Incline Bench Press\[Barbell\]: 50kg 12reps 4sets 
-#### 6.Flat Chest Press\[Dumbbell\]: 50kg 12reps 4set
+#### 6.Flat Chest Press\[Dumbbell\]: 50kg 12reps 4sets
 #### 7.Deadlift\[Barbell\]: 35kg 12reps 4sets
 #### 8.Hip Adduction\[Machine\]: 40kg 12reps 4sets
 #### 9.Assisted Dips\[Machine\]: -25kg 12reps 4sets
