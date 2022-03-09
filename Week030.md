@@ -10,8 +10,8 @@
 #### 9.Back Extension: 20reps 5sets
 
 ## 2022/02/23
-#### 1.Chest Fly\[Machine, Pec Deck\]: 35kg 15reps 5set
-#### 2.Flat Chest Press\[Dumbbell\]: 30kg 15reps 5set
+#### 1.Chest Fly\[Machine, Pec Deck\]: 35kg 15reps 5sets
+#### 2.Flat Chest Press\[Dumbbell\]: 30kg 15reps 5sets
 #### 3.Incline Bench Press\[Barbell\]: 40kg 12reps 5sets 
 #### 4.Decline Bench Press\[Barbell\]: 40kg 12reps 5set
 #### 5.Seated Chest Press\[Machine\]: 40kg 15reps 5sets
@@ -29,7 +29,7 @@
 #### 6.Hip Abduction\[Machine\]: 45kg 15reps 5sets
 
 ## 2022/02/26
-#### 1.Flat Chest Press\[Barbell\]: 40kg 15reps 5set
+#### 1.Flat Chest Press\[Barbell\]: 40kg 15reps 5sets
 #### 2.Incline Bench Press\[Barbell\]: 40kg 15reps 5sets 
 #### 3.Decline Bench Press\[Barbell\]: 40kg 15reps 5set
 #### 4.Seated Chest Press\[Machine\]: 40kg 15reps 5sets
