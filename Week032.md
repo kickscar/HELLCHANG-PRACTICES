@@ -37,9 +37,12 @@
 
 ## 2022/03/10
 #### 1.Seated Chest Press\[Machine\]: 30kg 20reps 3sets
-#### 5.Incline Bench Press\[Barbell\]: 50kg 12reps 4sets 
-#### 6.Flat Chest Press\[Dumbbell\]: 30kg 12reps 4sets
-
+#### 2.Incline Bench Press\[Barbell\]: 50kg 12reps 4sets 
+#### 3.Flat Chest Press\[Dumbbell\]: 35kg 12reps 4sets
+#### 4.Assisted Dips\[Machine\]: -25kg 12reps 4sets
+#### 5.Leg Extension\[Machine]: 30kg 15reps 4sets
+#### 6.Deadlift\[Barbell\]: 35kg 12reps 4sets
+#### 7.Hip Adduction\[Machine\]: 40kg 15reps 4sets
 
 ---
 
