@@ -5,7 +5,8 @@
 #### 4.Assisted Pullup\[Machine\]: -40kg 12reps 4sets
 #### 5.Lying Leg Curls\[Machine\]: 35kg 15reps 4sets
 #### 6.Shoulder Press\[Machine\]: 20kg 20reps 4sets
-#### 7.Hip Adduction\[Machine\]: 40kg 15reps 4sets
+#### 7.Deadlift\[Barbell\]: 35kg 12reps 4sets
+#### 8.Hip Adduction\[Machine\]: 40kg 15reps 4sets
 
 
 ---
