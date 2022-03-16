@@ -8,6 +8,16 @@
 #### 7.Deadlift\[Barbell\]: 35kg 12reps 4sets
 #### 8.Hip Adduction\[Machine\]: 40kg 15reps 4sets
 
+## 2022/03/15
+#### 1.Seated Row\[Machine]: 35kg 15reps 5sets
+#### 2.Lat Pulldown\[Machine\]: 35kg 15reps 5sets
+#### 3.Seated Chest Press\[Machine\]: 30kg 20reps 5sets
+#### 4.Hip Abduction\[Machine\]: 40kg 20reps 5sets
+#### 5.Goblet Squat\[Kettlebell\]: 15kg 15reps 5sets
+#### 6.Assisted Dip\[Machine\]: -25kg 12reps 4sets
+#### 7.Lying Leg Curls\[Machine\]: 35kg 15reps 5sets
+#### 8.Hip Adduction\[Machine\]: 40kg 20reps 5sets
+
 
 ---
 
