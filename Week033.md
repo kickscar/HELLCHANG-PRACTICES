@@ -27,6 +27,16 @@
 #### 6.Lying Leg Curls\[Machine\]: 40kg 15reps 5sets
 #### 7.Hip Adduction\[Machine\]: 40kg 20reps 5sets
 
+## 2022/03/17
+#### 1.Seated Chest Press\[Machine\]: 30kg 20reps 5sets
+#### 2.Assisted Dip\[Machine\]: -25kg 12reps 5sets
+#### 3.Incline Bench Press\[Barbell\]: 45kg 12reps 5sets
+#### 4.Seated Row\[Machine]: 30kg 20reps 5sets
+#### 5.Hip Abduction\[Machine\]: 40kg 20reps 5sets
+#### 6.Goblet Squat\[Kettlebell\]: 15kg 15reps 5sets
+#### 7.Leg Extension\[Machine]: 30kg 15reps 4sets
+#### 8.Power Leg Press\[Machine\]: 60kg 8reps 5sets
+
 ---
 
 <img src='./_resources/__033.png' width='400px' />
