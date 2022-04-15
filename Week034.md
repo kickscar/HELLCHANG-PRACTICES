@@ -44,6 +44,16 @@
 #### 8.Hip Adduction\[Machine\]: 45kg 20reps 5sets
 #### 9.Running: 5km/30mins
 
+## 2022/04/15
+#### 1.Deadlift\[Barbell\]: 40kg 12reps 5sets
+#### 2.Lying Leg Curls\[Machine\]: 30kg 12reps 5sets
+#### 3.Hip Abduction\[Machine\]: 45kg 15reps 5sets
+#### 4.Hip Adduction\[Machine\]: 45kg 15reps 5sets
+#### 5.Seated Row\[Machine]: 35kg 12reps 5sets
+#### 6.Lat Pulldown\[Machine\]: 30kg 15reps 5sets
+#### 7.Assisted Pullup\[Machine\]: -35kg 12reps 5sets
+#### 8.Shoulder Press\[Machine\]: 20kg 20reps 5sets
+#### 9.Back Extension: 15reps 4sets
 ---
 
 <img src='./_resources/__034.png' width='400px' />
