@@ -19,6 +19,17 @@
 #### 7.Hip Abduction\[Machine\]: 45kg 15reps 5sets
 #### 8.Power Leg Press\[Machine\]: 20kg 15reps 5sets
 
+## 2022/04/20
+#### 1.Seated Row\[Machine]: 35kg 12reps 5sets
+#### 2.Lat Pulldown\[Machine\]: 35kg 12reps 5sets
+#### 3.Assisted Pullup\[Machine\]: -30kg 12reps 5sets
+#### 4.Assisted Dip\[Machine\]: -20kg 12reps 5sets
+#### 5.Incline Bench Press\[Machine\]: 50kg 15reps 5sets
+#### 6.Shoulder Press\[Machine\]: 20kg 20reps 5sets
+#### 7.Back Extension: 15reps 5sets
+#### 8.Leg Extension\[Machine]: 35kg 15reps 5sets
+#### 9.Goblet Squat\[Kettlebell\]: 15kg 15reps 5sets
+
 ---
 
 <img src='./_resources/__035.png' width='400px' />
