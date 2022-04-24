@@ -51,6 +51,16 @@
 #### 9.Shoulder Press\[Machine\]: 20kg 20reps 5sets
 #### 10.Back Extension: 15reps 5sets
 
+## 2022/04/24
+#### 1.Seated Row\[Machine]: 30kg 15reps 5sets
+#### 2.Lat Pulldown\[Machine\]: 35kg 15reps 5sets
+#### 3.Assisted Pullup\[Machine\]: -30kg 15reps 5sets
+#### 4.Deadlift\[Barbell\]: 30kg 12reps 5sets
+#### 5.Hip Adduction\[Machine\]: 60kg 20reps 5sets
+#### 6.Lying Leg Curls\[Machine\]: 35kg 12reps 5sets
+#### 7.Seated Chest Press\[Machine\]: 30kg 30reps 3sets
+#### 8.Assisted Dip\[Machine\]: -20kg 15reps 5sets
+#### 9.Incline Bench Press\[Machine\]: 55kg 15reps 5sets
 
 ---
 
