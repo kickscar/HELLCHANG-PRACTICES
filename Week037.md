@@ -16,6 +16,14 @@
 #### 5.Seated Row\[Machine\]: 35kg 15reps 5sets
 #### 6.Straight Arm Pulldown\[Cable\]: 30kg 15reps 4sets
 
+## 2022/05/11
+#### 1.Plank: 1mins 3reps
+#### 2.Side-lying Hip Abduction: 30reps 3sets
+#### 3.Deadlift\[Barbell\]: 30kg 15reps 5sets
+#### 4.Hip Adduction\[Machine\]: 60kg 15reps 5sets
+#### 5.Power Leg Press\[Machine\]: 50kg 12reps 5sets
+#### 6.Goblet Squat\[Kettlebell\]: 15kg 15reps 5sets
+
 ---
 
 <img src='./_resources/__037.png' width='400px' />
