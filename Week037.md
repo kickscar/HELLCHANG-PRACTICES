@@ -29,7 +29,7 @@
 #### 2.Side-lying Hip Abduction: 30reps 3sets
 #### 3.Shoulder Press\[Machine\]: 25kg 15reps 5sets
 #### 4.Side Lateral Raise\[Machine\]: 25kg 15reps 5sets
-#### 5.Arnold Shoulder Press\[Dumbbell\]: 30kg 15reps 5sets
+#### 5.Arnold Press\[Dumbbell\]: 30kg 15reps 5sets
 #### 6.Reverse Pec Deck Fly\[Machine, Pec Deck\]: 20kg 15reps 5sets
 
 ---
