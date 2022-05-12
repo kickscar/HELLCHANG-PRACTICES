@@ -24,6 +24,14 @@
 #### 5.Power Leg Press\[Machine\]: 50kg 12reps 5sets
 #### 6.Goblet Squat\[Kettlebell\]: 15kg 15reps 5sets
 
+## 2022/05/12
+#### 1.Plank: 1mins 3reps
+#### 2.Side-lying Hip Abduction: 30reps 3sets
+#### 3.Shoulder Press\[Machine\]: 25kg 15reps 5sets
+#### 4.Side Lateral Raise\[Machine\]: 25kg 15reps 5sets
+#### 5.Arnold Shoulder Press\[Dumbbell\]: 30kg 15reps 5sets
+#### 6.Reverse pec deck fly\[Machine, Pec Deck\]: 20kg 15reps 5sets
+
 ---
 
 <img src='./_resources/__037.png' width='400px' />
