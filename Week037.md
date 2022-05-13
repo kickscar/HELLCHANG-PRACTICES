@@ -32,6 +32,15 @@
 #### 5.Arnold Press\[Dumbbell\]: 30kg 15reps 5sets
 #### 6.Reverse Pec Deck Fly\[Machine, Pec Deck\]: 20kg 15reps 5sets
 
+## 2022/05/13
+#### 1.Plank: 1mins 3reps
+#### 2.Hip Abduction\[Machine\]: 45kg 15reps 5sets
+#### 3.Incline Bench Press\[Machine\]: 50kg 15reps 5sets
+#### 4.Seated Chest Press\[Machine\]: 35kg 15reps 5sets
+#### 5.Flat Chest Press\[Barbell\]: 40kg 15reps 5sets
+#### 6.Lying Leg Curls\[Machine\]: 35kg 15reps 5sets
+#### 7.Hip Adduction\[Machine\]: 50kg 20reps 5sets
+
 ---
 
 <img src='./_resources/__037.png' width='400px' />
