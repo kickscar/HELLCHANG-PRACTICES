@@ -41,6 +41,16 @@
 #### 6.Lying Leg Curls\[Machine\]: 35kg 15reps 5sets
 #### 7.Hip Adduction\[Machine\]: 50kg 20reps 5sets
 
+## 2022/05/15
+#### 1.Deadlift\[Barbell\]: 35kg 15reps 5sets
+#### 2.Lying Leg Curls\[Machine\]: 35kg 15reps 5sets
+#### 3.Hip Adduction\[Machine\]: 60kg 20reps 5sets
+#### 4.Lat Pulldown\[Machine\]: 30kg 15reps 5sets
+#### 5.Long Pull Row\[Machine]: 30kg 15reps 5sets
+#### 6.Seated Row\[Machine\]: 35kg 15reps 5sets
+#### 7.Straight Arm Pulldown\[Cable\]: 30kg 15reps 4sets
+#### 8.Back Extension: 15reps 5sets
+
 ---
 
 <img src='./_resources/__037.png' width='400px' />
