@@ -7,7 +7,7 @@
 #### 6.Arnold Press\[Dumbbell\]: 30kg 15reps 5sets
 #### 7.Reverse Pec Deck Fly\[Machine, Pec Deck\]: 20kg 15reps 5sets
 
-## 2022/05/16
+## 2022/05/17
 #### 1.Plank: 1mins 3reps
 #### 2.Side-lying Hip Abduction: 30reps 3sets
 #### 3.Seated Row\[Machine\]: 35kg 15reps 5sets
