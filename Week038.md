@@ -15,7 +15,17 @@
 #### 5.Wide Pulldown Rear\[Machine\]: 40kg 15reps 5sets
 #### 6.Bent Over Row\[Dumbbell\]: 20kg 15reps 5sets
 #### 7.Pull Up: 12reps 3sets
-#### 8.Running: 5km/30mins
+#### 8.Wrist Roller: 1kg 6sets
+#### 9.Running: 5km/30mins
+
+## 2022/05/18
+#### 1.Plank: 1mins 3reps
+#### 2.Side-lying Hip Abduction: 30reps 3sets
+#### 3.Deadlift\[Barbell\]: 40kg 12reps 5sets
+#### 4.Sumo Deadlift\[Kettlebell\]: 20kg 12reps 5sets
+#### 5.Hip Abduction\[Machine\]: 45kg 15reps 5sets
+#### 6.Seated Leg Pres\[Machine\]: 40kg 15reps 5sets
+#### 7.Wrist Roller: 1kg 6sets
 
 ---
 
