@@ -27,6 +27,16 @@
 #### 6.Seated Leg Pres\[Machine\]: 40kg 15reps 5sets
 #### 7.Wrist Roller: 1kg 6sets
 
+## 2022/05/19
+#### 1.Plank: 1mins 3reps
+#### 2.Side-lying Hip Abduction: 30reps 3sets
+#### 3.Flat Bench Press\[Barbell\]: 40kg 15reps 5sets
+#### 4.Dips: 10reps 4sets
+#### 5.Incline Chest Press\[Dumbbell\]: 30kg 15reps 5sets 
+#### 6.Seated Chest Press\[Machine\]: 40kg 15reps 5sets 
+#### 7.Chest Fly\[Machine, Pec Deck\]: 40kg 15reps 5sets
+#### 8.Wrist Roller: 1kg 6sets
+
 ---
 
 <img src='./_resources/__038.png' width='400px' />
