@@ -37,6 +37,19 @@
 #### 7.Chest Fly\[Machine, Pec Deck\]: 40kg 15reps 5sets
 #### 8.Wrist Roller: 1kg 6sets
 
+## 2022/05/20
+#### 1.Plank: 1mins 3reps
+#### 2.Seated Row\[Machine\]: 40kg 15reps 5sets
+#### 3.Straight Arm Pulldown\[Cable\]: 25kg 15reps 4sets
+#### 4.Lat Pulldown\[Machine\]: 30kg 15reps 5sets
+#### 5.Assisted Pullup\[Machine\]: -20kg 10reps 5sets
+#### 6.Long Pull Row\[Machine]: 30kg 15reps 5sets
+#### 7.Shoulder Press\[Machine\]: 25kg 15reps 5sets
+#### 8.Side Lateral Raise\[Machine\]: 25kg 15reps 5sets
+#### 9.Arnold Press\[Dumbbell\]: 30kg 15reps 5sets
+#### 10.Reverse Pec Deck Fly\[Machine, Pec Deck\]: 20kg 15reps 5sets
+#### 11.Back Extension: 15reps 5sets
+
 ---
 
 <img src='./_resources/__038.png' width='400px' />
