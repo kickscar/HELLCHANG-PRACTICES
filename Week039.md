@@ -17,6 +17,16 @@
 #### 5.Reverse Pec Deck Fly\[Machine, Pec Deck\]: 25kg 15reps 5sets
 #### 6.Running: 5km/30mins
 
+## 2022/05/25
+#### 1.Plank: 1mins 3reps
+#### 2.Side-lying Hip Abduction: 30reps 3sets
+#### 3.Deadlift\[Dumbbell\]: 40kg 12reps 5sets
+#### 4.Goblet Squat\[Kettlebell\]: 20kg 15reps 5sets
+#### 5.Split Squat\[Smith Machine\]: 30kg 15reps 5sets
+#### 6.Power Leg Pres\[Machine\]: 50kg 15reps 5sets
+#### 7.Hip Abduction\[Machine\]: 55kg 15reps 5sets
+#### 8.Hip Abduction\[Machine\]: 65kg 15reps 5sets
+
 ---
 
 <img src='./_resources/__039.png' width='400px' />
