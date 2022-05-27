@@ -33,7 +33,7 @@
 ## 2022/04/21
 #### 1.Incline Bench Press\[Machine\]: 50kg 15reps 5sets
 #### 2.Assisted Dip\[Machine\]: -20kg 15reps 5sets
-#### 3.Flat Bench Press\[Dumbbell\]: 30kg 15reps 5sets
+#### 3.Flat Chest Press\[Dumbbell\]: 30kg 15reps 5sets
 #### 4.Shoulder Press\[Machine\]: 25kg 15reps 5sets
 #### 5.Goblet Squat\[Kettlebell\]: 15kg 15reps 5sets
 #### 6.Lying Leg Curls\[Machine\]: 35kg 12reps 5sets
