@@ -20,12 +20,12 @@
 ## 2022/05/25
 #### 1.Plank: 1mins 3reps
 #### 2.Side-lying Hip Abduction: 30reps 3sets
-#### 3.Deadlift\[Dumbbell\]: 40kg 12reps 5sets
+#### 3.Deadlift\[Dumbbell\]: 20kg 15reps 1sets, 24kg 15reps 1sets, 30kg 15reps 1sets, 40kg 15reps 1sets
 #### 4.Goblet Squat\[Kettlebell\]: 20kg 15reps 5sets
 #### 5.Split Squat\[Smith Machine\]: 30kg 15reps 5sets
 #### 6.Power Leg Pres\[Machine\]: 50kg 15reps 5sets
 #### 7.Hip Abduction\[Machine\]: 55kg 15reps 5sets
-#### 8.Hip Abduction\[Machine\]: 65kg 15reps 5sets
+#### 8.Hip Adduction\[Machine\]: 65kg 15reps 5sets
 
 ## 2022/05/26
 #### 1.Plank: 1mins 3reps
@@ -42,6 +42,18 @@
 #### 4.Lat Pulldown\[Machine\]: 30kg 15reps 4sets
 #### 5.One Arm Bent Over Row\[Dumbbell \]: 12kg 15reps 4sets
 #### 6.Back Extension: 15reps 4sets
+
+## 2022/05/29
+#### 1.Plank: 1mins 3reps
+#### 2.Deadlift\[Dumbbell\]: 20kg 15reps 1sets, 24kg 15reps 1sets, 30kg 15reps 1sets, 40kg 15reps 1sets
+#### 3.Goblet Squat\[Dumbbell\]: 15kg 15reps 4sets
+#### 4.Deadlift\[Barbell\]: 40kg 12reps 4sets
+#### 5.Power Leg Pres\[Machine\]: 50kg 12reps 2sets, 70kg 12reps 2sets
+#### 6.Lying Leg Curls\[Machine\]: 30kg 12reps 4sets
+#### 7.Hip Adduction\[Machine\]: 65kg 15reps 4sets
+#### 8.Incline Bench Press\[Machine\]: 50kg 15reps 4sets
+#### 9.Dips: 10reps 4sets
+#### 10.Chest Fly\[Machine, Pec Deck\]: 35kg 15reps 4sets
 
 ---
 
