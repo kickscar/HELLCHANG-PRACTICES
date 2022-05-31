@@ -15,8 +15,9 @@
 #### 5.Dips: 10reps 4sets
 #### 6.Chest Fly\[Machine, Pec Deck\]: 35kg 15reps 5sets
 
-
-
+---
+### [[[ InBody: W:63.4->63.7(kg), SMM:30.3->30.8(kg), BFM:9.3->8.6(kg), PBF:14.7->13.5(%) ]]]
+---
 
 ---
 
