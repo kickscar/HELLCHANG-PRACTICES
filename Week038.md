@@ -24,7 +24,7 @@
 #### 3.Deadlift\[Barbell\]: 40kg 12reps 5sets
 #### 4.Sumo Deadlift\[Kettlebell\]: 20kg 12reps 5sets
 #### 5.Hip Abduction\[Machine\]: 45kg 15reps 5sets
-#### 6.Seated Leg Pres\[Machine\]: 40kg 15reps 5sets
+#### 6.Seated Leg Press\[Machine\]: 40kg 15reps 5sets
 #### 7.Wrist Roller: 1kg 6sets
 
 ## 2022/05/19
