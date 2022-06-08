@@ -13,14 +13,14 @@
 #### 1.Plank: 1mins 3reps
 #### 2.Shoulder Press\[Machine\]: 25kg 15reps 5sets
 #### 3.Side Lateral Raise\[Machine\]: 25kg 15reps 5sets
-#### 4.Arnold Press\[Dumbbell\]: 20kg 15reps 5sets
+#### 4.Arnold Press\[Dumbbell\]: 12kg 15reps 5sets
 #### 5.Reverse Pec Deck Fly\[Machine, Pec Deck\]: 25kg 15reps 5sets
 #### 6.Running: 5km/30mins
 
 ## 2022/05/25
 #### 1.Plank: 1mins 3reps
 #### 2.Side-lying Hip Abduction: 30reps 3sets
-#### 3.Deadlift\[Dumbbell\]: 20kg 15reps 1sets, 24kg 15reps 1sets, 30kg 15reps 1sets, 40kg 15reps 1sets
+#### 3.Deadlift\[Dumbbell\]: 10kg 15reps 1sets, 12kg 15reps 1sets, 14kg 15reps 1sets, 16kg 15reps 1sets
 #### 4.Goblet Squat\[Kettlebell\]: 20kg 15reps 5sets
 #### 5.Split Squat\[Smith Machine\]: 30kg 15reps 5sets
 #### 6.Power Leg Pres\[Machine\]: 50kg 15reps 5sets
@@ -45,8 +45,8 @@
 
 ## 2022/05/29
 #### 1.Plank: 1mins 3reps
-#### 2.Deadlift\[Dumbbell\]: 20kg 15reps 1sets, 24kg 15reps 1sets, 30kg 15reps 1sets, 40kg 15reps 1sets
-#### 3.Goblet Squat\[Dumbbell\]: 15kg 15reps 4sets
+#### 2.Deadlift\[Dumbbell\]: 10kg 15reps 1sets, 12kg 15reps 1sets, 14kg 15reps 1sets, 16kg 15reps 1sets
+#### 3.Goblet Squat\[Dumbbell\]: 16kg 15reps 4sets
 #### 4.Deadlift\[Barbell\]: 40kg 12reps 4sets
 #### 5.Power Leg Pres\[Machine\]: 50kg 12reps 2sets, 70kg 12reps 2sets
 #### 6.Lying Leg Curls\[Machine\]: 30kg 12reps 4sets
