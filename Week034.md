@@ -38,7 +38,7 @@
 #### 2.Assisted Dip\[Machine\]: -25kg 12reps 5sets
 #### 3.Flat Bench Press\[Barbell\]: 40kg 12reps 5sets
 #### 4.Incline Bench Press\[Machine\]: 40kg 12reps 5sets
-#### 5.Flat Chest Press\[Dumbbell\]: 30kg 12reps 3sets
+#### 5.Flat Chest Press\[Dumbbell\]: 16kg 12reps 3sets
 #### 6.Chest Fly\[Machine, Pec Deck\]: 30kg 15reps 4sets
 #### 7.Leg Extension\[Machine]: 35kg 12reps 5sets
 #### 8.Hip Adduction\[Machine\]: 45kg 20reps 5sets
