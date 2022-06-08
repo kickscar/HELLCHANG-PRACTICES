@@ -11,7 +11,7 @@
 #### 1.Plank: 1mins 3reps
 #### 2.Incline Bench Press\[Machine\]: 50kg 15reps 5sets
 #### 3.Seated Chest Press\[Machine\]: 40kg 15reps 5sets
-#### 4.Flat Bench Press\[Dumbbell\]: 40kg 15reps 5sets
+#### 4.Flat Bench Press\[Dumbbell\]: 16kg 15reps 5sets
 #### 5.Dips: 10reps 4sets
 #### 6.Chest Fly\[Machine, Pec Deck\]: 35kg 15reps 5sets
 
@@ -23,7 +23,7 @@
 #### 1.Plank: 1mins 3reps
 #### 2.Shoulder Press\[Machine\]: 35kg 15reps 5sets
 #### 3.Side Lateral Raise\[Machine\]: 35kg 15reps 5sets
-#### 4.Arnold Press\[Dumbbell\]: 30kg 15reps 5sets
+#### 4.Arnold Press\[Dumbbell\]: 12kg 15reps 5sets
 #### 5.Reverse Pec Deck Fly\[Machine, Pec Deck\]: 30kg 15reps 5sets
 #### 6.Running: 5km/30mins
 
