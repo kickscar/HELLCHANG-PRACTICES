@@ -58,7 +58,7 @@
 
 ## 2022/03/13
 #### 1.Seated Chest Press\[Machine\]: 30kg 20reps 3sets
-#### 2.Flat Chest Press\[Dumbbell\]: 35kg 15reps 4sets
+#### 2.Flat Chest Press\[Dumbbell\]: 16kg 15reps 4sets
 #### 3.Assisted Dips\[Machine\]: -25kg 12reps 4sets
 #### 4.Chest Fly\[Machine, Pec Deck\]: 30kg 15reps 3sets
 #### 5.Incline Bench Press\[Barbell\]: 30kg 20reps 4sets 
