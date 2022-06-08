@@ -23,7 +23,7 @@
 #### 2.Side-lying Hip Abduction: 30reps 3sets
 #### 3.Sumo Deadlift\[Smith Machine\]: 50kg 12reps 4sets
 #### 4.Hip Abduction\[Machine\]: 55kg 12reps 4sets
-#### 5.Deadlift\[Dumbbel\]: 16kg 12reps 4sets
+#### 5.Deadlift\[Dumbbell\]: 16kg 12reps 4sets
 #### 6.Seated Leg Press\[Machine\]: 50kg 12reps 4sets
 #### 7.Wrist Roller: 1kg 6sets
 ---
