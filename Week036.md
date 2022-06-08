@@ -13,12 +13,12 @@
 #### 3.Assisted Pullup\[Machine\]: -30kg 12reps 5sets
 #### 4.Assisted Dip\[Machine\]: -20kg 15reps 5sets
 #### 5.Shoulder Press\[Machine\]: 20kg 20reps 5sets
-#### 6.One Arm Bent Over Row\[Dumbbell \]: 15kg 15reps 5sets
+#### 6.One Arm Bent Over Row\[Dumbbell \]: 16kg 15reps 5sets
 
 ## 2022/05/04
 #### 1.Assisted Dip\[Machine\]: -20kg 15reps 5sets
 #### 2.Incline Bench Press\[Machine\]: 50kg 15reps 5sets
-#### 3.Flat Chest Press\[Dumbbell\]: 30kg 15reps 5sets
+#### 3.Flat Chest Press\[Dumbbell\]: 16kg 15reps 5sets
 #### 4.Hip Adduction\[Machine\]: 50kg 15reps 5sets
 #### 5.Hip Abduction\[Machine\]: 45kg 15reps 5sets
 #### 6.Lying Leg Curls\[Machine\]: 30kg 15reps 5sets
