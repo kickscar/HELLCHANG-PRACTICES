@@ -31,7 +31,7 @@
 #### 1.Plank: 1mins 3reps
 #### 2.Side-lying Hip Abduction: 30reps 3sets
 #### 3.Side Lateral Raise\[Machine\]: 25kg 12reps 4sets
-#### 4.Side Lateral Raise\[Dumbbel\]: 10kg 12reps 2sets
+#### 4.Side Lateral Raise\[Dumbbell\]: 10kg 12reps 2sets
 #### 5.Military Press\[Smith Machine\]: 30kg 12reps 4sets
 #### 6.Arnold Press\[Dumbbell\]: 12kg 12reps 4sets
 #### 7.Reverse Pec Deck Fly\[Machine, Pec Deck\]: 25kg 12reps 4sets
