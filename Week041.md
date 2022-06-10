@@ -37,6 +37,15 @@
 #### 7.Reverse Pec Deck Fly\[Machine, Pec Deck\]: 25kg 12reps 4sets
 #### 8.Running: 5km/30mins
 
+## 2022/06/10
+#### 1.Plank: 1mins 3reps
+#### 2.Straight Arm Pulldown\[Cable\]: 25kg 12reps 4sets
+#### 3.Wide Pulldown Rear\[Machine\]: 40kg 12reps 4sets
+#### 4.Seated Row\[Machine\]: 35kg 12reps 4sets
+#### 5.Long Pull Row\[Machine]: 35kg 12reps 4sets
+#### 6.Biceps Curl \[Machine\]: 20kg 12reps 4sets
+#### 7.Lying Tricep Extension\[EZ Bar\]: 20kg 12reps 4sets 
+
 ---
 
 <img src='./_resources/__041.png' width='400px' />
