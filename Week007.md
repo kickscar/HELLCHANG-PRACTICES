@@ -47,4 +47,4 @@
 
 
 ---
-<img src='./_resources/__07.jpg' width='400px' />
+<img src='./_resources/__007.jpg' width='400px' />
