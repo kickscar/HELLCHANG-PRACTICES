@@ -29,4 +29,4 @@
 #### 7.Shoulder Press\[Machine\]: 15kg 12reps 3sets(3rd failed)
 
 ---
-<img src='./_resources/__06.jpg' width='400px' />
+<img src='./_resources/__006.jpg' width='400px' />
