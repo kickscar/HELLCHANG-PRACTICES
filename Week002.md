@@ -39,4 +39,4 @@
 #### 5.Hanging Leg Raise: 15reps 3sets
 
 ---
-<img src='./_resources/buggypirate.png' width='400px' />
+<img src='./_resources/__002.png' width='400px' />
