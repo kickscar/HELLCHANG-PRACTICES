@@ -15,5 +15,5 @@
 #### 6.Side Lateral Raise\[Dumbbell\]: 4kg 12reps 5sets
 
 ---
-<img src='./_resources/romance-dawn.png' width='400px' />
+<img src='./_resources/__001.png' width='400px' />
 
