@@ -15,8 +15,8 @@
 #### 3.Flat Bench Press\[Barbell\]: 50kg 12reps 4sets
 #### 4.Dips: 10reps 4sets
 #### 5.Chest Fly\[Machine, Pec Deck\]: 35kg 12reps 4sets
-#### 6.Cable Tricep Pushdown\[Cable\]: 25kg 12reps 4sets
-#### 7.Lying Tricep Extension\[EZ Bar\]: 20kg 12reps 4sets 
+#### 6.Cable Triceps Pushdown\[Cable\]: 25kg 12reps 4sets
+#### 7.Lying Triceps Extension\[EZ Bar\]: 20kg 12reps 4sets 
 
 ## 2022/06/08
 #### 1.Plank: 1mins 3reps
@@ -43,7 +43,7 @@
 #### 3.Wide Pulldown Rear\[Machine\]: 40kg 12reps 4sets
 #### 4.Seated Row\[Machine\]: 35kg 12reps 4sets
 #### 5.Long Pull Row\[Machine]: 35kg 12reps 4sets
-#### 6.Biceps Curl \[Machine\]: 20kg 12reps 4sets
+#### 6.Biceps Curls \[Machine\]: 20kg 12reps 4sets
 #### 7.Lying Tricep Extension\[EZ Bar\]: 20kg 12reps 4sets 
 
 ## 2022/06/12
@@ -53,8 +53,8 @@
 #### 4.Flat Bench Press\[Barbell\]: 40kg 12reps 2sets, 50kg 12reps 2sets 
 #### 5.Dips: 10reps 4sets
 #### 6.Chest Fly\[Machine, Pec Deck\]: 35kg 12reps 4sets
-#### 7.Cable Tricep Pushdown\[Cable\]: 25kg 12reps 4sets
-#### 8.Lying Tricep Extension\[EZ Bar\]: 20kg 12reps 4sets 
+#### 7.Cable Triceps Pushdown\[Cable\]: 25kg 12reps 4sets
+#### 8.Lying Triceps Extension\[EZ Bar\]: 20kg 12reps 4sets 
 
 ---
 
