@@ -46,6 +46,16 @@
 #### 6.Biceps Curl \[Machine\]: 20kg 12reps 4sets
 #### 7.Lying Tricep Extension\[EZ Bar\]: 20kg 12reps 4sets 
 
+## 2022/06/11
+#### 1.Plank: 1mins 3reps
+#### 2.Incline Bench Press\[Dumbbell\]: 12kg 12reps 2sets, 14kg 12reps 2sets
+#### 3.Incline Bench Press\[Machine\]: 50kg 12reps 2sets
+#### 4.Flat Bench Press\[Barbell\]: 40kg 12reps 2sets, 50kg 12reps 2sets 
+#### 5.Dips: 10reps 4sets
+#### 6.Chest Fly\[Machine, Pec Deck\]: 35kg 12reps 4sets
+#### 7.Cable Tricep Pushdown\[Cable\]: 25kg 12reps 4sets
+#### 8.Lying Tricep Extension\[EZ Bar\]: 20kg 12reps 4sets 
+
 ---
 
 <img src='./_resources/__041.png' width='400px' />
