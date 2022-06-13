@@ -6,8 +6,8 @@
 #### 5.Lat Pulldown\[Machine\]: 30kg 15reps 5sets
 #### 6.Wide Pulldown Rear\[Machine\]: 40kg 15reps 5sets
 #### 7.One Arm Bent Over Row\[Dumbbell \]: 12kg 15reps 5sets
-#### 8.Biceps Curl \[Machine\]: 20kg 15reps 5sets
-#### 9.Biceps Curl \[Dumbbell\]: 12kg 15reps 5sets
+#### 8.Biceps Curls \[Machine\]: 20kg 15reps 5sets
+#### 9.Biceps Curls \[Dumbbell\]: 12kg 15reps 5sets
 
 ## 2022/05/24
 #### 1.Plank: 1mins 3reps
@@ -48,7 +48,7 @@
 #### 2.Deadlift\[Dumbbell\]: 10kg 15reps 1sets, 12kg 15reps 1sets, 14kg 15reps 1sets, 16kg 15reps 1sets
 #### 3.Goblet Squat\[Dumbbell\]: 16kg 15reps 4sets
 #### 4.Deadlift\[Barbell\]: 40kg 12reps 4sets
-#### 5.Power Leg Pres\[Machine\]: 50kg 12reps 2sets, 70kg 12reps 2sets
+#### 5.Power Leg Press\[Machine\]: 50kg 12reps 2sets, 70kg 12reps 2sets
 #### 6.Lying Leg Curls\[Machine\]: 30kg 12reps 4sets
 #### 7.Hip Adduction\[Machine\]: 65kg 15reps 4sets
 #### 8.Incline Bench Press\[Machine\]: 50kg 15reps 4sets
