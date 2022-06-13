@@ -46,7 +46,7 @@
 #### 6.Biceps Curl \[Machine\]: 20kg 12reps 4sets
 #### 7.Lying Tricep Extension\[EZ Bar\]: 20kg 12reps 4sets 
 
-## 2022/06/11
+## 2022/06/12
 #### 1.Plank: 1mins 3reps
 #### 2.Incline Bench Press\[Dumbbell\]: 12kg 12reps 2sets, 14kg 12reps 2sets
 #### 3.Incline Bench Press\[Machine\]: 50kg 12reps 2sets
