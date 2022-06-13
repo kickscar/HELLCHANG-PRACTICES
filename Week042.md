@@ -4,8 +4,8 @@
 #### 3.Lying Leg Curls\[Machine\]: 35kg 12reps 5sets
 #### 4.Hip Abduction\[Machine\]: 65kg 12reps 5sets
 #### 5.Split Squat\[Smith Machine\]: 30kg 12reps 5sets
-#### 6.Biceps Curl \[Machine\]: 20kg 12reps 5sets
-#### 7.Biceps Curl \[Dumbbell\]: 12kg 12reps 5sets
+#### 6.Biceps Curls \[Machine\]: 20kg 12reps 5sets
+#### 7.Biceps Curls \[Dumbbell\]: 12kg 12reps 5sets
 #### 8.Running: 5km/30mins
 
 ---
