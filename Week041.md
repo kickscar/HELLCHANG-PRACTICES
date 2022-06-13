@@ -33,7 +33,7 @@
 #### 3.Side Lateral Raise\[Machine\]: 25kg 12reps 4sets
 #### 4.Side Lateral Raise\[Dumbbell\]: 10kg 12reps 2sets
 #### 5.Military Press\[Smith Machine\]: 30kg 12reps 4sets
-#### 6.Sealted Bent Over Lateral Raise\[Dumbbell\]: 12kg 12reps 4sets
+#### 6.Seated Bent Over Lateral Raise\[Dumbbell\]: 12kg 12reps 4sets
 #### 7.Arnold Press\[Dumbbell\]: 12kg 12reps 4sets
 #### 8.Reverse Pec Deck Fly\[Machine, Pec Deck\]: 25kg 12reps 4sets
 
@@ -44,7 +44,7 @@
 #### 4.Seated Row\[Machine\]: 35kg 12reps 4sets
 #### 5.Long Pull Row\[Machine]: 35kg 12reps 4sets
 #### 6.Biceps Curls \[Machine\]: 20kg 12reps 4sets
-#### 7.Lying Tricep Extension\[EZ Bar\]: 20kg 12reps 4sets 
+#### 7.Lying Triceps Extension\[EZ Bar\]: 20kg 12reps 4sets 
 
 ## 2022/06/12
 #### 1.Plank: 1mins 3reps
