@@ -20,6 +20,14 @@
 #### 8.Biceps Curls \[Machine\]: 20kg 12reps 4sets
 #### 9.Biceps Curls \[Dumbbell\]: 12kg 12reps 4sets
 
+## 2022/06/15
+#### 1.Plank: 1mins 3reps
+#### 2.Side-lying Hip Abduction: 30reps 3sets
+#### 3.Sumo Deadlift\[Smith Machine\]: 50kg 12reps 4sets
+#### 4.Hip Adduction\[Machine\]: 55kg 12reps 4sets
+#### 5.Seated Leg Press\[Machine\]: 50kg 12reps 4sets
+#### 6.HIIT\[Cycle\]: 10lv 60secs 100(over)rpm 5sets
+
 ---
 
 <img src='./_resources/__042.png' width='400px' />
