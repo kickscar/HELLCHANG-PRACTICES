@@ -28,6 +28,15 @@
 #### 5.Seated Leg Press\[Machine\]: 50kg 12reps 4sets
 #### 6.HIIT\[Cycle\]: 10lv 60secs 100(over)rpm 5sets
 
+## 2022/06/16
+#### 1.Plank: 1mins 3reps
+#### 2.Incline Bench Press\[Dumbbell\]: 12kg 12reps 1sets, 16kg 12reps 3sets
+#### 3.Flat Bench Press\[Barbell\]: 40kg 12reps 1sets, 50kg 12reps 3sets 
+#### 4.Dips: 10reps 4sets
+#### 5.Chest Fly\[Machine, Pec Deck\]: 35kg 12reps 4sets
+#### 6.Cable Triceps Pushdown\[Cable\]: 25kg 12reps 4sets
+#### 7.Lying Triceps Extension\[EZ Bar\]: 20kg 12reps 4sets 
+
 ---
 
 <img src='./_resources/__042.png' width='400px' />
