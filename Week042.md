@@ -37,6 +37,15 @@
 #### 6.Cable Triceps Pushdown\[Cable\]: 25kg 12reps 4sets
 #### 7.Lying Triceps Extension\[EZ Bar\]: 20kg 12reps 4sets 
 
+## 2022/06/17
+#### 1.Plank: 1mins 3reps
+#### 2.Dead Bug: 15reps 3sets
+#### 3.Side Lateral Raise\[Machine\]: 25kg 12reps 4sets
+#### 4.Reverse Pec Deck Fly\[Machine, Pec Deck\]: 25kg 12reps 4sets
+#### 5.Shoulder Press\[Machine\]: 35kg 12reps 4sets
+#### 6.Arnold Press\[Dumbbell\]: 12kg 12reps 4sets
+#### 7.Running: 5km/30mins
+
 ---
 
 <img src='./_resources/__042.png' width='400px' />
