@@ -19,6 +19,16 @@
 #### 7.Split Squat\[Smith Machine\]: 30kg 12reps 5sets
 #### 8.Wrist Roller: 1kg 12sets
 
+## 2022/06/22
+#### 1.Plank: 1mins 3reps
+#### 2.Side-lying Hip Abduction: 30reps 3sets
+#### 3.Side Lateral Raise\[Machine\]: 25kg 12reps 4sets
+#### 4.Side Lateral Raise\[Dumbbell\]: 5kg 12reps 3sets
+#### 5.Military Press\[Smith Machine\]: 30kg 12reps 4sets
+#### 6.Reverse Pec Deck Fly\[Machine, Pec Deck\]: 25kg 12reps 4sets
+#### 7.Arnold Press\[Dumbbell\]: 12kg 12reps 4sets
+#### 8.Wrist Roller: 1kg 16sets
+
 ---
 
 <img src='./_resources/__043.png' width='400px' />
