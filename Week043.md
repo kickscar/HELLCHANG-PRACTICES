@@ -9,6 +9,15 @@
 #### 8.Biceps Curls \[Machine\]: 20kg 12reps 4sets
 #### 9.Biceps Curls \[Dumbbell\]: 12kg 12reps 4sets
 
+## 2022/06/21
+#### 1.Plank: 1mins 3reps
+#### 2.Dead Bug: 15reps 3sets
+#### 3.Deadlift\[Barbell\]: 40kg 12reps 5sets
+#### 4.Lying Leg Curls\[Machine\]: 30kg 12reps 5sets
+#### 5.Hip Abduction\[Machine\]: 60kg 12reps 5sets
+#### 4.Goblet Squat\[Dumbbell\]: 16kg 12reps 5sets
+#### 7.Split Squat\[Smith Machine\]: 30kg 12reps 5sets
+#### 8.Wrist Roller: 1kg 12sets
 
 ---
 
