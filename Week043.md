@@ -29,6 +29,18 @@
 #### 7.Arnold Press\[Dumbbell\]: 12kg 12reps 4sets
 #### 8.Wrist Roller: 1kg 16sets
 
+## 2022/06/23
+#### 1.One Leg Deadlift \[Dumbbell\]: 5kg 12reps 3sets
+#### 2.Incline Bench Press\[Dumbbell\]: 16kg 12reps 4sets
+#### 3.Flat Bench Press\[Barbell\]: 40kg 12reps 2sets, 50kg 12reps 2sets 
+#### 4.Dips: 10reps 4sets
+#### 5.Seated Chest Press\[Machine\]: 40kg 12reps 4sets
+#### 6.Chest Fly\[Machine, Pec Deck\]: 35kg 12reps 4sets
+#### 7.Cable Triceps Pushdown\[Cable\]: 25kg 12reps 4sets
+#### 8.Lying Triceps Extension\[EZ Bar\]: 20kg 12reps 4sets 
+#### 9.Wrist Roller: 1kg 16sets
+#### 10.Walking\[Treadmill\]: 50degs 3km/10mins
+
 ---
 
 <img src='./_resources/__043.png' width='400px' />
