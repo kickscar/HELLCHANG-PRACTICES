@@ -39,7 +39,7 @@
 #### 7.Cable Triceps Pushdown\[Cable\]: 25kg 12reps 4sets
 #### 8.Lying Triceps Extension\[EZ Bar\]: 20kg 12reps 4sets 
 #### 9.Wrist Roller: 1kg 16sets
-#### 10.Walking\[Treadmill\]: 50degs 3km/10mins
+#### 10.Walking\[Treadmill\]: 50%incline 3km/10mins
 
 ---
 
