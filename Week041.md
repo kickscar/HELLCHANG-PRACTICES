@@ -53,7 +53,7 @@
 #### 4.Flat Bench Press\[Barbell\]: 40kg 12reps 2sets, 50kg 12reps 2sets 
 #### 5.Dips: 10reps 4sets
 #### 6.Chest Fly\[Machine, Pec Deck\]: 35kg 12reps 4sets
-#### 7.Cable Triceps Pushdown\[Cable\]: 25kg 12reps 4sets
+#### 7.Triceps Pushdown\[Cable\]: 25kg 12reps 4sets
 #### 8.Lying Triceps Extension\[EZ Bar\]: 20kg 12reps 4sets 
 
 ---
