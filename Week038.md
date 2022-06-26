@@ -13,7 +13,7 @@
 #### 3.One Arm Seated Row\[Machine\]: 20kg 15reps 5sets
 #### 4.Straight Arm Pulldown\[Cable\]: 30kg 15reps 4sets
 #### 5.Wide Pulldown Rear\[Machine\]: 40kg 15reps 5sets
-#### 6.One Arm Bent Over Row\[Dumbbell\]: 12kg 15reps 5sets
+#### 6.Bent Over Row\[Dumbbell\]: 12kg 15reps 5sets
 #### 7.Pull Up: 12reps 3sets
 #### 8.Wrist Roller: 1kg 6sets
 #### 9.Running: 5km/30mins
