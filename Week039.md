@@ -7,7 +7,7 @@
 #### 6.Wide Pulldown Rear\[Machine\]: 40kg 15reps 5sets
 #### 7.One Arm Bent Over Row\[Dumbbell \]: 12kg 15reps 5sets
 #### 8.Biceps Curls \[Machine\]: 20kg 15reps 5sets
-#### 9.Biceps Curls \[Dumbbell\]: 12kg 15reps 5sets
+#### 9.Hammer Curls \[Dumbbell\]: 12kg 12reps 4sets
 
 ## 2022/05/24
 #### 1.Plank: 1mins 3reps
@@ -37,10 +37,10 @@
 
 ## 2022/05/27
 #### 1.Plank: 1mins 3reps
-#### 2.One Arm Seated Row\[Machine\]: 20kg 15reps 4sets
+#### 2.Seated Row(One Arm)\[Machine\]: 20kg 15reps 4sets
 #### 3.Straight Arm Pulldown\[Cable\]: 25kg 15reps 4sets
 #### 4.Lat Pulldown\[Machine\]: 30kg 15reps 4sets
-#### 5.One Arm Bent Over Row\[Dumbbell \]: 12kg 15reps 4sets
+#### 5.Bent Over Row\[Dumbbell \]: 12kg 15reps 4sets
 #### 6.Back Extension: 15reps 4sets
 
 ## 2022/05/29
