@@ -10,7 +10,7 @@
 ## 2022/05/17
 #### 1.Plank: 1mins 3reps
 #### 2.Side-lying Hip Abduction: 30reps 3sets
-#### 3.One Arm Seated Row\[Machine\]: 20kg 15reps 5sets
+#### 3.Seated Row(One Arm)\[Machine\]: 20kg 15reps 5sets
 #### 4.Straight Arm Pulldown\[Cable\]: 30kg 15reps 4sets
 #### 5.Wide Pulldown Rear\[Machine\]: 40kg 15reps 5sets
 #### 6.Bent Over Row\[Dumbbell\]: 12kg 15reps 5sets
