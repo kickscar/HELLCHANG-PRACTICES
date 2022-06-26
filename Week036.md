@@ -28,7 +28,7 @@
 #### 1.Deadlift\[Barbell\]: 35kg 12reps 5sets
 #### 2.Lying Leg Curls\[Machine\]: 30kg 12reps 5sets
 #### 3.Hip Abduction\[Machine\]: 50kg 20reps 5sets
-#### 4.Row Pully\[Machine]: 30kg 15reps 5sets
+#### 4.Long Pull Row\[Machine]: 30kg 15reps 5sets
 #### 5.Lat Pulldown\[Machine\]: 35kg 12reps 5sets
 #### 6.Assisted Pullup\[Machine\]: -30kg 12reps 5sets
 #### 7.Shoulder Press\[Machine\]: 20kg 15reps 5sets
