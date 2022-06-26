@@ -7,7 +7,7 @@
 #### 6.Low Row\[Machine\]: 15kg 12reps 4sets
 #### 7.Long Pull Row\[Machine]: 35kg 12reps 4sets
 #### 8.Biceps Curls \[Machine\]: 20kg 12reps 4sets
-#### 9.Biceps Curls \[Dumbbell\]: 12kg 12reps 4sets
+#### 9.Hammer Curls \[Dumbbell\]: 12kg 12reps 4sets
 
 ## 2022/06/21
 #### 1.Plank: 1mins 3reps
@@ -60,6 +60,15 @@
 #### 7.Hammer Curls \[Dumbbell\]: 12kg 12reps 4sets
 #### 8.Back Extension: 12reps 4sets
 #### 9.Walking\[Treadmill\]: 50%incline 3km/10mins
+
+## 2022/06/26
+#### 1.Plank: 1mins 3reps
+#### 2.Deadlift\[Dumbbell\]: 16kg 12reps 4sets
+#### 3.Sumo Deadlift\[Smith Machine\]: 40kg 12reps 4sets
+#### 4.Incline Bench Press\[Dumbbell\]: 16kg 12reps 4sets
+#### 5.Dips: 10reps 4sets
+#### 6.Lat Pulldown\[Machine\]: 35kg 12reps 4sets
+#### 7.Assisted Pullup\[Machine\]: -10kg 5reps 10sets
 
 ---
 
