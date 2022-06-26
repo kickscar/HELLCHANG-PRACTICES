@@ -39,7 +39,7 @@
 
 ## 2022/05/20
 #### 1.Plank: 1mins 3reps
-#### 2.One Arm Seated Row\[Machine\]: 20kg 15reps 5sets
+#### 2.Seated Row(One Arm)\[Machine\]: 20kg 15reps 5sets
 #### 3.Straight Arm Pulldown\[Cable\]: 25kg 15reps 4sets
 #### 4.Lat Pulldown\[Machine\]: 30kg 15reps 5sets
 #### 5.Assisted Pullup\[Machine\]: -20kg 10reps 5sets
