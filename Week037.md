@@ -12,7 +12,7 @@
 #### 1.Plank: 1mins 3reps
 #### 2.Side-lying Hip Abduction: 30reps 3sets
 #### 3.Lat Pulldown\[Machine\]: 35kg 15reps 5sets
-#### 4.Long Pull Row\[Machine]: 30kg 15reps 5sets
+#### 4.Long Pull Row\[cable\]: 30kg 15reps 5sets
 #### 5.Seated Row\[Machine\]: 35kg 15reps 5sets
 #### 6.Straight Arm Pulldown\[Cable\]: 30kg 15reps 4sets
 
@@ -36,7 +36,7 @@
 #### 1.Plank: 1mins 3reps
 #### 2.Hip Abduction\[Machine\]: 45kg 15reps 5sets
 #### 3.Incline Bench Press\[Machine\]: 50kg 15reps 5sets
-#### 4.One Arm Seated Chest Press\[Machine\]: 20kg 15reps 5sets
+#### 4.Seated Chest Press(One Arm)\[Machine\]: 20kg 15reps 5sets
 #### 5.Flat Bench Press\[Barbell\]: 40kg 15reps 5sets
 #### 6.Lying Leg Curls\[Machine\]: 35kg 15reps 5sets
 #### 7.Hip Adduction\[Machine\]: 50kg 20reps 5sets
