@@ -41,6 +41,26 @@
 #### 9.Wrist Roller: 1kg 16sets
 #### 10.Walking\[Treadmill\]: 50%incline 3km/10mins
 
+## 2022/06/24
+#### 1.Plank: 1mins 3reps
+#### 2.Deadlift\[Barbell\]: 40kg 12reps 5sets
+#### 3.Lying Leg Curls\[Machine\]: 35kg 12reps 5sets
+#### 4.Hip Abduction\[Machine\]: 60kg 12reps 5sets
+#### 5.Goblet Squat\[Dumbbell\]: 16kg 12reps 5sets
+#### 6.Split Squat\[Smith Machine\]: 30kg 12reps 5sets
+#### 8.Wrist Roller: 1kg 12sets
+
+## 2022/06/25
+#### 1.Plank: 1mins 3reps
+#### 2.Straight Arm Pulldown\[Cable\]: 30kg 12reps 4sets
+#### 3.Wide Pulldown Rear\[Machine\]: 40kg 12reps 4sets
+#### 4.Long Pull Row\[Machine]: 35kg 12reps 4sets
+#### 5.Bent Over Row\[Dumbbell\]: 14kg 12reps 4sets
+#### 6.Biceps Curls \[Machine\]: 20kg 12reps 4sets
+#### 7.Hammer Curls \[Dumbbell\]: 12kg 12reps 4sets
+#### 8.Back Extension: 12reps 4sets
+#### 9.Walking\[Treadmill\]: 50%incline 3km/10mins
+
 ---
 
 <img src='./_resources/__043.png' width='400px' />
