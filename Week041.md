@@ -6,7 +6,7 @@
 #### 5.Assisted Pullup\[Machine\]: -20kg 10reps 5sets
 #### 6.Seated Row\[Machine\]: 35kg 12reps 4sets
 #### 7.Low Row\[Machine\]: 20kg 15reps 5sets
-#### 8.Long Pull Row\[Machine]: 35kg 12reps 5sets
+#### 8.Long Pull Row\[Cable\]: 35kg 12reps 5sets
 #### 9.Back Extension: 15reps 4sets
 
 ## 2022/06/07
@@ -42,7 +42,7 @@
 #### 2.Straight Arm Pulldown\[Cable\]: 25kg 12reps 4sets
 #### 3.Wide Pulldown Rear\[Machine\]: 40kg 12reps 4sets
 #### 4.Seated Row\[Machine\]: 35kg 12reps 4sets
-#### 5.Long Pull Row\[Machine]: 35kg 12reps 4sets
+#### 5.Long Pull Row\[Cable\]: 35kg 12reps 4sets
 #### 6.Biceps Curls \[Machine\]: 20kg 12reps 4sets
 #### 7.Lying Triceps Extension\[EZ Bar\]: 20kg 12reps 4sets 
 
