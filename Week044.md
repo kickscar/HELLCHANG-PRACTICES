@@ -5,7 +5,7 @@
 #### 4.One Arm Seated Row\[Machine\]: 20kg 15reps 5sets
 #### 5.Straight Arm Pulldown\[Cable\]: 30kg 12reps 4sets
 #### 6.Seated Row\[Machine\]: 35kg 12reps 4sets
-#### 7.Long Pull Row\[Cable]: 35kg 12reps 4sets
+#### 7.Long Pull Row\[Cable\]: 35kg 12reps 4sets
 #### 8.Biceps Curls \[Machine\]: 20kg 12reps 4sets
 #### 9.Hammer Curls \[Dumbbell\]: 12kg 12reps 4sets
 
