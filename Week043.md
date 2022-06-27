@@ -5,7 +5,7 @@
 #### 4.Pullup: 10reps 4sets
 #### 5.Lat Pulldown\[Machine\]: 35kg 12reps 4sets
 #### 6.Low Row\[Machine\]: 15kg 12reps 4sets
-#### 7.Long Pull Row\[Machine]: 35kg 12reps 4sets
+#### 7.Long Pull Row\[Cable\]: 35kg 12reps 4sets
 #### 8.Biceps Curls \[Machine\]: 20kg 12reps 4sets
 #### 9.Hammer Curls \[Dumbbell\]: 12kg 12reps 4sets
 
@@ -54,7 +54,7 @@
 #### 1.Plank: 1mins 3reps
 #### 2.Straight Arm Pulldown\[Cable\]: 30kg 12reps 4sets
 #### 3.Wide Pulldown Rear\[Machine\]: 40kg 12reps 4sets
-#### 4.Long Pull Row\[Machine]: 35kg 12reps 4sets
+#### 4.Long Pull Row\[Cable\]: 35kg 12reps 4sets
 #### 5.Bent Over Row\[Dumbbell\]: 14kg 12reps 4sets
 #### 6.Biceps Curls \[Machine\]: 20kg 12reps 4sets
 #### 7.Hammer Curls \[Dumbbell\]: 12kg 12reps 4sets
