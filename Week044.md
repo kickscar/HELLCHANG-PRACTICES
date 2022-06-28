@@ -9,6 +9,17 @@
 #### 8.Biceps Curls \[Machine\]: 20kg 12reps 4sets
 #### 9.Hammer Curls \[Dumbbell\]: 12kg 12reps 4sets
 
+
+## 2022/06/28
+#### 1.Plank: 1mins 3reps
+#### 2.Side Lateral Raise\[Machine\]: 30kg 12reps 4sets
+#### 3.Side Lateral Raise\[Dumbbell\]: 5kg 12reps 3sets
+#### 4.Military Press\[Smith Machine\]: 40kg 12reps 4sets
+#### 5.Arnold Press\[Dumbbell\]: 12kg 12reps 4sets
+#### 6.Shoulder Press\[Machine\]: 35kg 12reps 4sets
+#### 7.Reverse Pec Deck Fly\[Machine, Pec Deck\]: 30kg 12reps 4sets
+#### 8.Running: 5km/30mins
+
 ---
 
 <img src='./_resources/__044.png' width='400px' />
