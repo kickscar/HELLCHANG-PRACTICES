@@ -20,6 +20,16 @@
 #### 7.Reverse Pec Deck Fly\[Machine, Pec Deck\]: 30kg 12reps 4sets
 #### 8.Running: 5km/30mins
 
+
+## 2022/06/29
+#### 1.Single Leg Deadlift\[Kettlebell\]: 10kg 12reps 4sets
+#### 2.Deadlift\[Barbell\]: 50kg 12reps 4sets
+#### 3.Hip Abduction\[Machine\]: 60kg 12reps 4sets
+#### 4.Goblet Squat\[Kettlebell\]: 12kg 12reps 4sets
+#### 5.Split Squat\[Smith Machine\]: 40kg 12reps 5sets
+#### 6.Power Leg Press\[Machine\]: 60kg 12reps 4sets 
+#### 7.Wrist Roller: 1kg 12sets
+
 ---
 
 <img src='./_resources/__044.png' width='400px' />
