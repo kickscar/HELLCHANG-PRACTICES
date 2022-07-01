@@ -22,7 +22,7 @@
 
 
 ## 2022/06/29
-#### 1.Single Leg Deadlift\[Kettlebell\]: 10kg 12reps 4sets
+#### 1.One Leg Deadlift\[Kettlebell\]: 10kg 12reps 4sets
 #### 2.Deadlift\[Barbell\]: 50kg 12reps 4sets
 #### 3.Hip Abduction\[Machine\]: 60kg 12reps 4sets
 #### 4.Goblet Squat\[Kettlebell\]: 12kg 12reps 4sets
@@ -30,6 +30,15 @@
 #### 6.Power Leg Press\[Machine\]: 60kg 12reps 4sets 
 #### 7.Wrist Roller: 1kg 12sets
 
+## 2022/06/30
+#### 1.One Leg Deadlift\[Kettlebell\]: 10kg 12reps 4sets
+#### 2.Incline Bench Press\[Dumbbell\]: 16kg 12reps 4sets
+#### 3.Flat Bench Press\[Barbell\]: 50kg 12reps 4sets 
+#### 4.Dips: 12reps 4sets
+#### 5.Seated Chest Press\[Machine\]: 60kg 12reps 4sets
+#### 6.Chest Fly\[Machine, Pec Deck\]: 35kg 12reps 4sets
+#### 7.Cable Triceps Pushdown\[Cable\]: 20kg 12reps 4sets
+#### 8.Lying Triceps Extension\[EZ Bar\]: 20kg 12reps 4sets 
 ---
 
 <img src='./_resources/__044.png' width='400px' />
