@@ -18,6 +18,14 @@
 #### 7.Wrist Roller: 1kg 12sets
 #### 8.Running: 5km/30mins
 
+## 2022/07/06
+#### 1.One Leg Deadlift\[Kettlebell\]: 10kg 12reps 4sets
+#### 2.Power Leg Press\[Machine\]: 40kg 12reps 1sets, 60kg 10reps 2sets, 80kg 7reps 2sets  
+#### 3.Deadlift\[Barbell\]: 40kg 12reps 1sets, 50kg 10reps 2sets, 60kg 7reps 1sets, 
+#### 4.Full Squat\[Smith Machine\]: 40kg 12reps 1sets, 60kg 10reps 2set, 40kg 12reps 2sets
+#### 5.Wrist Roller: 1kg 12sets
+#### 6.Running: 5km/30mins
+
 
 ---
 
