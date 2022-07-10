@@ -46,6 +46,16 @@
 #### 7.Face Pulls\[Cable\]: 20kg 12reps 4sets
 #### 8.Running: 5km/30mins
 
+## 2022/07/10
+#### 1.Plank: 1mins 3reps
+#### 2.One Leg Deadlift\[Kettlebell\]: 10kg 12reps 4sets
+#### 3.Straight Arm Pulldown\[Cable\]: 30kg 12reps 4sets
+#### 4.Lat Pulldown\[Machine\]: 35kg 12reps 4sets
+#### 5.Long Pull Row\[Cable\]: 35kg 12reps 4sets
+#### 6.Bent Over Row\[Dumbbell\]: 14kg 12reps 4sets
+#### 7.Biceps Curls \[Machine\]: 20kg 12reps 4sets
+#### 8.Hammer Curls \[Dumbbell\]: 12kg 12reps 4sets
+#### 9.Back Extension: 15reps 4sets
 ---
 
 
