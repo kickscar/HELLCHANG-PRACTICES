@@ -41,4 +41,4 @@
 #### 9.Hip Abduction\[Machine\]: 45kg 20reps 5sets
 ---
 
-<img src='./_resources/__027.png' width='400px' />
+<img src='./_resources/__027.jpg' width='400px' />
