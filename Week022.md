@@ -38,10 +38,6 @@
 #### 6.One Arm Dumbbell Row\[Dumbbell\]: 12kg 15reps 5sets
 #### 7.Wrist Roller: 1kg 6sets
 
----
-### [[[ InBody: W:60.8->63.4(kg), SMM:29.9->30.3(kg), BFM:7.3->9.3(kg), PBF:12.1->14.7(%) ]]]
----
-
 ## 2021/12/24
 #### 1.Plank: 1mins 3reps
 #### 2.Deadlift\[Barbell\]: 40kg 15reps 5sets
