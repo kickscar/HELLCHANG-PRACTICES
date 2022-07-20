@@ -27,10 +27,6 @@
 #### 3.Leg Extension\[Machine\]: 25kg 12reps 5sets
 #### 4.Side Lateral Raise\[Dumbbell\]: 4kg 12reps 5sets
 
----
-### [[[ InBody: W:60.1(kg), SMM:28.4(kg), BFM:9.1(kg), PBF:15.2(%) ]]]
----
-
 ## 2021/07/02
 #### 1.Incline Bench Press\[Machine, Smith\]: 40kg 12reps 5sets 
 #### 2.Chest Fly\[Machine, Pec Deck\]: 20kg 12reps 5sets 
