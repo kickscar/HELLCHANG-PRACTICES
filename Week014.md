@@ -37,8 +37,4 @@
 #### 6.Seated Low Row\[Cable\]: 25kg 20reps 4sets
 #### 7.Seated Row\[Machine\]: 25kg 20reps 4sets
 
----
-### [[[ InBody: W:60.2->60.8(kg), SMM:29.3->29.9(kg), BFM:7.9->7.3(kg), PBF:13.2->12.1(%) ]]]
----
-
 <img src='./_resources/__014.png' width='400px' />
