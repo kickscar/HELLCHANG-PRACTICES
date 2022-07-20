@@ -8,10 +8,6 @@
 #### 7.Power Leg Press\[Machine\]: 20kg 12reps 5sets
 #### 8.Side Lateral Raise\[Dumbbell\]: 5kg 20reps 5sets
 
----
-### [[[ InBody: W:60.1->60.2(kg), SMM:28.4->29.3(kg), BFM:9.1->7.9(kg), PBF:15.2->13.2(%) ]]]
----
-
 ## 2021/09/25
 #### 1.Lat Pulldown\[Machine\]: 20kg 20reps 4sets
 #### 2.Seated Low Row\[Cable\]: 20kg 20reps 4sets
