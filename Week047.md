@@ -18,5 +18,13 @@
 #### 7.Chest Fly\[Machine, Pec Deck\]: 35kg 12reps 2sets, 40kg 12reps 2set
 #### 8.Cable Triceps Pushdown\[Cable\]: 30kg 12reps 4sets
 #### 9.Triceps Kickback\[Dumbbell\]: 6kg 12reps 4sets 
+
+## 2022/07/20
+#### 1.One Leg Deadlift\[Kettlebell\]: 10kg 12reps 4sets
+#### 2.Power Leg Press\[Machine\]: 40kg 12reps 1sets, 80kg 10reps 2sets, 120kg 10reps 2sets
+#### 3.HIIT\[Cycle\]: 10lv 60secs 100(over)rpm 3sets
+#### 4.Hack Squat\[Machine\]: 40kg 12reps 4sets
+#### 5.Jump Squat\[Kettlebell\]: 10kg 12reps 4sets
+
 ---
 <img src='./_resources/__047.png' width='400px' />
