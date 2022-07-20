@@ -26,10 +26,6 @@
 #### 5.Hip Abduction\[Machine\]: 65kg 12reps 4sets
 #### 6.Wrist Roller: 2kg 12sets
 
----
-### [[[ InBody: W:63.7->63.6(kg), SMM:30.8->31.2(kg), BFM:8.6->8.1(kg), PBF:13.5->12.8(%) ]]]
----
-
 ## 2022/07/14
 #### 1.One Leg Deadlift\[Kettlebell\]: 10kg 12reps 4sets
 #### 2.Cable Chest Fly\[Cable\]: 30kg 12reps 2sets, 40kg 12reps 2sets
