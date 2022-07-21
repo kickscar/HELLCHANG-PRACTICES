@@ -26,5 +26,14 @@
 #### 4.Hack Squat\[Machine\]: 40kg 12reps 4sets
 #### 5.Jump Squat\[Kettlebell\]: 10kg 12reps 4sets
 
+## 2022/07/21
+#### 1.One Leg Deadlift\[Kettlebell\]: 10kg 12reps 4sets
+#### 2.Side Lateral Raise\[Dumbbell\]: 10kg 12reps 3sets, 5kg 12reps 2sets
+#### 3.Arnold Press\[Dumbbell\]: 12kg 12reps 4sets
+#### 4.Military Press\[Smith Machine\]: 40kg 12reps 4sets
+#### 5.Seated Bent Over Lateral Raise\[Dumbbell\]: 12kg 12reps 4sets
+#### 6.Wrist Roller: 2kg 12sets
+#### 7.Running: 5km/30mins
+
 ---
 <img src='./_resources/__047.png' width='400px' />
