@@ -11,7 +11,7 @@
 ## 2022/07/19
 #### 1.Plank: 1mins 3reps
 #### 2.One Leg Deadlift\[Kettlebell\]: 10kg 12reps 4sets
-#### 3.Pullup: 10reps 4sets
+#### 3.Pullup: 5reps 3sets
 #### 4.Incline Bench Press\[Dumbbell\]: 12kg 12reps 4sets
 #### 5.Flat Bench Press\[Barbell\]: 50kg 12reps 4sets 
 #### 6.Dips: 10reps 4sets
@@ -52,6 +52,18 @@
 #### 5.Split Squat\[Smith Machine\]: 40kg 12reps 4sets
 #### 6.Hip Abduction\[Machine\]: 70kg 12reps 4sets
 #### 7.Running: 5km/30mins
+
+## 2022/07/24
+#### 1.Plank: 1mins 3reps
+#### 2.One Leg Deadlift\[Kettlebell\]: 10kg 12reps 4sets
+#### 3.Deadlift\[Barbell\]: 40kg 12reps 1sets, 50kg 10reps 1sets, 60kg 7reps 2sets
+#### 4.Lying Leg Curls\[Machine\]: 35kg 12reps 4sets
+#### 5.Pullup: 5reps 3sets
+#### 6.Long Pull Row\[Cable\]: 35kg 12reps 4sets
+#### 7.Dips: 10reps 4sets
+#### 8.Incline Bench Press\[Dumbbell\]: 12kg 12reps 4sets
+#### 9.Side Lateral Raise\[Dumbbell\]: 6kg 12reps 4sets
+#### 10.Arnold Press\[Dumbbell\]: 12kg 12reps 4sets
 
 ---
 <img src='./_resources/__047.png' width='400px' />
