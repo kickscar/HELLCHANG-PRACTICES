@@ -27,5 +27,14 @@
 #### 5.HIIT\[Cycle\]: 10lv 200m 100(over)rpm 3sets
 #### 6.Running: 3km/20mins
 
+## 2022/07/28
+#### 1.One Leg Deadlift\[Kettlebell\]: 10kg 12reps 4sets
+#### 2.Side Lateral Raise\[Dumbbell\]: 10kg 12reps 4sets, 5kg 20reps 4sets
+#### 3.Arnold Press\[Dumbbell\]: 12kg 12reps 4sets
+#### 4.Military Press\[Smith Machine\]: 40kg 12reps 4sets
+#### 5.Seated Bent Over Lateral Raise\[Dumbbell\]: 12kg 12reps 4sets
+#### 6.Wrist Roller: 2kg 12sets
+#### 7.Running: 3km/20mins
+
 ---
 <img src='./_resources/__048.png' width='400px' />
