@@ -5,5 +5,14 @@
 #### 4.Biceps Curls \[EZBar\]: 10kg 20reps 3sets
 #### 5.Running: 5km/30mins
 
+## 2022/08/02
+#### 1.Plank: 1mins 3reps
+#### 2.One Leg Deadlift\[Kettlebell\]: 10kg 15reps 4sets
+#### 3.Side Lateral Raise\[Dumbbell\]: 8kg 15reps 4sets
+#### 4.Arnold Press\[Dumbbell\]: 12kg 15reps 4sets
+#### 5.Shoulder Press\[Machine\]: 30kg 15reps 4sets
+#### 6.Reverse Pec Deck Fly\[Machine, Pec Deck\]: 30kg 15reps 4sets
+#### 7.Running: 3km/20mins
+
 ---
 <img src='./_resources/__049.png' width='400px' />
