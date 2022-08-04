@@ -14,5 +14,12 @@
 #### 6.Reverse Pec Deck Fly\[Machine, Pec Deck\]: 30kg 15reps 4sets
 #### 7.Running: 3km/20mins
 
+## 2022/08/03
+#### 1.One Leg Deadlift\[Kettlebell\]: 10kg 12reps 5sets
+#### 2.Bent Over Row\[Barbell\]: 30kg 15reps 5sets
+#### 3.Assisted Pullup\[Machine\]: -30kg 15reps 5sets
+#### 4.Long Pull Row\[Cable\]: 30kg 12reps 5sets
+#### 5.Running: 5km/30mins
+
 ---
 <img src='./_resources/__049.png' width='400px' />
