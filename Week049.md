@@ -21,5 +21,13 @@
 #### 4.Long Pull Row\[Cable\]: 30kg 12reps 5sets
 #### 5.Running: 5km/30mins
 
+## 2022/08/04
+#### 1.One Leg Deadlift\[Kettlebell\]: 10kg 15reps 4sets
+#### 2.Incline Bench Press\[Dumbbell\]: 10kg 15reps 1sets, 12kg 15reps 2sets, 14kg 15reps 2sets
+#### 3.Dips: 10reps 5sets
+#### 4.Chest Fly\[Machine, Pec Deck\]: 30kg 15reps 2sets, 35kg 15reps 3set
+#### 5.Shoulder Press\[Machine\]: 30kg 15reps 2sets, 35kg 15reps 3sets
+#### 6.Running: 5km/30mins
+
 ---
 <img src='./_resources/__049.png' width='400px' />
