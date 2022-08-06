@@ -38,11 +38,11 @@
 
 ## 2022/08/06
 #### 1.Plank: 1mins 3reps
-#### 2.One Leg Deadlift\[Kettlebell\]: 10kg 12reps 5sets
-#### 3.Straight Arm Pulldown\[Cable\]: 30kg 12reps 4sets
+#### 2.One Leg Deadlift\[Kettlebell\]: 10kg 15reps 5sets
+#### 3.Straight Arm Pulldown\[Cable\]: 30kg 15reps 5sets
 #### 4.Bent Over Row\[Barbell\]: 30kg 15reps 5sets
 #### 5.Assisted Pullup\[Machine\]: -25kg 15reps 5sets
-#### 6.Long Pull Row\[Cable\]: 30kg 12reps 5sets
+#### 6.Long Pull Row\[Cable\]: 30kg 15reps 5sets
 
 ---
 <img src='./_resources/__049.png' width='400px' />
