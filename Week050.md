@@ -1,4 +1,4 @@
-## 2022/08/02
+## 2022/08/08
 #### 1.Plank: 1mins 3reps
 #### 2.One Leg Deadlift\[Kettlebell\]: 10kg 15reps 5sets
 #### 3.Side Lateral Raise\[Dumbbell\]: 5kg 25reps 5sets
