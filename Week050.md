@@ -6,5 +6,12 @@
 #### 5.One Arm Shoulder Press\[Dumbbell\]: 10kg 20reps 5sets, 
 #### 6.Reverse Pec Deck Fly\[Machine, Pec Deck\]: 30kg 20reps 4sets
 
+## 2022/08/09
+#### 1.Plank: 1mins 3reps
+#### 2.One Leg Deadlift\[Kettlebell\]: 10kg 15reps 5sets
+#### 3.Straight Arm Pulldown\[Cable\]: 20kg 20reps 5sets
+#### 4.Wide Pulldown Rear\[Machine\]: 30kg 20reps 5sets
+#### 5.Seated Row\[Machine\]: 30kg 20reps 5sets
+
 ---
 <img src='./_resources/__050.png' width='400px' />
