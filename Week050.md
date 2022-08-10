@@ -13,5 +13,14 @@
 #### 4.Wide Pulldown Rear\[Machine\]: 30kg 20reps 5sets
 #### 5.Seated Row\[Machine\]: 30kg 20reps 5sets
 
+## 2022/08/10
+#### 1.Plank: 1mins 3reps
+#### 2.One Leg Deadlift\[Kettlebell\]: 10kg 15reps 5sets
+#### 3.Deadlift\[Barbell\]: 40kg 15reps 5sets
+#### 4.Power Leg Press\[Machine\]: 40kg 20reps 5sets
+#### 5.Lying Leg Curls\[Machine\]: 30kg 15reps 5sets
+#### 6.Split Squat\[Kettlebell\]: 10kg 15reps 5sets
+#### 7.Hip Abduction\[Machine\]: 65kg 20reps 5sets
+
 ---
 <img src='./_resources/__050.png' width='400px' />
