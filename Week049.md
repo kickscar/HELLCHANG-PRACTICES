@@ -31,7 +31,7 @@
 
 ## 2022/08/05
 #### 1.One Leg Deadlift\[Kettlebell\]: 10kg 15reps 4sets
-#### 2.Power Leg Press\[Machine\]: 40kg 15reps 1sets, 50kg 15reps 2sets, 60kg 15reps 2sets
+#### 2.Power Leg Press\[Machine\]: 40kg 20reps 2sets, 50kg 15reps 3sets
 #### 3.Lying Leg Curls\[Machine\]: 30kg 15reps 5sets
 #### 4.Split Squat\[Kettlebell\]: 10kg 15reps 5sets
 #### 5.Running: 5km/30mins
