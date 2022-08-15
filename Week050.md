@@ -27,7 +27,7 @@
 #### 2.One Leg Deadlift\[Kettlebell\]: 10kg 15reps 5sets
 #### 3.Dips: 15reps 4sets
 #### 4.Flat Bench Press\[Dumbbell\]: 12kg 20reps 2sets, 14kg 20reps 2sets
-#### 5.Flat Bench Press\[Barbell\]: 40kg 15reps 2sets, 50kg 15reps 12sets
+#### 5.Flat Bench Press\[Barbell\]: 40kg 15reps 2sets, 50kg 15reps 2sets
 #### 6.Cable Cross-Over\[Cable\]: 40kg 20reps 4sets
 #### 7.Running: 5km/30mins
 
