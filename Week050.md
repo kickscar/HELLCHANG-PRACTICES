@@ -39,5 +39,15 @@
 #### 5.Reverse Pec Deck Fly\[Machine, Pec Deck\]: 30kg 20reps 4sets
 #### 6.Military Press\[Smith Machine\]: 30kg 15reps 5sets
 
+## 2022/08/14
+#### 1.Plank: 1mins 3reps
+#### 2.One Leg Deadlift\[Kettlebell\]: 10kg 15reps 5sets
+#### 3.Assisted Pullup\[Machine\]: -30kg 15reps 5sets
+#### 4.Bent Over Row\[Barbell\]: 30kg 15reps 5sets
+#### 5.Long Pull Row\[Cable\]: 30kg 12reps 5sets
+#### 6.Wide Pulldown Rear\[Machine\]: 30kg 20reps 5sets
+#### 7.Seated Row\[Machine\]: 30kg 20reps 5sets
+#### 8.Straight Arm Pulldown\[Cable\]: 20kg 20reps 5sets
+
 ---
 <img src='./_resources/__050.png' width='400px' />
