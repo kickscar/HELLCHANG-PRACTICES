@@ -4,8 +4,8 @@
 #### 2.Flat Bench Press\[Barbell\]: 40kg 15reps 2sets, 50kg 15reps 2sets
 #### 3.Assisted Dips\[Machine\]: -20kg 15reps 5sets
 #### 4.Incline Bench Press\[Dumbbell\]: 12kg 15reps 3sets, 14kg 15reps 2sets
-#### 5.Chest Fly\[Machine, Pec Deck\]: 30kg 20reps 2sets, 35kg 20reps 2set
-#### 6.Cable Cross-Over\[Cable\]: 40kg 15reps 4sets
+#### 5.Cable Cross-Over\[Cable\]: 40kg 15reps 3sets
+#### 6.Chest Fly\[Machine, Pec Deck\]: 30kg 20reps 2sets, 35kg 20reps 2set
 #### 7.Running: 5km/30mins
 
 ---
