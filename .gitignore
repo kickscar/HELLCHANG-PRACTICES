@@ -1,0 +1,4 @@
+# Module excludes paths & files
+venv/
+**/.idea
+**/__pycache__
