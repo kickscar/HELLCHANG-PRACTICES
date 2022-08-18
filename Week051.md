@@ -16,6 +16,14 @@
 #### 5.Seated One-Leg Press\[Machine\]: 40kg 15reps 5sets
 #### 6.Running: 5km/30mins
 
+## 2022/08/17
+#### 1.Plank: 1mins 3reps
+#### 2.Seated Row\[Machine\]: 30kg 20reps 5sets
+#### 3.Lat Pulldown\[Machine\]: 35kg 12reps 4sets
+#### 4.Long Pull Row\[Cable\]: 30kg 12reps 5sets
+#### 5.Bent Over Row\[Barbell\]: 30kg 15reps 5sets
+#### 6.Running: 5km/30mins
+
 ---
 
 <img src='./_resources/__051.png' width='400px' />
