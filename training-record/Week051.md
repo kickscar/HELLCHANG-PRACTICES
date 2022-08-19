@@ -36,7 +36,7 @@
 #### 1.Plank: 1mins 3reps
 #### 2.Side Lateral Raise\[Dumbbell\]: 5kg 23reps 5sets
 #### 3.Upright Row\[EZBar\]: 10kg 20reps 5sets
-#### 4.Bent Over Raise\[Dumbbell\]: 5kg 25reps 5sets
+#### 4.Bent Over Lateral Raise\[Dumbbell\]: 5kg 25reps 5sets
 #### 5.Reverse Cable Cross-Over\[Cable\]: 5kg 20reps 5sets
 #### 6.Running: 5km/30mins
 ---
