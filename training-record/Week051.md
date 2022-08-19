@@ -4,7 +4,7 @@
 #### 2.Flat Bench Press\[Barbell\]: 40kg 15reps 2sets, 50kg 15reps 2sets
 #### 3.Assisted Dips\[Machine\]: -20kg 15reps 5sets
 #### 4.Incline Bench Press\[Dumbbell\]: 12kg 15reps 3sets, 14kg 15reps 2sets
-#### 5.Cable Cross-Over\[Cable\]: 40kg 15reps 3sets
+#### 5.Cable Cross-Over\[Cable\]: 20kg 15reps 3sets
 #### 6.Chest Fly\[Machine, Pec Deck\]: 30kg 20reps 2sets, 35kg 20reps 2set
 #### 7.Running: 5km/30mins
 
@@ -24,6 +24,13 @@
 #### 5.Bent Over Row\[Barbell\]: 30kg 15reps 5sets
 #### 6.Running: 5km/30mins
 
+## 2022/08/18
+#### 1.Plank: 1mins 3reps
+#### 2.Chest Fly\[Machine, Pec Deck\]: 30kg 20reps 2sets, 35kg 20reps 2set
+#### 3.Flat Bench Press\[Barbell\]: 40kg 15reps 3sets, 50kg 15reps 2sets
+#### 4.Seated Chest Press\[Machine\]: 40kg 15reps 5sets
+#### 5.Cable Cross-Over\[Cable\]: 20kg 15reps 5sets
+#### 6.Running: 5km/30mins
 ---
 
 <img src='./_resources/__051.png' width='400px' />
