@@ -31,6 +31,14 @@
 #### 4.Seated Chest Press\[Machine\]: 40kg 15reps 5sets
 #### 5.Cable Cross-Over\[Cable\]: 20kg 15reps 5sets
 #### 6.Running: 5km/30mins
+
+## 2022/08/19
+#### 1.Plank: 1mins 3reps
+#### 2.Side Lateral Raise\[Dumbbell\]: 5kg 23reps 5sets
+#### 3.Upright Row\[EZBar\]: 10kg 20reps 5sets
+#### 4.Bent Over Raise\[Dumbbel\]: 5kg 25reps 5sets
+#### 5.Reverse Cable Cross-Over\[Cable\]: 5kg 20reps 5sets
+#### 6.Running: 5km/30mins
 ---
 
 <img src='./_resources/__051.png' width='400px' />
