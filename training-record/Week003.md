@@ -19,9 +19,9 @@
 #### 1.Shoulder Press\[Machine\]: 15kg 12reps 5sets
 #### 2.Side Lateral Raise\[Dumbbell\]: 4kg 20reps 5sets
 #### 3.Incline Bench Press\[Machine, Smith\]: 30kg 12reps 3sets, 40kg 12reps 3sets
-#### 4.Chest Fly \ Machine, Pec Deck\]: 20kg 12reps 5sets 
+#### 4.Chest Fly \[Machine, Pec Deck\]: 20kg 12reps 5sets 
 #### 5.Seated Low Row\[Cable\]: 20kg 12reps 5sets 
-#### 6.Hanging Leg Raise: 5kg 20reps 3sets(3th failed)
+#### 6.Hanging Leg Raise: 20reps 3sets(3th failed)
 
 
 ## 2021/07/08
