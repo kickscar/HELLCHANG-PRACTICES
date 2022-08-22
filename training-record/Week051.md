@@ -41,4 +41,5 @@
 #### 6.Running: 5km/30mins
 ---
 
-<img src='./_resources/__051.png' width='400px' />
+<img src='../_resources/__051.png' width='400px' />
+
