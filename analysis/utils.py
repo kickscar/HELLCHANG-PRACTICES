@@ -1,6 +1,7 @@
 import re
 import ssl
 import sys
+import urllib
 from urllib.request import Request, urlopen
 from datetime import datetime
 
@@ -10,7 +11,10 @@ def crawling(url='', encoding='utf-8', err=lambda e: print(f'{e} : {datetime.now
         request = Request(url)
 
         ssl._create_default_https_context = ssl._create_unverified_context
+
+        urllib.urlcleanup()
         response = urlopen(request)
+
         print(f'{datetime.now()}: success for request [{url}]')
 
         receive = response.read()
