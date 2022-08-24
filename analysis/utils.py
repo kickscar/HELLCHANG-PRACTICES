@@ -1,3 +1,4 @@
+import re
 import ssl
 import sys
 from urllib.request import Request, urlopen
@@ -37,3 +38,10 @@ def filters(data, *procs):
         results = proc(results)
 
     return results
+
+
+def seperate_value(value):
+    value, unit = re.compile(r'(\d+.\d*)\s*(.*)').match(re.sub(r"[\([{})\]\s]", "", value)).groups()
+    return float(value), unit
+
+

@@ -1,4 +1,5 @@
 import sys
+from matplotlib import pyplot as plt
 from itertools import count
 from utils import crawling, clean_strings, filters
 
@@ -14,25 +15,25 @@ def fetch_week_records(week):
             lambda d: clean_strings(d, str.strip))))
 
 
-def arrange_week_recored(logs):
-    records = []
+def arrange_week_records(records):
+    results = []
 
-    for log in logs:
-        if log.startswith('####'):
-            exercise, recorditems = (log.replace('####', '').strip().split(':'))
-            records.append((date, exercise, *recorditems.strip().split(' ')))
-        elif log.startswith('##'):
-            date = log.replace('##', '').strip()
+    for record in records:
+        if record.startswith('####'):
+            exercise, recorditems = (record.replace('####', '').strip().split(':'))
+            results.append((date, exercise, *recorditems.strip().split(' ')))
+        elif record.startswith('##'):
+            date = record.replace('##', '').strip()
 
-    return records
+    return results
 
 
-for index in count(start=50):
-    logs = fetch_week_records(index)
-    if len(logs) == 0:
+for index in count(start=1):
+    results_fectch = fetch_week_records(index)
+    if len(results_fectch) == 0:
         break
 
-    results = arrange_week_recored(logs)
-    print(results)
+    result_arrange = arrange_week_records(results_fectch)
+    print(result_arrange)
 
 
