@@ -1,51 +1,37 @@
-import re
 import ssl
 import sys
-import urllib
 from urllib.request import Request, urlopen
 from datetime import datetime
 
 
-def crawling(url='', encoding='utf-8', err=lambda e: print(f'{e} : {datetime.now()}', file=sys.stderr), *procs):
+def crawling(url='', encoding='utf-8', err=lambda e: print(f'{e} : {datetime.now()}', file=sys.stderr)):
     try:
-        request = Request(url)
-
+        req = Request(url)
         ssl._create_default_https_context = ssl._create_unverified_context
 
-        urllib.urlcleanup()
-        response = urlopen(request)
+        resp = urlopen(req)
+        recv = resp.read().decode(encoding, errors='replace')
 
         print(f'{datetime.now()}: success for request [{url}]')
-
-        receive = response.read()
-        return receive.decode(encoding, errors='replace')
+        return recv
     except Exception as e:
         err(e)
 
 
-def clean_strings(strings, *funcs):
-    results = []
-
-    for string in strings:
+def strsclean(strs, *funcs):
+    res = []
+    for s in strs:
         for func in funcs:
-            string = func(string)
-
-        results.append(string)
-
-    return results
+            s = func(s)
+        res.append(s)
+    return res
 
 
 def filters(data, *procs):
-    results = data
-
+    res = data
     for proc in procs:
-        results = proc(results)
+        res = proc(res)
+    return res
 
-    return results
-
-
-def seperate_value(value):
-    value, unit = re.compile(r'(\d+.\d*)\s*(.*)').match(re.sub(r"[\([{})\]\s]", "", value)).groups()
-    return float(value), unit
 
 
