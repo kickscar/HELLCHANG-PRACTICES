@@ -1,4 +1,4 @@
-## 2022/08/23
+## 2022/08/22
 #### 1.Plank: 1mins 3reps
 #### 2.One Leg Deadlift\[Kettlebell\]: 10kg 15reps 5sets
 #### 3.Power Leg Press\[Machine\]: 80kg 20reps 2sets, 100kg 20reps 3sets
@@ -7,7 +7,7 @@
 #### 6.Hanging Leg Raises\[Captain's Chair\]: 15reps 5sets 
 #### 7.Running: 5km/30mins
 
-## 2022/08/24
+## 2022/08/23
 #### 1.Plank: 1mins 3reps
 #### 2.Seated Row\[Machine\]: 30kg 15reps 2sets, 35kg 15reps 3sets
 #### 3.Lat Pulldown\[Machine\]: 30kg 15reps 2sets, 35kg 15reps 3sets
@@ -16,6 +16,15 @@
 #### 6.Wide Pulldown Rear\[Machine\]: 30kg 15reps 5sets
 #### 7.Assisted Pullup\[Machine\]: -20kg 15reps 5sets
 #### 8.Hanging Leg Raises\[Captain's Chair\]: 15reps 5sets 
+
+## 2022/08/24
+#### 1.Chest Fly\[Machine, Pec Deck\]: 30kg 15reps 2sets, 35kg 15reps 3set
+#### 2.Flat Bench Press\[Barbell\]: 40kg 15reps 3sets, 50kg 15reps 2sets
+#### 3.Seated Chest Press\[Machine\]: 40kg 15reps 2sets, 50kg 15reps 3sets
+#### 4.Cable Cross-Over\[Cable\]: 10kg 15reps 5sets
+#### 5.Assisted Dips\[Machine\]: -20kg 12reps 5sets
+#### 6.Biceps Curls \[Fixed Barbell\]: 10kg 15reps 5sets
+#### 7.Hanging Leg Raises\[Captain's Chair\]: 15reps 5sets 
 
 ---
 
