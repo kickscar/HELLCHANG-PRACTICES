@@ -26,6 +26,13 @@
 #### 6.Biceps Curls \[Fixed Barbell\]: 10kg 15reps 5sets
 #### 7.Hanging Leg Raises\[Captain's Chair\]: 15reps 5sets 
 
+## 2022/08/25
+#### 1.One Leg Deadlift\[Kettlebell\]: 10kg 15reps 5sets
+#### 2.Hip Abduction\[Machine\]: 55kg 15reps 2sets, 65kg 15reps 3sets 
+#### 3.Deadlift\[Barbell\]: 40kg 15reps 2sets, 50kg 15reps 3sets 
+#### 5.Seated One-Leg Press\[Machine\]: 40kg 15reps 5sets
+#### 6.Wide Squat\[Kettlebell\]: 15kg 15reps 2sets, 15kg 15reps 3sets
+
 ---
 
 <img src='../_resources/__052.png' width='400px' />
