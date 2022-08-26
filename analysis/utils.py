@@ -18,20 +18,4 @@ def crawling(url='', encoding='utf-8', err=lambda e: print(f'{e} : {datetime.now
         err(e)
 
 
-def strsclean(strs, *funcs):
-    res = []
-    for s in strs:
-        for func in funcs:
-            s = func(s)
-        res.append(s)
-    return res
-
-
-def filters(data, *procs):
-    res = data
-    for proc in procs:
-        res = proc(res)
-    return res
-
-
 
