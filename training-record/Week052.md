@@ -48,7 +48,19 @@
 #### 5.One Arm Shoulder Press\[Dumbbell\]: 10kg 20reps 5sets,
 #### 6.Reverse Pec Deck Fly\[Machine, Pec Deck\]: 30kg 15reps 5sets
 #### 7.Bent Over Lateral Raise\[Dumbbell\]: 5kg 20reps 5sets
-#### 8.Hanging Leg Raises\[Captain's Chair\]: 15reps 5sets 
+#### 8.Hanging Leg Raises\[Captain's Chair\]: 15reps 5sets
+
+## 2022/08/28
+#### 1.Plank: 1mins 3reps
+#### 2.Incline Bench Press\[Dumbbell\]: 12kg 15reps 2sets, 14kg 15reps 3sets
+#### 3.Cable Cross-Over\[Cable\]: 15kg 15reps 5sets
+#### 4.Flat Bench Press\[Barbell\]: 40kg 15reps 2sets, 50kg 15reps 2sets
+#### 5.Assisted Dips\[Machine\]: -20kg 15reps 5sets
+#### 6.Deadlift\[Barbell\]: 40kg 15reps 2sets, 50kg 15reps 3sets 
+#### 7.Lying Leg Curls\[Machine\]: 30kg 15reps 2sets, 35kg 15reps 2sets
+#### 8.Hip Abduction\[Machine\]: 55kg 15reps 2sets, 65kg 15reps 3sets 
+#### 9.Hanging Leg Raises\[Captain's Chair\]: 15reps 5sets 
+
 ---
 
 <img src='../_resources/__052.png' width='400px' />
