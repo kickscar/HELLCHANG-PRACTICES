@@ -40,7 +40,9 @@ exercisedict = {
 }
 
 #########
-dictfile = os.path.join(os.getcwd(), 'exercise-dict.pkl')
+dictdirectory = os.path.join(os.getcwd(), '../dataset/')
+os.mkdir(dictdirectory)
 
+dictfile = os.path.join(os.getcwd(), dictdirectory, 'exercise-dict.pkl')
 with open(dictfile, 'wb') as fdict:
     pickle.dump(exercisedict, fdict, -1)
