@@ -1,10 +1,23 @@
 import os
 import pickle
+from pathlib import Path
+
+
+def main():
+    dictdirectory = os.path.join(Path(os.getcwd()).parent, 'datasets')
+    os.path.isdir(dictdirectory) or os.mkdir(dictdirectory)
+
+    dictfile = os.path.join(os.getcwd(), dictdirectory, 'exercise-dict.pkl')
+    with open(dictfile, 'wb') as fdict:
+        pickle.dump(exercisedict, fdict, -1)
+
 
 exercisedict = {
-    "equipments-dialects": {
+    "equipment-dialects": {
         "Dumbbell": [],
-        "Machine": ["Machin"]
+        "Machine": ["Machin"],
+        "Smith Machine": ["Machine, Smith"],
+        "Pec Deck Machine": ["Machine, Pec Deck"]
     },
     "exercises": {
         "Arnold Press": {
@@ -36,10 +49,4 @@ exercisedict = {
     }
 }
 
-#########
-dictdirectory = os.path.join(os.getcwd(), '../datasets/')
-os.mkdir(dictdirectory)
-
-dictfile = os.path.join(os.getcwd(), dictdirectory, 'exercise-dict.pkl')
-with open(dictfile, 'wb') as fdict:
-    pickle.dump(exercisedict, fdict, -1)
+__name__ == '__main__' and main()
