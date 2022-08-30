@@ -10,13 +10,10 @@ exercisedict = {
         "Arnold Press": {
             "dialects": [],
             "muscle-groups": "Chest",
-            "record-type": ["Weight", "Repetion", "Set"]
+            "record-type": ["Weight", "Repetition", "Set"]
         },
         "Assisted Dip": {
             "dialects": [],
-            "equipment-dialects": {
-                "Machine": [""]
-            },
             "muscle-groups": "Chest",
             "recrod-type": ["Weight", "Repetition", "Set"]
         },
