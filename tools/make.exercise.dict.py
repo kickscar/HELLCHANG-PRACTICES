@@ -23,30 +23,46 @@ exercisedict = {
     "exercises": {
         "Arnold Press": {
             "dialects": [],
-            "muscle-groups": "Chest",
-            "record-type": ["Weight", "Repetition", "Set"]
+            "body-groups": ("Upper Body", "Shoulder"),
+            "muscle-groups": ("Chest",),
+            "record-type": ("Weight", "Repetition", "Set")
         },
         "Assisted Dip": {
             "dialects": ["Assisted Dips"],
-            "muscle-groups": "Chest",
-            "recrod-type": ["Weight", "Repetition", "Set"]
+            "body-groups": ("Upper Body", "Chest"),
+            "muscle-groups": ("Chest",),
+            "recrod-type": ("Weight", "Repetition", "Set")
         },
         "Assisted Pull-Up": {
             "dialects": ["Assisted Pullup"],
-            "muscle-groups": "Lats",
+            "body-groups": ("Upper Body", "Back"),
+            "muscle-groups": ("Lats",),
             "recrod-type": ["Weight", "Repetition", "Set"]
         },
         "Back Extension": {
             "dialects": ["Back Extensions"],
-            "muscle-groups": "Back",
-            "recrod-type": ["Repetition", "Set"]
+            "body-groups": ("Upper Body", "Back"),
+            "muscle-groups": ("Back",),
+            "recrod-type": ("Repetition", "Set")
         },
         "Body-Weight Squat": {
             "dialects": ["Basic Squat", "Basic Squats", "Air Squat"],
-            "muscle-groups": "Quadriceps",
-            "recrod-type": ["Repetition", "Set"]
+            "body-groups": ("Lower Body", ),
+            "muscle-groups": ("Quadriceps",),
+            "recrod-type": ("Repetition", "Set")
+        },
+        "Power Leg Press": {
+            "dialects": ["Power Leg Pres"],
+            "body-groups": ("Lower Body", "Leg"),
+            "muscle-groups": ("Quadriceps",),
+            "recrod-type": ("Weight", "Repetition", "Set")
+        },
+        "Pull-Up": {
+            "dialects": ["Pull Up", "Pullup"],
+            "body-groups": ("Upper Body", "Chest"),
+            "muscle-groups": ("Quadriceps",),
+            "recrod-type": ("Weight", "Repetition", "Set")
         }
-
     }
 }
 
