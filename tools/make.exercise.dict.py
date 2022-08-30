@@ -17,6 +17,7 @@ exercisedict = {
         "Dumbbell": [],
         "Machine": ["Machin"],
         "Smith Machine": ["Machine, Smith"],
+        "EZ Curl Bar": ["Ez Bar", "Ezbar"],
         "Pec Deck Machine": ["Machine, Pec Deck"]
     },
     "exercises": {
@@ -26,7 +27,7 @@ exercisedict = {
             "record-type": ["Weight", "Repetition", "Set"]
         },
         "Assisted Dip": {
-            "dialects": [],
+            "dialects": ["Assisted Dips"],
             "muscle-groups": "Chest",
             "recrod-type": ["Weight", "Repetition", "Set"]
         },
