@@ -37,7 +37,7 @@ exercisedict = {
 }
 
 #########
-dictdirectory = os.path.join(os.getcwd(), '../dataset/')
+dictdirectory = os.path.join(os.getcwd(), '../datasets/')
 os.mkdir(dictdirectory)
 
 dictfile = os.path.join(os.getcwd(), dictdirectory, 'exercise-dict.pkl')
