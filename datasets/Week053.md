@@ -14,5 +14,14 @@
 #### 6.Reverse Pec Deck Fly\[Pec Deck Machine\]: 30kg 15reps 5sets
 #### 7.Bent Over Lateral Raise\[Dumbbell\]: 5kg 20reps 5sets
 
+## 2022/08/31
+#### 1.One Leg Deadlift\[Kettlebell\]: 10kg 15reps 5sets
+#### 2.Hip Abduction\[Machine\]: 55kg 15reps 2sets, 65kg 15reps 3sets 
+#### 3.Wide Squat\[Kettlebell\]: 15kg 15reps 2sets, 15kg 15reps 3sets
+#### 4.Power Leg Press\[Machine\]: 80kg 20reps 2sets, 100kg 20reps 3sets
+#### 5.Walking Lunge\[Fixed Barbell\]: 10kg 15reps 5sets
+#### 6.Lying Leg Curls\[Machine\]: 30kg 15reps 2sets, 35kg 15reps 2sets
+#### 7.Hanging Leg Raises\[Captain's Chair\]: 20reps 5sets
+
 ---
 <img src='../_resources/__053.png' width='400px' />
