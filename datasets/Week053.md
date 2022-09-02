@@ -23,5 +23,12 @@
 #### 6.Lying Leg Curls\[Machine\]: 30kg 15reps 2sets, 35kg 15reps 2sets
 #### 7.Hanging Leg Raises\[Captain's Chair\]: 20reps 5sets
 
+## 2022/09/01
+#### 1.Assisted Dips\[Machine\]: -20kg 15reps 5sets
+#### 2.Incline Bench Press\[Dumbbell\]: 12kg 15reps 2sets, 14kg 15reps 3sets
+#### 3.Incline Chest Fly\[Dumbbell\]: 5kg 15reps 2sets, 8kg 15reps 3sets
+#### 4.Biceps Curls \[Dumbbell\]: 8kg 20reps 3sets
+#### 5.Running: 5km/30mins
+
 ---
 <img src='../_resources/__053.png' width='400px' />
