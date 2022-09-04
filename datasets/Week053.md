@@ -30,5 +30,22 @@
 #### 4.Biceps Curls \[Dumbbell\]: 8kg 20reps 3sets
 #### 5.Running: 5km/30mins
 
+## 2022/09/02
+#### 1.Side Lateral Raise\[Dumbbell\]: 8kg 20reps 5sets
+#### 2.Shoulder Press\[Machine\]: 30kg 20reps 5sets
+#### 3.Shouder Press\[Barbell\]: 25kg 15reps 2sets, 30kg 15reps 3sets 
+#### 4.Upright Row\[EZ Curl Bar\]: 10kg 20reps 5sets
+#### 5.Side Lateral Raise\[Dumbbell\]: 4kg 20reps 5sets
+
+## 2022/09/03
+#### 1.Wide Pulldown Rear\[Machine\]: 30kg 15reps 5sets
+#### 2.Assisted Pullup\[Machine\]: -30kg 15reps 5sets
+#### 3.Long Pull Row\[Cable\]: 30kg 15reps 5sets
+#### 4.Straight Arm Pulldown\[Cable\]: 15kg 15reps 5sets
+#### 5.Bent Over Row\[Dumbbell\]: 12kg 20reps 5sets
+#### 6.Bent Over Row\[Barbell\]: 30kg 15reps 5sets
+#### 7.Cable Triceps Pushdown\[Cable\]: 20kg 20reps 5sets
+#### 8.Hanging Leg Raises\[Captain's Chair\]: 20reps 5sets
+
 ---
 <img src='../_resources/__053.png' width='400px' />
