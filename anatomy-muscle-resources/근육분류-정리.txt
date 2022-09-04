@@ -1,0 +1,62 @@
+Chest
+	- Pectorialis Major(대흉근)
+
+
+Abdominals
+	- Rectus abdominis (복직근)
+		- Trendinous Inscriptions (나눔힘줄)
+	- External Obilique (외복사근)
+	- Serratus Anterior (전거근)
+
+
+
+Soulders
+	- Deltoids Anterior (삼각근 전면)
+	- Deltoids Middle (삼각근 측면)
+	- Deltoids Posterior (삼각근 후면)
+
+
+Back
+	- Trapezius (승모근)
+
+	- Teres Major (대원근)
+	- Teres Minor (소원근)
+	- Infraspinatus (극하근)
+	- Rhomboid Major (대능형근)
+
+	- Latissimus Dorsi (광배근)
+	- Erector Spinae (기립근)
+	- Thoracolumbar Fascia (흉요근막)
+
+
+Hip
+	- Gluteus Maximus (대둔근)
+	- Gluteus Maximus (중둔근)
+
+	
+Legs
+	- Quardriceps Femoris Vastus Lateralis (대퇴사두 외측광근)
+	- Quardriceps Femoris Rectus Femoris (대퇴사두 대퇴직근)
+		- Quardriceps Femoris Vastus Intermedius (대퇴사두 중간광근)
+	- Quardriceps Femoris Vastus Medialis (대퇴사두 내측광근)
+
+	- Calves Tibialis Anterior (하퇴 전경결근)
+	- Calves Peroneus Longus (하퇴 장비골근)
+	- Calves Extensor Digitorum Longus (하퇴 장지신근)
+
+	- Hamstrings Iliotibial Band (슬굴곡 정경인대)
+	- Hamstrings Biceps Femoris (슬굴곡 대퇴이두근)
+	- Hamstrings Semitendinosus (슬굴곡 반건양근)
+	- Hamstrings Adductor Magnus (슬굴곡 대내전근)
+	- Hamstrings Gracilis (슬굴곡 박근)
+
+	- Calves Gastronemius (하퇴 비복근)
+	- Calves Soleus (하퇴 가자미근)
+	- Calves Peroneus Brevis (하퇴 단비골근)
+	- Calves Flexor Hallucis Longus (하퇴 장무지굴근)
+
+	- Thighs
+
+Arms
+
+

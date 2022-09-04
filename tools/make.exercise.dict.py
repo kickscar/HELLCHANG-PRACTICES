@@ -26,44 +26,44 @@ exercisedict = {
         "Arnold Press": {
             "dialects": [],
             "body-group": "Shoulder",
-            "muscle-groups": ("Chest",),
+            "muscle-groups": ("Deltoids", "Anterial Head"),
             "record-type": ("Weight", "Repetition", "Set")
         },
-        "Assisted Dip": {
-            "dialects": ["Assisted Dips"],
+        "Assisted Dips": {
+            "dialects": ["Assisted Dip"],
             "body-group": "Chest",
-            "muscle-groups": ("Chest",),
-            "recrod-type": ("Weight", "Repetition", "Set")
+            "muscle-groups": ("Pectorialis Major",),
+            "record-type": ("Weight", "Repetition", "Set")
         },
         "Assisted Pull-Up": {
             "dialects": ["Assisted Pullup"],
             "body-group": "Back",
-            "muscle-groups": ("Lats",),
-            "recrod-type": ("Weight", "Repetition", "Set")
+            "muscle-groups": ("Latissimus Dorsi",),
+            "record-type": ("Weight", "Repetition", "Set")
         },
         "Back Extension": {
             "dialects": ["Back Extensions"],
             "body-group": "Back",
-            "muscle-groups": ("Back",),
-            "recrod-type": ("Repetition", "Set")
+            "muscle-groups": ("Erector Spinae", "Gluteus Maximus", ""),
+            "record-type": ("Repetition", "Set")
         },
         "Body-Weight Squat": {
             "dialects": ["Basic Squat", "Basic Squats", "Air Squat"],
-            "body-group": "Leg",
-            "muscle-groups": ("Quadriceps",),
-            "recrod-type": ("Repetition", "Set")
+            "body-group": "Legs",
+            "muscle-groups": ("Quardriceps Femoris", "Gluteus Maximus"),
+            "record-type": ("Repetition", "Set")
         },
         "Power Leg Press": {
             "dialects": ["Power Leg Pres"],
-            "body-groups": "Leg",
-            "muscle-groups": ("Quadriceps",),
-            "recrod-type": ("Weight", "Repetition", "Set")
+            "body-groups": "Legs",
+            "muscle-groups": ("Quardriceps Femoris",),
+            "record-type": ("Weight", "Repetition", "Set")
         },
         "Pull-Up": {
             "dialects": ["Pull Up", "Pullup"],
             "body-groups": "Back",
             "muscle-groups": ("Quadriceps",),
-            "recrod-type": ("Weight", "Repetition", "Set")
+            "record-type": ("Weight", "Repetition", "Set")
         }
     }
 }
