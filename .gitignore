@@ -1,3 +1,5 @@
+**/.DS_Store
+
 # Module excludes paths & files
 venv/
 **/.idea
