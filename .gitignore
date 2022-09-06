@@ -2,5 +2,6 @@
 
 # Module excludes paths & files
 venv/
+**/.md
 **/.idea
 **/__pycache__
