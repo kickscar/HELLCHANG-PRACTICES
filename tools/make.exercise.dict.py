@@ -19,7 +19,7 @@ exercisedict = {
         "Dumbbell": [],
         "Machine": ["Machin"],
         "Smith Machine": ["Machine, Smith"],
-        "EZ Curl Bar": ["Ez Bar", "Ezbar"],
+        "EZ Curl Bar": ["Ez Bar", "Ezbar", "Ez Curl Bar"],
         "Pec Deck Machine": ["Machine, Pec Deck"]
     },
     "exercises": {
