@@ -2,6 +2,6 @@
 
 # Module excludes paths & files
 venv/
-datasets/*.md
+datasets/markdown-repos
 **/.idea
 **/__pycache__
