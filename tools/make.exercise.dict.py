@@ -4,14 +4,14 @@ from pathlib import Path
 
 
 def main():
-    dictdirectory = os.path.join(Path(os.getcwd()).parent, 'datasets')
-    os.path.isdir(dictdirectory) or os.mkdir(dictdirectory)
+    pkldirectory = os.path.join(Path(os.getcwd()).parent, 'datasets', 'pickles')
+    os.path.isdir(pkldirectory) or os.mkdir(pkldirectory)
 
-    dictfile = os.path.join(os.getcwd(), dictdirectory, 'exercise-dict.pkl')
-    with open(dictfile, 'wb') as fdict:
-        pickle.dump(exercisedict, fdict, -1)
+    pklfile = os.path.join(os.getcwd(), pkldirectory, 'exercise-dict.pkl')
+    with open(pklfile, 'wb') as fpkl:
+        pickle.dump(exercisedict, fpkl, -1)
 
-    print(f'Pickling the Exercise Dictionary Completed...[{dictfile}]')
+    print(f'Pickling the Exercise Dictionary Completed...[{pklfile}]')
 
 
 exercisedict = {
