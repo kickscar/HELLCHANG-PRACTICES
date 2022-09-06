@@ -27,11 +27,6 @@ restransform = []
 exs_dict = exercisedict['exercises']
 eqptdials_dict = exercisedict['equipment-dialects']
 
-# Tranformation
-restransform = []
-exs_dict = exercisedict['exercises']
-eqptdials_dict = exercisedict['equipment-dialects']
-
 exercise_rawdata_count = 0
 date_rawdata_count = 0
 for raw in rawdata:
