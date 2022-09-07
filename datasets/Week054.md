@@ -6,5 +6,13 @@
 #### 6.Hanging Leg Raises\[Captain's Chair\]: 20reps 5sets 
 #### 7.Running: 5km/30mins
 
+## 2022/09/06
+#### 1.Plank: 1mins 3reps
+#### 1.Straight Arm Pulldown\[Cable\]: 20kg 20reps 5sets
+#### 2.Lat Pulldown\[Machine\]: 30kg 15reps 2sets, 35kg 15reps 3sets
+#### 3.Seated Row\[Machine\]: 40kg 20reps 5sets
+#### 4.Bent Over Row\[Dumbbell\]: 10kg 20reps 5sets
+#### 7.Running: 5km/30mins
+
 ---
 <img src='../_resources/__054.png' width='400px' />
