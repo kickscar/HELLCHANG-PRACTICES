@@ -24,5 +24,13 @@
 #### 7.Hanging Leg Raises\[Captain's Chair\]: 15reps 5sets
 #### 8.Running: 5km/30mins
 
+## 2022/09/08
+#### 1.Biceps Curls \[Barbell\]: 15kg 20reps 5sets
+#### 2.Biceps Curls \[Dumbbell\]: 6kg 20reps 5sets, 8kg 20reps 5sets 
+#### 3.Cable Triceps Pushdown\[Cable\]: 20kg 20reps 5sets
+#### 4.Lying Triceps Extension\[EZ Curl Bar\]: 10kg 20reps 5sets
+#### 5.Hanging Leg Raises\[Captain's Chair\]: 15reps 5sets
+#### 6.Running: 5km/30mins
+
 ---
 <img src='../_resources/__054.png' width='400px' />
