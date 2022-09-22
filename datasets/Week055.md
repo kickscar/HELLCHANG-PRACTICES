@@ -12,5 +12,12 @@
 #### 4.Hip Abduction\[Machine\]: 65kg 20reps 5sets
 #### 5.Hanging Leg Raises\[Captain's Chair\]: 20reps 5sets
 
+## 2022/09/21
+#### 1.Assisted Dips\[Machine\]: -20kg 15reps 5sets
+#### 2.Incline Chest Fly\[Dumbbell\]: 5kg 15reps 2sets, 8kg 15reps 3sets
+#### 3.Incline Bench Cable Fly\[Cable\]: 5kg 15reps 5sets,
+#### 4.Flat Bench Press\[Barbell\]: 40kg 15reps 3sets, 45kg 15reps 2sets
+#### 5.Running: 5km/30mins
+
 ---
 <img src='../_resources/__055.png' width='400px' />
