@@ -19,5 +19,13 @@
 #### 4.Flat Bench Press\[Barbell\]: 40kg 15reps 3sets, 45kg 15reps 2sets
 #### 5.Running: 5km/30mins
 
+## 2022/09/22
+#### 1.Side Lateral Raise\[Dumbbell\]': 10kg 20reps 5sets
+#### 2.Shoulder Press\[Machine\]: 20kg 20reps 5sets
+#### 3.Reverse Cable Cross-Over\[Cable\]: 15kg 5reps 5sets
+#### 4.Seated Reverse Fly\[Dumbbell\]: 12kg 20reps 5sets
+#### 5.Upright Row\[EZ Curl Bar\]: 20kg 15reps 4sets
+#### 6.Running: 5km/30mins
+
 ---
 <img src='../_resources/__055.png' width='400px' />
