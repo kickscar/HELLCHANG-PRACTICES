@@ -25,5 +25,15 @@
 #### 7.Hanging Leg Raises\[Captain's Chair\]: 20reps 5sets
 #### 8.Running: 5km/30mins
 
+## 2022/09/30
+#### 1.Plank: 1mins 3reps
+#### 2.Side Lateral Raise\[Dumbbell\]: 8kg 20reps 5sets
+#### 3.Upright Row\[EZ Curl Bar\]: 15kg 15reps 5sets
+#### 4.Behind The Neck Press\[Smith Machine\]: 30kg 20reps 5sets,
+#### 5.Shoulder Press\[Machine\]: 35kg 15reps 4sets
+#### 6.Reverse Pec Deck Fly\[Pec Deck Machine\]: 30kg 15reps 5sets
+#### 7.Reverse Cable Cross-Over\[Cable\]: 5kg 15reps 5sets
+#### 8.Hanging Leg Raises\[Captain's Chair\]: 20reps 5sets
+
 ---
 <img src='../_resources/__056.png' width='400px' />
