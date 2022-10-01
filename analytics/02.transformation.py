@@ -40,6 +40,8 @@ for raw in rawdata:
         exname = re.sub(r'[\d+\\.]', '', exname).strip()
         pttrmatch = re.compile(r'([a-zA-Z\s\',()\-]+)\s*\[([a-zA-Z\s\',]+)\]').match(exname)
         exname, equipment = (exname, None) if pttrmatch is None else pttrmatch.groups()
+        if equipment == 'Free':
+            print(f'----> {exname}, {equipment}, {date}')
 
         # 2-1. name
         exname = exname.strip().title()
