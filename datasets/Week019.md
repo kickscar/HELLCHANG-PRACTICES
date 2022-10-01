@@ -39,7 +39,7 @@
 
 ## 2021/12/02
 #### 1.Push Up: 20reps 3sets
-#### 2.Flat Bench Press\[Free\]: 30kg 15reps 5sets
+#### 2.Flat Bench Press\[Barbell\]: 30kg 15reps 5sets
 #### 3.Seated Chest Press\[Machine\]: 25kg 20reps 5sets
 #### 4.Flat Chest Press\[Machine\]: 30kg 20reps 5sets
 #### 5.Incline Chest Press\[Machine\]: 40kg 15reps 5sets
