@@ -40,8 +40,6 @@ for raw in rawdata:
         exname = re.sub(r'[\d+\\.]', '', exname).strip()
         pttrmatch = re.compile(r'([a-zA-Z\s\',()\-]+)\s*\[([a-zA-Z\s\',]+)\]').match(exname)
         exname, equipment = (exname, None) if pttrmatch is None else pttrmatch.groups()
-        if equipment == 'Free':
-            print(f'----> {exname}, {equipment}, {date}')
 
         # 2-1. name
         exname = exname.strip().title()
@@ -53,14 +51,14 @@ for raw in rawdata:
                 break
 
         # 2-2. equipment
-        if equipment:
-            equipment = equipment.strip().title()
-            for eqptdials_key in eqptdials_dict:
-                if equipment in eqptdials_dict[eqptdials_key]:
-                    equipment = eqptdials_key
-                    break
+        equipment = (equipment if equipment else (exs_dict[exname]['default-equipment'] if exs_dict[exname]['default-equipment'] else '')).strip().title()
+        for eqptdials_key in eqptdials_dict:
+            if equipment in eqptdials_dict[eqptdials_key]:
+                equipment = eqptdials_key
+                break
 
-            exname = f'{exname}[{equipment}]'
+        # 3. Display Name Compounded
+        exname = exname + (f'[{equipment}]' if equipment else '')
 
         restransform[len(restransform):] = [(date, exname, *re.split(r'\s+', exrecord.strip()))]
     elif raw.startswith('##'):
