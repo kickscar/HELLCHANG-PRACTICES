@@ -45,13 +45,21 @@ for raw in rawdata:
         exname = exname.strip().title()
 
         for exkey in exs_dict:
-            exdials = exs_dict[exkey]['dialects']
+            exdials = exs_dict[exkey]['dialects'] if 'dialects' in exs_dict[exkey] else []
             if exname in exdials:
                 exname = exkey
                 break
 
         # 2-2. equipment
-        equipment = (equipment if equipment else (exs_dict[exname]['default-equipment'] if exs_dict[exname]['default-equipment'] else '')).strip().title()
+        if exname in exs_dict and 'equipment-dialects' in exs_dict[exname] and equipment in exs_dict[exname]['equipment-dialects']:
+            equipment = exs_dict[exname]['default-equipment']
+
+        if equipment is None and exname in exs_dict and 'default-equipment' in exs_dict[exname]:
+            equipment = exs_dict[exname]['default-equipment'] if exs_dict[exname]['default-equipment'] else ''
+
+        if equipment:
+            equipment = equipment.strip().title()
+
         for eqptdials_key in eqptdials_dict:
             if equipment in eqptdials_dict[eqptdials_key]:
                 equipment = eqptdials_key
