@@ -35,5 +35,14 @@
 #### 7.Reverse Cable Cross-Over\[Cable\]: 5kg 15reps 5sets
 #### 8.Hanging Leg Raises\[Captain's Chair\]: 20reps 5sets
 
+## 2022/10/01
+#### 1.Plank: 1mins 3reps
+#### 2.Power Leg Press\[Machine\]: 80kg 15reps 4sets
+#### 3.Daedlift\[Barbell\]: 40kg 15reps 4sets
+#### 4.Hip Abduction\[Machine\]: 65kg 15reps 4sets
+#### 5.Split Squat\[Smith Machine\]: 30kg 15reps 4sets
+#### 6.Lying Leg Curls\[Machine\]: 30kg 15reps 4sets
+#### 7.Hanging Leg Raises\[Captain's Chair\]: 20reps 5sets
+
 ---
 <img src='../_resources/__056.png' width='400px' />
