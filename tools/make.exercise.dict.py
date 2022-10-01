@@ -53,6 +53,30 @@ exercisedict = {
             "muscle-groups": ("Quardriceps Femoris", "Gluteus Maximus"),
             "record-type": ("Repetition", "Set")
         },
+        "Deadlift": {
+            "dialects": ["Daedlift"],
+            "body-groups": "Legs",
+            "muscle-groups": ("Quadriceps",),
+            "record-type": ("Weight", "Repetition", "Set")
+        },
+        "Long Pull Row": {
+            "dialects": ["Low Pulley", "Low Row", "Seated Low Row"],
+            "body-groups": "Legs",
+            "muscle-groups": ("Quardriceps Femoris",),
+            "record-type": ("Weight", "Repetition", "Set")
+        },
+        "Incline Bench Press": {
+            "dialects": ["Incline Chest Press"],
+            "body-groups": "Legs",
+            "muscle-groups": ("Quardriceps Femoris",),
+            "record-type": ("Weight", "Repetition", "Set")
+        },
+        "One Arm Bent Over Row": {
+            "dialects": ["One Arm Dumbbell Row"],
+            "body-groups": "Legs",
+            "muscle-groups": ("Quardriceps Femoris",),
+            "record-type": ("Weight", "Repetition", "Set")
+        },
         "Power Leg Press": {
             "dialects": ["Power Leg Pres"],
             "body-groups": "Legs",
@@ -62,6 +86,42 @@ exercisedict = {
         "Pull-Up": {
             "dialects": ["Pull Up", "Pullup"],
             "body-groups": "Back",
+            "muscle-groups": ("Quadriceps",),
+            "record-type": ("Weight", "Repetition", "Set")
+        },
+        "Push-Up": {
+            "dialects": ["Push Up"],
+            "body-groups": "Back",
+            "muscle-groups": ("Quadriceps",),
+            "record-type": ("Weight", "Repetition", "Set")
+        },
+        "Seated Chest Press": {
+            "dialects": ["Seated Chest Press(One Arm)"],
+            "body-groups": "Legs",
+            "muscle-groups": ("Quadriceps",),
+            "record-type": ("Weight", "Repetition", "Set")
+        },
+        "Seated Leg Press": {
+            "dialects": ["Seated One-Leg Press"],
+            "body-groups": "Legs",
+            "muscle-groups": ("Quadriceps",),
+            "record-type": ("Weight", "Repetition", "Set")
+        },
+        "Seated Row": {
+            "dialects": ["Seated Row(One Arm)"],
+            "body-groups": "Legs",
+            "muscle-groups": ("Quadriceps",),
+            "record-type": ("Weight", "Repetition", "Set")
+        },
+        "Shoulder Press": {
+            "dialects": ["Shouder Press"],
+            "body-groups": "Legs",
+            "muscle-groups": ("Quadriceps",),
+            "record-type": ("Weight", "Repetition", "Set")
+        },
+        "Triceps Pushdown": {
+            "dialects": ["Tricep Pushdown"],
+            "body-groups": "Legs",
             "muscle-groups": ("Quadriceps",),
             "record-type": ("Weight", "Repetition", "Set")
         }

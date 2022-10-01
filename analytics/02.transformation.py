@@ -38,11 +38,12 @@ for raw in rawdata:
 
         # 2. normalize exercise name with equipment
         exname = re.sub(r'[\d+\\.]', '', exname).strip()
-        pttrmatch = re.compile(r'([a-zA-Z\s\',]+)\s*\[([a-zA-Z\s\',]+)\]').match(exname)
+        pttrmatch = re.compile(r'([a-zA-Z\s\',()\-]+)\s*\[([a-zA-Z\s\',]+)\]').match(exname)
         exname, equipment = (exname, None) if pttrmatch is None else pttrmatch.groups()
 
         # 2-1. name
         exname = exname.strip().title()
+
         for exkey in exs_dict:
             exdials = exs_dict[exkey]['dialects']
             if exname in exdials:
