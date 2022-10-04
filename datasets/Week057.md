@@ -6,7 +6,12 @@
 #### 5.Seated Chest Press\[Machine\]: 40kg 15reps 5sets
 #### 6.Hanging Leg Raises\[Captain's Chair\]: 20reps 5sets
 
-
+## 2022/10/04
+#### 1.Straight Arm Pulldown\[Cable\]: 25kg 15reps 5sets
+#### 2.One Arm Seated Row\[Machine\]: 20kg 15reps 5stes
+#### 3.Assisted Pull-Up\[Machine\]: -25kg 15reps 5sets
+#### 4.Long Pull Row\[Cable\]: 35kg 15reps 5sets
+#### 5.Bent Over Row\[Barbell\]: 30kg 15reps 5sets
 
 ---
 <img src='../_resources/__057.png' width='400px' />
