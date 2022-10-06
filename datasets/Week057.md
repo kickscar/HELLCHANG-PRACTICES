@@ -13,5 +13,15 @@
 #### 4.Long Pull Row\[Cable\]: 35kg 15reps 5sets
 #### 5.Bent Over Row\[Barbell\]: 30kg 15reps 5sets
 
+## 2022/10/05
+#### 1.Plank: 1mins 3reps
+#### 2.Side Lateral Raise\[Dumbbell\]: 5kg 15reps 5sets
+#### 3.Reverse Pec Deck Fly\[Pec Deck Machine\]: 30kg 15reps 5sets
+#### 4.Arnold Press\[Dumbbell\]: 12kg 15reps 5sets
+#### 5.Military Press\[Smith Machine\]: 40kg 15reps 5sets
+#### 6.Reverse Cable Cross-Over\[Cable\]: 5kg 15reps 5sets
+#### 7.Upright Row\[EZ Curl Bar\]: 15kg 15reps 5sets
+#### 8.Hanging Leg Raises\[Captain's Chair\]: 20reps 5sets
+
 ---
 <img src='../_resources/__057.png' width='400px' />
