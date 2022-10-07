@@ -23,5 +23,23 @@
 #### 7.Upright Row\[EZ Curl Bar\]: 15kg 15reps 5sets
 #### 8.Hanging Leg Raises\[Captain's Chair\]: 20reps 5sets
 
+## 2022/10/06
+#### 1.Plank: 1mins 3reps
+#### 2.Power Leg Press\[Machine\]: 80kg 15reps 4sets
+#### 2.Daedlift\[Barbell\]: 40kg 15reps 4sets
+#### 4.Lying Leg Curls\[Machine\]: 35kg 15reps 4sets
+#### 5.Hip Abduction\[Machine\]: 65kg 15reps 4sets
+#### 6.Split Squat\[Smith Machine\]: 30kg 15reps 4sets
+#### 7.Hanging Leg Raises\[Captain's Chair\]: 20reps 5sets
+
+## 2022/10/07
+#### 1.Straight Arm Pulldown\[Cable\]: 30kg 12reps 4sets
+#### 2.Assisted Pull-Up\[Machine\]: -20kg 12reps 4sets
+#### 3.Long Pull Row\[Cable\]: 35kg 12reps 4sets
+#### 4.Bent Over Row\[Dumbbell\]: 12kg 12reps 4sets
+#### 5.Lat Pulldown\[Machine\]: 35kg 12reps 4sets
+#### 6.Back Extension: 12reps 4sets
+#### 7.Hanging Leg Raises\[Captain's Chair\]: 20reps 5sets
+
 ---
 <img src='../_resources/__057.png' width='400px' />
