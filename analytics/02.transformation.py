@@ -51,11 +51,10 @@ for raw in rawdata:
                 break
 
         # 2-2. equipment
-        if exname in exs_dict and 'equipment-dialects' in exs_dict[exname] and equipment in exs_dict[exname]['equipment-dialects']:
-            equipment = exs_dict[exname]['default-equipment']
-
-        if equipment is None and exname in exs_dict and 'default-equipment' in exs_dict[exname]:
-            equipment = exs_dict[exname]['default-equipment'] if exs_dict[exname]['default-equipment'] else ''
+        if exname in exs_dict and 'default-equipment' in exs_dict[exname]:
+            if equipment or \
+                    ('equipment-dialects' in exs_dict[exname] and equipment in exs_dict[exname]['equipment-dialects']):
+                equipment = exs_dict[exname]['default-equipment']
 
         if equipment:
             equipment = equipment.strip().title()
