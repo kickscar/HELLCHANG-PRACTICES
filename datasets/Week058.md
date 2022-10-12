@@ -7,5 +7,13 @@
 #### 6.Upright Row\[EZ Curl Bar\]: 15kg 15reps 4sets
 #### 7.Shoulder Press\[Machine\]: 30kg 15reps 4sets
 
+## 2022/10/12
+#### 1.Daedlift\[Barbell\]: 40kg 15reps 4sets
+#### 2.Lying Leg Curls\[Machine\]: 35kg 15reps 4sets
+#### 3.Hip Abduction\[Machine\]: 65kg 15reps 4sets
+#### 4.Split Squat\[Smith Machine\]: 30kg 15reps 4sets
+#### 5.Goblet Squat\[Kettlebell\]: 30kg 15reps 4sets
+
 ---
+
 <img src='../_resources/__058.png' width='400px' />
