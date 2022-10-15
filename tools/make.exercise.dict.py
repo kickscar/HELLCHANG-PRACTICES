@@ -16,7 +16,7 @@ def main():
 
 exercisedict = {
     "equipment-dialects": {
-        "Dumbbell": [],
+        "Dumbbell": ["Dumbbel"],
         "Machine": ["Machin"],
         "Smith Machine": ["Machine, Smith"],
         "EZ Curl Bar": ["Ez Bar", "Ezbar", "Ez Curl Bar"],
