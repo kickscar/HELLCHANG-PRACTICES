@@ -40,7 +40,7 @@
 ## 2022/10/16
 #### 1.Plank: 1mins 3reps
 #### 2.Power Leg Press\[Machine\]: 80kg 15reps 5sets
-#### 2.Daedlift\[Barbell\]: 50kg 12reps 5sets
+#### 3.Daedlift\[Barbell\]: 50kg 12reps 5sets
 #### 4.Lying Leg Curls\[Machine\]: 35kg 15reps 5sets
 #### 5.Hip Abduction\[Machine\]: 65kg 15reps 5sets
 #### 6.Goblet Squat\[Kettlebell\]: 20kg 15reps 4sets
