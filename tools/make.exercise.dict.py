@@ -30,7 +30,7 @@ exercisedict = {
             "record-type": ("Weight", "Repetition", "Set")
         },
         "Assisted Dips": {
-            "dialects": ["Assisted Dip"],
+            "dilects": ["Assisted Dip"],
             "body-group": "Chest",
             "muscle-groups": ("Pectorialis Major",),
             "record-type": ("Weight", "Repetition", "Set")
