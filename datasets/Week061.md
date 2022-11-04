@@ -14,6 +14,13 @@
 #### 5.Seated Bent Over Lateral Raise\[Dumbbell\]: 6kg 15reps 5sets
 #### 6.Upright Row\[EZ Curl Bar\]: 15kg 15reps 4sets
 
+## 2022/11/02
+#### 1.Power Leg Press\[Machine\]: 80kg 15reps 5sets
+#### 2.Daedlift\[Barbell\]: 50kg 12reps 5sets
+#### 3.Hip Abduction\[Machine\]: 65kg 15reps 5sets
+#### 4.Split Squat\[Smith Machine\]: 35kg 15reps 5sets
+#### 5.Lying Leg Curls\[Machine\]: 40kg 15reps 5sets
+
 ---
 
 <img src='../_resources/__061.png' width='400px' />
