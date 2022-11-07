@@ -21,6 +21,22 @@
 #### 4.Split Squat\[Smith Machine\]: 35kg 15reps 5sets
 #### 5.Lying Leg Curls\[Machine\]: 40kg 15reps 5sets
 
+## 2022/11/04
+#### 1.Flat Bench Press\[Barbell\]: 50kg 12reps 5sets
+#### 2.Assisted Dips\[Machine\]: -20kg 12reps 5sets
+#### 3.Incline Bench Press\[Barbell\]: 40kg 12reps 5sets
+#### 4.Incline Bench Press\[Dumbbell\]: 12kg 15reps 5sets
+#### 5.Chest Fly\[Pec Deck Machine\]: 35kg 12reps 5sets
+#### 6.Cable Cross-Over\[Cable\]: 15kg 15reps 5sets
+
+## 2022/11/06
+#### 1.One Leg Deadlift\[Kettlebell\]: 5kg 12reps 5sets
+#### 2.Assisted Pull-Up\[Machine\]: -30kg 12reps 5sets
+#### 3.Lat Pulldown\[Machine\]: 35kg 12reps 5sets
+#### 4.Seated Row\[Machine\]: 35kg 12reps 5sets
+#### 5.Bent Over Row\[Barbell\]: 40kg 12reps 5sets
+#### 6.Straight Arm Pulldown\[Cable\]: 25kg 15reps 5sets
+
 ---
 
 <img src='../_resources/__061.png' width='400px' />
