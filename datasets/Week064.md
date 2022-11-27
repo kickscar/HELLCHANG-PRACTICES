@@ -14,6 +14,20 @@
 #### 5.Upright Row\[EZ Curl Bar\]: 15kg 15reps 5sets
 #### 6.Behind The Neck Press\[Smith Machine\]: 30kg 15reps 4sets
 
+# 2022/11/25
+#### 1.Power Leg Press\[Machine\]: 80kg 12reps 5sets
+#### 2.Daedlift\[Barbell\]: 40kg 12reps 5sets
+#### 3.Hip Abduction\[Machine\]: 65kg 15reps 5sets
+#### 4.Split Squat\[Smith Machine\]: 30kg 15reps 5sets
+#### 5.Lying Leg Curls\[Machine\]: 40kg 15reps 5sets
+
+## 2022/11/26
+#### 1.Flat Bench Press\[Barbell\]: 45kg 15reps 5sets
+#### 2.Assisted Dips\[Machine\]: -20kg 15reps 5sets
+#### 3.Incline Bench Press\[Dumbbell\]: 12kg 15reps 5sets
+#### 4.Chest Fly\[Pec Deck Machine\]: 35kg 12reps 5sets
+#### 5.Seated Chest Press\[Machine\]: 40kg 12reps 4sets
+
 ---
 
 <img src='../_resources/__064.png' width='400px' />
