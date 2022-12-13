@@ -1,4 +1,4 @@
-## 2022/12/06
+## 2022/12/13
 #### 1.Flat Bench Press\[Barbell\]: 50kg 12reps 5sets
 #### 2.Assisted Dips\[Machine\]: -20kg 12reps 5sets
 #### 3.Incline Bench Press\[Machine\]: 40kg 12reps 5sets
