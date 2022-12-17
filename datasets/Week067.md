@@ -28,6 +28,13 @@
 #### 4.Split Squat\[Smith Machine\]: 30kg 15reps 5sets
 #### 5.Lying Leg Curls\[Machine\]: 50kg 15reps 5sets
 
+## 2022/12/17
+#### 1.Flat Bench Press\[Barbell\]: 45kg 15reps 5sets
+#### 2.Dips: 10reps 4sets
+#### 3.Incline Bench Press\[Machine\]: 40kg 15reps 5sets
+#### 4.Incline Bench Press\[Dumbbell\]: 12kg 15reps 5sets
+#### 5.Chest Fly\[Pec Deck Machine\]: 35kg 12reps 5sets
+
 ---
 
 <img src='../_resources/__067.png' width='400px' />
