@@ -58,4 +58,4 @@
 #### 9.Lying Leg Curls\[Machine\]: 25kg 15reps 5sets
 
 ---
-<img src='../_resources/__016.png' width='400px' />
+<img src='../_resources/__016.jpg' width='400px' />
