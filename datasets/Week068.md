@@ -28,6 +28,15 @@
 #### 4.Incline Bench Press\[Dumbbell\]: 14kg 12reps 5sets
 #### 5.Chest Fly\[Pec Deck Machine\]: 40kg 12reps 5sets
 
+## 2022/12/25
+#### 1.Assisted Pull-Up\[Machine\]: -30kg 12reps 5sets
+#### 2.Lat Pulldown\[Machine\]: 35kg 12reps 5sets
+#### 3.Seated Row\[Machine\]: 35kg 12reps 5sets
+#### 4.Bent Over Row\[Barbell\]: 35kg 12reps 5sets
+#### 5.Straight Arm Pulldown\[Cable\]: 25kg 12reps 5sets
+#### 6.Long Pull Row\[Cable\]: 30kg 12reps 5sets
+#### 7.One Arm Low Row\[Machine\]: 10kg 12reps 5sets
+
 ---
 
 <img src='../_resources/__068.png' width='400px' />
