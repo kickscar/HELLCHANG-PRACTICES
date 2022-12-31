@@ -13,7 +13,7 @@
 #### 4.Running: 30mins 5km
 
 ## 2022/12/28
-#### 1.Assisted Dips\[Machine\]: -15kg 10reps 5sets
+#### 1.Assisted Dips\[Machine\]: -15kg 10reps 10sets
 #### 2.Dips: 10reps 5sets
 #### 3.Incline Bench Press\[Machine\]: 60kg 10reps 10sets
 #### 4.Running: 30mins 5km
