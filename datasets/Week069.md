@@ -23,6 +23,12 @@
 #### 2.Long Pull Row\[Cable\]: 35kg 10reps 10sets
 #### 3.Running: 30mins 5km
 
+## 2022/12/31
+#### 1.Side Lateral Raise\[Dumbbell\]: 6kg 10reps 10sets
+#### 2.Reverse Pec Deck Fly\[Pec Deck Machine\]: 35kg 10reps 10sets
+#### 3.Military Press\[Smith Machine\]: 45kg 10reps 10sets
+#### 4.Running: 30mins 5km
+
 ---
 
 <img src='../_resources/__069.png' width='400px' />
