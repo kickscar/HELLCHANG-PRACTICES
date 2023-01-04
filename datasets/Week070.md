@@ -8,6 +8,11 @@
 #### 2.Chest Fly\[Pec Deck Machine\]: 40kg 10reps 10sets
 #### 3.Running: 30mins 5km
 
+## 2022/01/04
+#### 1.Assisted Pull-Up\[Machine\]: -20kg 10reps 10sets
+#### 2.Lat Pulldown\[Machine\]: 35kg 10reps 10sets
+#### 3.Running: 30mins 5km
+
 ---
 
 <img src='../_resources/__070.png' width='400px' />
