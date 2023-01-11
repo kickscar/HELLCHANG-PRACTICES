@@ -4,4 +4,10 @@
 #### 3.Lying Leg Curls\[Machine\]: 35kg 10reps 10sets
 #### 4.Leg Extension\[Machine\]: 30kg 10reps 10sets
 
+## 2023/01/10
+#### 1.Assisted Dips\[Machine\]: -15kg 10reps 10sets
+#### 2.Chest Fly\[Pec Deck Machine\]: 40kg 10reps 10sets
+#### 3.Incline Bench Press\[Machine\]: 40kg 10reps 10sets
+#### 4.Seated Chest Press\[Machine\]: 40kg 10reps 10sets
+
 <img src='../_resources/__071.png' width='400px' />
