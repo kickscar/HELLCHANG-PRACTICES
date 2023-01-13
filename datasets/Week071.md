@@ -16,4 +16,10 @@
 #### 3.Reverse Pec Deck Fly\[Pec Deck Machine\]: 35kg 10reps 10sets
 #### 4.Shoulder Press\[Machine\]: 35kg 10reps 10sets
 
+## 2023/01/12
+#### 1.Assisted Pull-Up\[Machine\]: -20kg 10reps 10sets
+#### 2.Straight Arm Pulldown\[Cable\]: 25kg 10reps 10sets
+#### 3.Seated Row\[Machine\]: 35kg 10reps 10sets
+#### 4.Long Pull Row\[Cable\]: 35kg 10reps 10sets
+
 <img src='../_resources/__071.png' width='400px' />
