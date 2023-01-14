@@ -22,4 +22,16 @@
 #### 3.Seated Row\[Machine\]: 35kg 10reps 10sets
 #### 4.Long Pull Row\[Cable\]: 35kg 10reps 10sets
 
+## 2023/01/13
+#### 1.Power Press\[Machine\]: 80kg 10reps 10sets
+#### 2.Leg Extension\[Machine\]: 40kg 10reps 10sets
+#### 3.Hip Adduction\[Machine\]: 40kg 10reps 10sets
+#### 4.Running: 30mins 5km
+
+## 2023/01/14
+#### 1.Assisted Dips\[Machine\]: -10kg 10reps 10sets
+#### 2.Chest Fly\[Pec Deck Machine\]: 40kg 10reps 10sets
+#### 3.Flat Bench Press\[Barbell\]: 40kg 10reps 10sets
+#### 4.Incline Bench Press\[Machine\]: 60kg 10reps 10sets
+
 <img src='../_resources/__071.png' width='400px' />
