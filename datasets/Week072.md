@@ -11,4 +11,12 @@
 #### 4.Bent Over Row\[Barbell\]: 30kg 15reps 10sets
 #### 5.Running: 30mins 5km
 
+## 2023/01/18
+#### 1.Lying Leg Curls\[Machine\]: 30kg 15reps 5sets
+#### 2.Leg Extension\[Machine\]: 30kg 15reps 5sets
+#### 3.Daedlift\[Barbell\]: 40kg 10reps 10sets
+#### 4.Hip Abduction\[Machine\]: 45kg 15reps 10sets
+#### 5.Hip Adduction\[Machine\]: 60kg 15reps 10sets
+
+
 <img src='../_resources/__072.png' width='400px' />
