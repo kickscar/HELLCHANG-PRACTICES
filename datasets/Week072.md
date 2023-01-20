@@ -18,7 +18,7 @@
 #### 4.Hip Abduction\[Machine\]: 45kg 15reps 10sets
 #### 5.Hip Adduction\[Machine\]: 60kg 15reps 10sets
 
-## 2023/01/19
+## 2023/01/20
 #### 1.Push-Up: 20reps 5sets
 #### 2.Assisted Dips\[Machine\]: -15kg 10reps 10sets
 #### 3.Chest Fly\[Pec Deck Machine\]: 35kg 15reps 5sets
