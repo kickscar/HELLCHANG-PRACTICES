@@ -4,5 +4,10 @@
 #### 3.Hip Adduction\[Machine\]: 65kg 15reps 5sets
 #### 4.Running: 30mins 5km
 
+## 2023/01/25
+#### 1.Leg Extension\[Machine\]: 30kg 12reps 10sets
+#### 2.Hip Abduction\[Machine\]: 45kg 12reps 10sets
+#### 3.Flat Bench Press\[Barbell\]: 45kg 12reps 10sets
+#### 4.Incline Bench Press\[Machine\]: 50kg 12reps 10sets
 
 <img src='../_resources/__073.png' width='400px' />
