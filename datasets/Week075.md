@@ -16,4 +16,10 @@
 #### 3.Lat Pulldown\[Machine\]: 35kg 12reps 10sets
 #### 4.Seated Row\[Machine\]: 35kg 12reps 10sets
 
+## 2023/02/10
+#### 1.Side Lateral Raise\[Dumbbell\]: 6kg 20reps 10sets
+#### 2.Lat Pulldown\[Machine\]: 35kg 12reps 10sets
+#### 3.Reverse Pec Deck Fly\[Pec Deck Machine\]: 35kg 12reps 10sets
+#### 4.Arnold Press\[Dumbbell\]: 10kg 12reps 10sets
+
 <img src='../_resources/__075.png' width='400px' />
