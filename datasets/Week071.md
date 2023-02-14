@@ -23,7 +23,7 @@
 #### 4.Long Pull Row\[Cable\]: 35kg 10reps 10sets
 
 ## 2023/01/13
-#### 1.Power Press\[Machine\]: 80kg 10reps 10sets
+#### 1.Power Leg Press\[Machine\]: 80kg 10reps 10sets
 #### 2.Leg Extension\[Machine\]: 40kg 10reps 10sets
 #### 3.Hip Adduction\[Machine\]: 40kg 10reps 10sets
 #### 4.Running: 30mins 5km
