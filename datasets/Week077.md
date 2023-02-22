@@ -5,6 +5,11 @@
 #### 4.Incline Bench Press\[Machine\]: 40kg 12reps 10sets
 #### 5.Running: 30mins 5km
 
-
+## 2023/02/22
+#### 1.Long Pull Row\[Cable\]: 30kg 15reps 5sets
+#### 2.Assisted Pull-Up\[Machine\]: -20kg 12reps 10sets
+#### 3.Lat Pulldown\[Machine\]: 35kg 12reps 10sets
+#### 4.Seated Row\[Machine\]: 35kg 12reps 10sets
+#### 5.Running: 30mins 5km
 
 <img src='../_resources/__077.png' width='400px' />
