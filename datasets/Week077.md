@@ -12,4 +12,10 @@
 #### 4.Seated Row\[Machine\]: 35kg 12reps 10sets
 #### 5.Running: 30mins 5km
 
+## 2023/02/23
+#### 1.Side Lateral Raise\[Dumbbell\]: 6kg 20reps 5sets
+#### 2.Reverse Pec Deck Fly\[Pec Deck Machine\]: 35kg 12reps 10sets
+#### 3.Shoulder Press\[Machine\]: 35kg 12reps 10sets
+#### 4.Running: 30mins 5km
+
 <img src='../_resources/__077.png' width='400px' />
