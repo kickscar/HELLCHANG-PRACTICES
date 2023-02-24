@@ -18,4 +18,11 @@
 #### 3.Shoulder Press\[Machine\]: 35kg 12reps 10sets
 #### 4.Running: 30mins 5km
 
+## 2023/02/24
+#### 1.Daedlift\[Barbell\]: 40kg 10reps 10sets
+#### 2.Lying Leg Curls\[Machine\]: 35kg 12reps 10sets
+#### 3.Power Leg Press\[Machine\]: 40kg 12reps 10sets
+#### 4.Running: 30mins 5km
+
+
 <img src='../_resources/__077.png' width='400px' />
