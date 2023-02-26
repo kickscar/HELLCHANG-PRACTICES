@@ -7,7 +7,7 @@
 ## 2023/02/14
 #### 1.Assisted Dips\[Machine\]: -15kg 12reps 10sets
 #### 2.Chest Fly\[Pec Deck Machine\]: 35kg 12reps 10sets
-#### 4.Incline Bench Press\[Machine\]: 45kg 12reps 10sets
+#### 3.Incline Bench Press\[Machine\]: 45kg 12reps 10sets
 
 ## 2023/02/15
 #### 1.Assisted Pull-Up\[Machine\]: -20kg 12reps 10sets
