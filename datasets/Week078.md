@@ -18,4 +18,10 @@
 #### 4.Lying Leg Curls\[Machine\]: 35kg 12reps 9sets
 #### 5.Hack Squat\[Machine\]: 20kg 12reps 5sets
 
+## 2023/03/02
+#### 1.Assisted Dips\[Machine\]: -15kg 12reps 9sets
+#### 2.Chest Fly\[Pec Deck Machine\]: 40kg 12reps 9sets
+#### 3.Incline Bench Press\[Machine\]: 50kg 12reps 9sets
+#### 4.Running: 30mins 5km
+
 <img src='../_resources/__078.png' width='400px' />
