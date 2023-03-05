@@ -34,7 +34,7 @@
 ## 2023/03/04
 #### 1.Side Lateral Raise\[Dumbbell\]: 6kg 15reps 9sets
 #### 2.Reverse Pec Deck Fly\[Pec Deck Machine\]: 40kg 12reps 9sets
-#### 3.Arnold Press\[Dumbbel\]: 10kg 12reps 9sets
+#### 3.Arnold Press\[Dumbbell\]: 10kg 12reps 9sets
 #### 4.Shoulder Press\[Machine\]: 40kg 12reps 9sets
 #### 5.Hanging Leg Raise\[Captain'S Chair\]: 15reps 10sets
 
