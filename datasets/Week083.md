@@ -20,4 +20,12 @@
 #### 5.Leg Extension\[Machine\]: 45kg 10reps 6sets
 #### 6.Hip Adduction\[Machine\]: 55kg 10reps 6sets
 
+## 2023/04/06
+#### 1.Dips: 10reps 6sets
+#### 2.Chest Fly\[Pec Deck Machine\]: 45kg 10reps 6sets
+#### 3.Incline Bench Press\[Machine\]: 60kg 10reps 6sets
+#### 4.Flat Bench Press\[Barbell\]: 40kg 10reps 6sets
+#### 5.Side Lateral Raise\[Dumbbell\]: 6kg 15reps 6sets
+#### 6.Shoulder Press\[Machine\]: 45kg 10reps 6sets
+
 <img src='../_resources/__083.png' width='400px' />
