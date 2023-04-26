@@ -22,7 +22,7 @@
 #### 3.Lat Pulldown\[Machine\]: 40kg 10reps 6sets
 #### 4.Seated Row\[Machine\]: 40kg 10reps 6set
 
-## 2023/04/20
+## 2023/04/21
 #### 1.Side Lateral Raise\[Dumbbell\]: 8kg 10reps 6sets
 #### 2.Reverse Pec Deck Fly\[Pec Deck Machine\]: 40kg 10reps 6sets
 #### 3.Shoulder Press\[Machine\]: 45kg 10reps 6sets
