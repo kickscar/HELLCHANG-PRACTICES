@@ -16,6 +16,17 @@
 #### 6.One Leg Deadlift\[Kettlebell\]: 5kg 10reps 6sets
 #### 7.AB Rollout\[AB Wheel\]: 20reps 6sets
 
+## 2023/04/26
+#### 1.Side Lateral Raise\[Dumbbell\]: 8kg 15reps 10sets
+#### 2.Shoulder Press\[Machine\]: 40kg 10reps 10sets
+#### 3.Hack Squat\[Machine\]: 40kg 10reps 10sets
+#### 4.Power Leg Press\[Machine\]: 80kg 10reps 6sets
+#### 5.AB Rollout\[AB Wheel\]: 20reps 6sets
 
+## 2023/04/27
+#### 1.Dips: 10reps 10sets
+#### 2.Seated Chest Press\[Machine\]: 40kg 10reps 10sets
+#### 3.Running: 30mins 5km
+#### 4.AB Rollout\[AB Wheel\]: 20reps 6sets
 
 <img src='../_resources/__086.png' width='400px' />
