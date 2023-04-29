@@ -17,7 +17,7 @@
 #### 7.AB Rollout\[AB Wheel\]: 20reps 6sets
 
 ## 2023/04/26
-#### 1.Side Lateral Raise\[Dumbbell\]: 8kg 15reps 10sets
+#### 1.Side Lateral Raise\[Dumbbell\]: 6kg 15reps 10sets
 #### 2.Shoulder Press\[Machine\]: 40kg 10reps 10sets
 #### 3.Hack Squat\[Machine\]: 40kg 10reps 10sets
 #### 4.Power Leg Press\[Machine\]: 80kg 10reps 6sets
@@ -28,5 +28,20 @@
 #### 2.Seated Chest Press\[Machine\]: 40kg 10reps 10sets
 #### 3.Running: 30mins 5km
 #### 4.AB Rollout\[AB Wheel\]: 20reps 6sets
+
+## 2023/04/28
+#### 1.Assisted Pull-Up\[Machine\]: -15kg 10reps 6sets
+#### 2.Long Pull Row\[Cable\]: 35kg 10reps 6sets
+#### 3.Lat Pulldown\[Machine\]: 40kg 10reps 6sets
+#### 4.Deadlift\[Barbell\]: 50kg 10reps 6set
+#### 5.One Leg Deadlift\[Kettlebell\]: 5kg 10reps 6sets
+#### 6.AB Rollout\[AB Wheel\]: 15reps 6sets
+
+## 2023/04/29
+#### 1.Side Lateral Raise\[Dumbbell\]: 6kg 15reps 10sets
+#### 2.Shoulder Press\[Machine\]: 40kg 10reps 10sets
+#### 3.Reverse Pec Deck Fly\[Pec Deck Machine\]: 40kg 10reps 6sets
+#### 4.Running: 30mins 5km
+#### 5.AB Rollout\[AB Wheel\]: 20reps 6sets
 
 <img src='../_resources/__086.png' width='400px' />
