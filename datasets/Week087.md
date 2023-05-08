@@ -19,11 +19,11 @@
 #### 4.Leg Extension\[Machine\]: 40kg 10reps 10sets
 #### 5.AB Rollout\[AB Wheel\]: 30reps 5sets
 
-## 2023/05/05
+## 2023/05/04
 #### 1.Deadlift\[Barbell\]: 50kg 10reps 10set
 #### 2.Lying Leg Curls\[Machine\]: 45kg 10reps 10sets
-#### 3.Hip Abduction\[Machine\]: 50kg 10reps 6sets
-#### 4.Hip Adduction\[Machine\]: 75kg 10reps 6sets
+#### 3.Hip Abduction\[Machine\]: 50kg 15reps 6sets
+#### 4.Hip Adduction\[Machine\]: 75kg 15reps 6sets
 #### 5.AB Rollout\[AB Wheel\]: 30reps 5sets
 
 ## 2023/05/05
