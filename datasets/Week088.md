@@ -6,4 +6,12 @@
 #### 5.Running: 30mins 5km
 #### 6.AB Rollout\[AB Wheel\]: 30reps 5sets
 
+## 2023/05/10
+#### 1.Dips: 10reps 10sets
+#### 2.Incline Bench Press\[Machine\]: 60kg 10reps 10sets
+#### 3.Chest Fly\[Pec Deck Machine\]: 45kg 10reps 10sets
+#### 4.Hip Abduction\[Machine\]: 50kg 15reps 6sets
+#### 5.Running: 30mins 5km
+#### 6.AB Rollout\[AB Wheel\]: 30reps 5sets
+
 <img src='../_resources/__088.png' width='400px' />
