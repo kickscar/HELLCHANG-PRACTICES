@@ -1,4 +1,4 @@
-## 2023/05/117
+## 2023/05/17
 #### 1.Dips: 10reps 10sets
 #### 2.Incline Bench Press\[Machine\]: 60kg 10reps 6sets
 #### 3.Chest Fly\[Pec Deck Machine\]: 45kg 10reps 6sets
