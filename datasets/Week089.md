@@ -23,4 +23,12 @@
 #### 5.Anold Press\[Dumbbell\]: 10kg 10reps 6sets
 #### 6.Running: 30mins 5km
 
+## 2023/05/20
+#### 1.Deadlift\[Barbell\]: 50kg 10reps 6set
+#### 2.Lying Leg Curls\[Machine\]: 45kg 10reps 6sets
+#### 3.Hack Squat\[Machine\]: 40kg 10reps 6sets
+#### 4.Leg Extension\[Machine\]: 40kg 10reps 6sets
+#### 5.Running: 30mins 5km
+#### 6.AB Rollout\[AB Wheel\]: 30reps 5sets
+
 <img src='../_resources/__089.png' width='400px' />
