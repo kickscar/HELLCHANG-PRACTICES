@@ -23,4 +23,12 @@
 #### 6.Running: 30mins 5km
 #### 7.AB Rollout\[AB Wheel\]: 30reps 5sets
 
+## 2023/05/27
+#### 1.One Leg Deadlift\[Kettlebell\]: 5kg 10reps 6sets
+#### 2.Lying Leg Curls\[Machine\]: 40kg 10reps 6sets
+#### 3.Hack Squat\[Machine\]: 40kg 10reps 6sets
+#### 4.Hip Adduction\[Machine\]: 75kg 15reps 5sets
+#### 5.Running: 30mins 5km
+#### 6.AB Rollout\[AB Wheel\]: 30reps 5sets
+
 <img src='../_resources/__090.png' width='400px' />
