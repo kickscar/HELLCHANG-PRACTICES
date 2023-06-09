@@ -18,7 +18,7 @@
 ## 2023/05/19
 #### 1.Side Lateral Raise\[Machine\]: 30kg 15reps 6sets
 #### 2.Reverse Pec Deck Fly\[Pec Deck Machine\]: 40kg 10reps 6sets
-#### 3.Military Press\[Dumbbell\]: 50kg 10reps 6sets
+#### 3.Military Press\[Smith Machine\]: 50kg 10reps 6sets
 #### 4.Shoulder Press\[Machine\]: 45kg 10reps 6sets
 #### 5.Anold Press\[Dumbbell\]: 10kg 10reps 6sets
 #### 6.Running: 30mins 5km
