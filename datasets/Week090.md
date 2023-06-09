@@ -18,7 +18,7 @@
 #### 1.One Leg Deadlift\[Kettlebell\]: 5kg 10reps 6sets
 #### 2.Side Lateral Raise\[Machine\]: 30kg 15reps 5sets
 #### 3.Reverse Pec Deck Fly\[Pec Deck Machine\]: 40kg 10reps 6sets
-#### 4.Military Press\[Dumbbell\]: 50kg 10reps 6sets
+#### 4.Military Press\[Smith Machine\]: 50kg 10reps 6sets
 #### 5.Deadlift\[Barbell\]: 50kg 10reps 6set
 #### 6.Running: 30mins 5km
 #### 7.AB Rollout\[AB Wheel\]: 30reps 5sets
