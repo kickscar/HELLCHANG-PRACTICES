@@ -20,7 +20,7 @@
 #### 3.Dips: 10reps 10sets
 #### 4.Running: 30mins 5km
 
-## 2023/07/14
+## 2023/07/16
 #### 1.One Leg Deadlift\[Kettlebell\]: 4kg 10reps 6sets
 #### 2.Lying Leg Curls\[Machine\]: 30kg 10reps 6sets
 #### 3.Deadlift\[Barbell\]: 50kg 10reps 6set
@@ -28,4 +28,4 @@
 #### 5.Power Leg Press\[Machine\]: 40kg 12reps 10sets
 #### 4.Running: 30mins 5km
 
-<img src='../_resources/__095.png' width='400px' />
+<img src='../_resources/__096.png' width='400px' />
