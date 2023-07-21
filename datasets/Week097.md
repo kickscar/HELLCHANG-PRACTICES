@@ -12,4 +12,9 @@
 #### 5.Military Press\[Smith Machine\]: 40kg 10reps 8sets
 #### 6.Running: 30mins 5km
 
+## 2023/07/20
+#### 1.Incline Bench Press\[Machine\]: 60kg 10reps 10sets
+#### 2.Dips: 10reps 10sets
+#### 3.Running: 30mins 5km
+
 <img src='../_resources/__097.png' width='400px' />
