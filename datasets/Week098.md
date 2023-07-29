@@ -18,4 +18,11 @@
 #### 4.Split Squat\[Smith Machine\]: 35kg 10reps 10sets
 #### 5.Running: 30mins 5km
 
+## 2023/07/29
+#### 1.One Leg Deadlift\[Dumbbell\]: 4kg 10reps 6sets
+#### 2.Leg Extension\[Machine\]: 35kg 10reps 10sets
+#### 3.Hip Abduction\[Machine\]: 50kg 15reps 5sets
+#### 4.Full Squat\[Smith Machine\]: 35kg 12reps 5sets
+#### 5.Running: 30mins 5km
+
 <img src='../_resources/__098.png' width='400px' />
