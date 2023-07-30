@@ -25,4 +25,10 @@
 #### 4.Full Squat\[Smith Machine\]: 35kg 12reps 5sets
 #### 5.Running: 30mins 5km
 
+## 2023/07/30
+#### 1.One Leg Deadlift\[Dumbbell\]: 4kg 15reps 5sets
+#### 2.Deadlift\[Barbell\]: 60kg 15reps 5set
+#### 3.Incline Bench Press\[Machine\]: 60kg 15reps 5sets
+#### 4.Split Squat\[Smith Machine\]: 40kg 15reps 5sets
+
 <img src='../_resources/__098.png' width='400px' />
