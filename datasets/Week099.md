@@ -20,4 +20,9 @@
 #### 4.Assisted Pull-Up\[Machine\]: -35kg 12reps 6sets
 #### 5.Running: 30mins 5km
 
+## 2023/08/11
+#### 1.Deadlift\[Barbell\]: 60kg 12reps 6set
+#### 2.Shoulder Press\[Machine\]: 35kg 15reps 6sets
+#### 3.#### 1.Dips: 10reps 6sets
+
 <img src='../_resources/__099.png' width='400px' />
