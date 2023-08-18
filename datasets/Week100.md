@@ -7,5 +7,11 @@
 #### 6.Hip Abduction\[Machine\]: 50kg 15reps 5sets
 #### 7.Running: 30mins 5km
 
+## 2023/08/17
+#### 1.Dips: 10reps 10sets
+#### 2.Incline Bench Press\[Machine\]: 60kg 12reps 5sets
+#### 3.Shoulder Press\[Machine\]: 35kg 15reps 5sets
+#### 4.Deadlift\[Barbell\]: 60kg 10reps 6set
+#### 5.Running: 30mins 5km
 
 <img src='../_resources/__100.png' width='400px' />
