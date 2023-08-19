@@ -14,4 +14,11 @@
 #### 4.Deadlift\[Barbell\]: 60kg 10reps 6set
 #### 5.Running: 30mins 5km
 
+## 2023/08/18
+#### 1.Power Leg Press\[Machine\]: 80kg 12reps 6sets
+#### 2.Bent Over Row\[Barbell\]: 40kg 12reps 6sets
+#### 3.Lying Leg Curls\[Machine\]: 40kg 12reps 6sets
+#### 4.Arnold Press\[Dumbbell\]: 10kg 12reps 6sets
+#### 5.Running: 30mins 5km
+
 <img src='../_resources/__100.png' width='400px' />
